@@ -1,14 +1,11 @@
-# Sciences physiques et chimiques
+# Classe de troisième – enseignement de sciences physiques et chimiques
 
-Documents [Voir le document S3](https://prof-johan-daza.github.io/general/3/S3.pdf) Deuxième
+## Première, deuxième et troisième semaines
 
-## Commands
+Première feuille d’exercices [Cliquez ici pour télécharger la première fuille d'exercices](https://prof-johan-daza.github.io/general/3/S3.pdf)
 
-
-
-## Project layout
+## Quatrième semaine
 
 
-
-## Using Emojis
+## Cinquième semaine
 
