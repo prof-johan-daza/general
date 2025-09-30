@@ -1,4 +1,4 @@
-# Classe de troisième 
+# Classe de troisième
 
 ## Première, deuxième et troisième semaines
 
