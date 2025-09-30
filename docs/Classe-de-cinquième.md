@@ -1,5 +1,3 @@
-# Classe de quatrième
+# Classe de cinquième
 
 ## Première, deuxième et troisième semaines
-
-## Quatrième semaine
