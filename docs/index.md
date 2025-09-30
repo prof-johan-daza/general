@@ -1,6 +1,6 @@
 # Sciences physiques et chimiques
 
-Documents [PDF](/docs/3/S3.pdf).
+Documents [PDF](/3/S3.pdf).
 
 ## Commands
 
