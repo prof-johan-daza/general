@@ -1,4 +1,2 @@
-# Site web
-Johan Daza 2025 - 2026
-## Objetctifs
-2025
+# Bonjour et bienvenue
+*J’ai créé ce site pour partager avec vous des ressources, des cours, des exercices et des documents qui vous aideront à mieux comprendre les sciences physiques et chiiques et à progresser à votre rythme.*
