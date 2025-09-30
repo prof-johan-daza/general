@@ -2,18 +2,26 @@
 
 ## Première, deuxième et troisième semaines
 
-!!! example "Phasellus posuere in sem ut cursus"
+!!! abstract "Cours"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
     
-    !!! example "Inner Note"
+    !!! tip "Feuille d'exercices"
 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
         nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
         massa, nec semper lorem quam in massa.
+
+        !!! success "Corrigé"
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+        nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+        massa, nec semper lorem quam in massa.
+
+
     
 ## Quatrième semaine
 
