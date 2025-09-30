@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Sciences physiques et chimiques
 
-For full documentatiodafn visit [PDF](/docs/3/S3.pdf).
+Documents [PDF](/docs/3/S3.pdf).
 
 ## Commands
 
