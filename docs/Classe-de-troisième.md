@@ -4,7 +4,7 @@
 
 !!! abstract "Cours"
 
-    [Cliquez ici pour télécharger les documents projetés lors du cous](https://prof-johan-daza.github.io/general/3/S3/Cours.pdf)
+    [Cliquez ici pour télécharger les documents projetés **lors du cours**](https://prof-johan-daza.github.io/general/3/S3/Cours.pdf)
     
     !!! tip "Feuille d'exercices"
 
