@@ -12,4 +12,4 @@
 
         !!! success "Corrigé"
 
-            [*Cliquez ici pour télécharger la feuille d'exercices ***corrigé****](https://prof-johan-daza.github.io/general/3/S3/S3_Corrigé.pdf)
+            [*Cliquez ici pour télécharger la feuille d'exercices ***corrigé**](https://prof-johan-daza.github.io/general/3/S3/S3_Corrigé.pdf)
