@@ -10,6 +10,6 @@
 
         [Cliquez ici pour télécharger la **première fuille d'exercices**](https://prof-johan-daza.github.io/general/3/S3/S3.pdf)
 
-        !!! success "Corrigé"
+        !!! note "Devoir maison"
 
-            [Cliquez ici pour télécharger la feuille d'exercices **corrigé**](https://prof-johan-daza.github.io/general/3/S3/S3_Corrigé.pdf)
+            [Cliquez ici pour télécharger le devoir maison **corrigé**](https://prof-johan-daza.github.io/general/3/S3/S3_Corrigé.docx)
