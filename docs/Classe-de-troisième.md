@@ -12,4 +12,4 @@
 
         !!! note "Devoir maison"
 
-            [Cliquez ici pour télécharger le devoir maison **corrigé**](https://prof-johan-daza.github.io/general/3/S3/S3_Corrigé.docx)
+            [Cliquez ici pour télécharger le devoir maison **corrigé**](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx)
