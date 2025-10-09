@@ -43,5 +43,11 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
-  
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jsdazaa/
+
 copyright: Copyright &copy; 2025-2026 Johan Daza
