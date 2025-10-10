@@ -58,4 +58,7 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<jsdazaa@gmail.com>
 
+extra_css:
+  - stylesheets/extra.css
+
 copyright: Copyright &copy; 2025-2026 Johan Daza
