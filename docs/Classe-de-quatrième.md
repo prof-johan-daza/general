@@ -19,7 +19,7 @@
 
                 
 
-## Septième semaines
+## Septième semaine
 
 !!! abstract "Cours"
 
