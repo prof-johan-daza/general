@@ -19,6 +19,22 @@
                 [Cliquez ici pour télécharger le **corrigé**](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
 
 
+## Septième semaine
+
+!!! abstract "Cours"
+
+       
+    !!! tip "Troisème feuille d'exercices"
+
+        [Cliquez ici pour télécharger la **troisième feuille**](https://prof-johan-daza.github.io/general/3/S7/S7.pdf)
+
+
+        !!! note "Devoir maison"
+
+            
+            !!! bug "Corrigé de la troisième feuille"
+
+
 
 
 
