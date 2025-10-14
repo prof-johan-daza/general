@@ -2,6 +2,23 @@
 
 ## Première, deuxième et troisième semaines
 
+##  Quatrième semaine
+
+!!! abstract "Cours"
+
+       
+    !!! tip "Deuxième feuille d'exercices"
+
+        [Cliquez ici pour télécharger la **deuxième feuille**](https://prof-johan-daza.github.io/general/4/S4/S4.pdf)
+
+        !!! note "Devoir maison"
+
+            
+
+            !!! bug "Corrigé de la deuxième feuille"
+
+                
+
 ## Septième semaines
 
 !!! abstract "Cours"
