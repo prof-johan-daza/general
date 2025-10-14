@@ -14,9 +14,9 @@
 
             [Cliquez ici pour télécharger le devoir maison à **corriger**](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx) 
 
-            !!! bug "Corrigé"
+            !!! bug "Corrigé de la première feuille"
 
-                Cliquez ici pour télécharger le **corriger**
+                Cliquez ici pour télécharger le **corrigé**
 
 
 
