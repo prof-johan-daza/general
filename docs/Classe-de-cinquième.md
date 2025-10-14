@@ -1,3 +1,20 @@
 # Classe de cinquième
 
 ## Première, deuxième et troisième semaines
+## Septième semaines
+
+!!! abstract "Cours"
+
+    Cours
+    
+    !!! tip "Feuille d'exercices"
+
+        [Cliquez ici pour télécharger la **troisième feuille**](https://prof-johan-daza.github.io/general/4/S7/S7.pdf)
+
+        !!! note "Devoir maison"
+
+            Devoir maison
+
+            !!! bug "Corrigé de la troisième feuille"
+
+                Corrigé
