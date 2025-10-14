@@ -33,16 +33,3 @@
 
             
             !!! bug "Corrigé de la troisième feuille"
-
-
-
-
-
-            
-            
-
-
-
-
-
-
