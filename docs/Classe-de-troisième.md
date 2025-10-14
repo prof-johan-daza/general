@@ -12,4 +12,12 @@
 
         !!! note "Devoir maison"
 
-            :octicons-download-16:{ .download }  [Cliquez ici pour télécharger le devoir maison à **corriger**](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx) :octicons-download-16:{ .download }  
+            [Cliquez ici pour télécharger le devoir maison à **corriger**](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx) 
+
+            !!! bug "Corrigé"
+
+            [Cliquez ici pour télécharger le **corriger**]
+
+
+
+
