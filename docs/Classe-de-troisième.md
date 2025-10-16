@@ -18,18 +18,48 @@
 
                 [Cliquez ici pour télécharger le **corrigé**](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
 
+## Quatrième et cinquième semaines
+
+!!! abstract "Cours"
+
+       
+    !!! tip "Deuxième feuille d'exercices : Constitution de la matière"
+
+        [Cliquez ici pour télécharger la **deuxième feuille : Constitution de la matière**](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
+
+
+        !!! note "Devoir maison"
+
+            
+            !!! bug "Corrigé de la deuxième feuille : Constitution de la matière"
+
+## Sixième semaine
+
+!!! abstract "Cours"
+
+       
+    !!! tip "Troisème feuille d'exercices : Constitution de la matière"
+
+        [Cliquez ici pour télécharger la **troisième feuille : Constitution de la matière**](https://prof-johan-daza.github.io/general/3/S6/S6.pdf)
+
+
+        !!! note "Devoir maison"
+
+            
+            !!! bug "Corrigé de la troisième feuille : Constitution de la matière"
+
 
 ## Septième semaine
 
 !!! abstract "Cours"
 
        
-    !!! tip "Troisème feuille d'exercices"
+    !!! tip "Quatrième feuille d'exercices"
 
-        [Cliquez ici pour télécharger la **troisième feuille**](https://prof-johan-daza.github.io/general/3/S7/S7.pdf)
+        [Cliquez ici pour télécharger la **quatrième feuille**](https://prof-johan-daza.github.io/general/3/S7/S7.pdf)
 
 
         !!! note "Devoir maison"
 
             
-            !!! bug "Corrigé de la troisième feuille"
+            !!! bug "Corrigé de la quatrième feuille"
