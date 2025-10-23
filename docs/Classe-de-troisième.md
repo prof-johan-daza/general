@@ -21,14 +21,14 @@
 ## Quatrième et cinquième semaines
 
 !!! abstract "**MATIÈRE – Description de la matière**"
-    
+
     !!! tip "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices**"
 
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
             
-            !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices – corrigé officiel**"
+        !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices – corrigé officiel**"
                             
-                [Cliquez ici pour télécharger les documents]
+            [Cliquez ici pour télécharger les documents]
             
 
 
