@@ -38,7 +38,7 @@ Diagramme pédagogique montrant les trois états de la matière — solide, liqu
 
 Trois schémas pédagogiques alignés montrant les états de la matière — solide, liquide, gaz — avec représentations de particules (solide : particules serrées et ordonnées ; liquide : particules proches et mobiles dans un contenant ; gaz : particules dispersées remplissant l'espace). Flèches indiquent les changements d'état étiquetés fusion, solidification, vaporisation et condensation, avec indications de température et étiquettes solide, liquide, gaz. Fond clair sur une page de cours, ton neutre et informatif.
 
-![Image title](https://prof-johan-daza.github.io/general/4/S5/S5.png){ align=left }
+![Image](https://prof-johan-daza.github.io/general/4/S5/S5.png)
 
 !!! abstract "**MATIÈRE – La matière et ses états**"
 
