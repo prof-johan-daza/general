@@ -35,18 +35,15 @@
 
 ## Sixième semaine
 
-!!! abstract "Cours"
-
+!!! abstract "**MATIÈRE – Description de la matière**"
        
-    !!! tip "Troisème feuille d'exercices : Constitution de la matière"
+    !!! tip "**MATIÈRE – Description de la matière : constitution de la matière, troisième feuille d'exercices**"
 
-        [Cliquez ici pour télécharger la **troisième feuille : Constitution de la matière**](https://prof-johan-daza.github.io/general/3/S6/S6.pdf)
+        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S6/S6.pdf)
 
-
-        !!! note "Devoir maison"
-
-            
-            !!! bug "Corrigé de la troisième feuille : Constitution de la matière"
+        !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, troisième feuille d'exercices – corrigé officiel**"
+                            
+            [Cliquez ici pour télécharger les documents]
 
 
 ## Septième semaine
