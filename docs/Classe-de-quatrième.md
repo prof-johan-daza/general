@@ -23,7 +23,7 @@
 !!! abstract "**MATIÈRE – L’atome**"
 
     [Cliquez ici pour télécharger les documents](https://youtu.be/97MQoUNqMuk?si=Bco7__TDUH2xCDal)
-    
+
     !!! tip "**MATIÈRE – L’atome : histoire et évolution des modèles, deuxième feuille d'exercices**"
 
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S4/S4.pdf)
@@ -35,6 +35,8 @@
 ## Cinquième semaine
 
 !!! abstract "**MATIÈRE – La matière et ses états**"
+
+    ![Image title](https://prof-johan-daza.github.io/general/4/S5/S5.png){ align=left }
 
     !!! tip "**MATIÈRE – Les changements d'état : troisième feuille d'exercices**"
 

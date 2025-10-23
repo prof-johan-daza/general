@@ -30,6 +30,8 @@ theme:
 
 markdown_extensions:
   - def_list
+  - md_in_html
+  - pymdownx.blocks.caption
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.critic
@@ -53,6 +55,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
+plugins:
+  - glightbox
 
 extra:
   social:
