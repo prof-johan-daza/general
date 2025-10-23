@@ -48,15 +48,14 @@
 
 ## Septième semaine
 
-!!! abstract "Cours"
+!!! abstract "**MATIÈRE – Description de la matière**"
+    
+    !!! tip "**MATIÈRE – Description de la matière : changements d'états physiques, quatrième feuille d'exercices**"
 
-       
-    !!! tip "Quatrième feuille d'exercices"
+        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/S7.pdf)
 
-        [Cliquez ici pour télécharger la **quatrième feuille**](https://prof-johan-daza.github.io/general/3/S7/S7.pdf)
-
-
-        !!! note "Devoir maison"
+        !!! bug "**MATIÈRE – Description de la matière : changements d'états physiques, quatrième feuille d'exercices**"
+                            
+            [Cliquez ici pour télécharger les documents]
 
             
-            !!! bug "Corrigé de la quatrième feuille"
