@@ -58,8 +58,7 @@ markdown_extensions:
 
 plugins:
   - glightbox:
-      skip_classes:
-        - skip-lightbox
+      manual: true
 
 
 extra:
