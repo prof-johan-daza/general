@@ -55,8 +55,12 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
+
 plugins:
-  - glightbox
+  - glightbox:
+      skip_classes:
+        - skip-lightbox
+
 
 extra:
   social:
