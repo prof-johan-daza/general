@@ -20,18 +20,18 @@
 
 ## Quatrième et cinquième semaines
 
-!!! abstract "Cours"
+!!! abstract "**MATIÈRE – Description de la matière**"
+    
+    !!! tip "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices**"
 
-       
-    !!! tip "Deuxième feuille d'exercices : Constitution de la matière"
-
-        [Cliquez ici pour télécharger la **deuxième feuille : Constitution de la matière**](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
-
-
-        !!! note "Devoir maison"
-
+        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
             
-            !!! bug "Corrigé de la deuxième feuille : Constitution de la matière"
+            !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices – corrigé officiel**"
+                            
+                [Cliquez ici pour télécharger les documents]
+            
+
+
 
 ## Sixième semaine
 
