@@ -2,6 +2,22 @@
 
 ## Première, deuxième et troisième semaines
 
+!!! abstract "**INTRODUCTION – Les grandeurs physiques : contenu du cours**"
+
+    [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S3/Cours.pdf) --> 
+    
+    !!! tip "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices**"
+
+        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/S3.pdf)
+
+        !!! note "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices à corriger à la maison**"
+
+            [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Corrigé.docx)
+
+            !!! bug "**INTRODUCTION – Les grandeurs physiques : première feuille – corrigé officiel**"
+
+                [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Corrigé.pdf)
+
 ##  Quatrième semaine
 
 !!! abstract "Cours"
