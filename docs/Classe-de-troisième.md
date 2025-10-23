@@ -28,7 +28,7 @@
             
         !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices – corrigé officiel**"
                             
-            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf) -->
+            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/3/S5/Corrigé.pdf) -->
 
 ## Sixième semaine
 
