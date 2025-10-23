@@ -20,35 +20,24 @@
 
 ##  Quatrième semaine
 
-!!! abstract "Cours"
+!!! abstract "**MATIÈRE – L’atome**"
 
-       
-    !!! tip "Deuxième feuille d'exercices"
+    !!! tip "**MATIÈRE – L’atome : histoire et évolution des modèles, deuxième feuille d'exercices**"
 
-        [Cliquez ici pour télécharger la **deuxième feuille**](https://prof-johan-daza.github.io/general/4/S4/S4.pdf)
-
-        !!! note "Devoir maison"
-
+        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S4/S4.pdf)
             
+        !!! bug "**MATIÈRE – L’atome : histoire et évolution des modèles, deuxième feuille d'exercices – corrigé officiel**"
+                            
+            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S4/Corrigé.pdf) -->
 
-            !!! bug "Corrigé de la deuxième feuille"
+## Cinquième semaine
 
-                
+!!! abstract "**MATIÈRE – La matière et ses états**"
 
-## Septième semaine
+    !!! tip "**MATIÈRE – Les changements d'état : troisième feuille d'exercices**"
 
-!!! abstract "Cours"
-
-    Cours
-    
-    !!! tip "Feuille d'exercices"
-
-        [Cliquez ici pour télécharger la **troisième feuille**](https://prof-johan-daza.github.io/general/4/S7/S7.pdf)
-
-        !!! note "Devoir maison"
-
-            Devoir maison
-
-            !!! bug "Corrigé de la troisième feuille"
-
-                Corrigé
+        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S5/S5.pdf)
+            
+        !!! bug "**MATIÈRE – Les changements d'état : troisième feuille d'exercices – corrigé officiel**"
+                            
+            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf) -->
