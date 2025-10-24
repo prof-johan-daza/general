@@ -13,9 +13,9 @@ Je vous rappelle que l’année scolaire 2025-2026 comprend 43 semaines. Pour vo
 - [x] Semaine 4 – lundi 22 sept. 2025 au vendredi 26 sept. 2025
 - [x] Semaine 5 – lundi 29 sept. 2025 au vendredi 3 oct. 2025
 - [x] Semaine 6 – lundi 6 oct. 2025 au vendredi 10 oct. 2025
-- [ ] Semaine 7 – lundi 13 oct. 2025 au vendredi 17 oct. 2025
-- [ ] Semaine 8 – lundi 20 oct. 2025 au vendredi 24 oct. 2025
-- [ ] Semaine 9 – lundi 27 oct. 2025 au vendredi 31 oct. 2025
+- [x] Semaine 7 – lundi 13 oct. 2025 au vendredi 17 oct. 2025
+- [x] Semaine 8 – lundi 20 oct. 2025 au vendredi 24 oct. 2025
+- [x] Semaine 9 – lundi 27 oct. 2025 au vendredi 31 oct. 2025
 - [ ] Semaine 10 – lundi 3 nov. 2025 au vendredi 7 nov. 2025
 - [ ] Semaine 11 – lundi 10 nov. 2025 au vendredi 14 nov. 2025
 - [ ] Semaine 12 – lundi 17 nov. 2025 au vendredi 21 nov. 2025
