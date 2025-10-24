@@ -1,5 +1,5 @@
-name: ci # Continuous Integration for MkDocs deployment
-on: # Trigger the workflow on pushes to the main branches
+name: ci 
+on: 
   push:
     branches:
       - master
@@ -26,4 +26,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material
+      - run: pip install mkdocs-glightbox
       - run: mkdocs gh-deploy --force
