@@ -59,7 +59,7 @@ markdown_extensions:
 plugins:
   - search
   - glightbox:
-        manual: true
+      manual: true
 
 
 extra:
