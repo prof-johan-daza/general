@@ -38,13 +38,9 @@
 
 ![Imagen](https://prof-johan-daza.github.io/general/4/S5/S5.png)
 
+!!! tip "**MATIÈRE – Les changements d'état : troisième feuille d'exercices**"
 
-
-!!! abstract "**MATIÈRE – La matière et ses états**"
-
-        !!! tip "**MATIÈRE – Les changements d'état : troisième feuille d'exercices**"
-
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S5/S5.pdf)
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S5/S5.pdf)
             
         !!! bug "**MATIÈRE – Les changements d'état : troisième feuille d'exercices – corrigé officiel**"
                             
