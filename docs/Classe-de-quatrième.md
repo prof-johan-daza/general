@@ -35,7 +35,7 @@
 ## Cinquième semaine
 
 ![Lanyu, Taiwan](https://prof-johan-daza.github.io/general/4/S5/S5.png){ .on-glb } 
-Lanyu, Taiwan. Credit: Blueswe
+Lanyu, Taiwan. Credit: Bluesw
 
 !!! abstract "**MATIÈRE – La matière et ses états**"
 
