@@ -42,6 +42,6 @@
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S5/S5.pdf)
             
-        !!! bug "**MATIÈRE – Les changements d'état : troisième feuille d'exercices – corrigé officiel**"
+    !!! bug "**MATIÈRE – Les changements d'état : troisième feuille d'exercices – corrigé officiel**"
                             
-            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf) -->
+        [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf) -->
