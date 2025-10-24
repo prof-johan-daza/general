@@ -14,7 +14,7 @@
 
             [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Corrigé.docx)
 
-            !!! bug "**INTRODUCTION – Les grandeurs physiques : première feuille – corrigé officiel**"
+            !!! bug "**INTRODUCTION – Les grandeurs physiques : première feuille – Corrigé officiel**"
 
                 [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Corrigé.pdf)
 
@@ -28,7 +28,7 @@
 
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S4/S4.pdf)
             
-        !!! bug "**MATIÈRE – L’atome : histoire et évolution des modèles, deuxième feuille d'exercices – corrigé officiel**"
+        !!! bug "**MATIÈRE – L’atome : histoire et évolution des modèles, deuxième feuille d'exercices – Corrigé officiel**"
                             
             [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S4/Corrigé.pdf) -->
 
@@ -36,12 +36,15 @@
 
 !!! abstract "**MATIÈRE – La matière et ses états**"
 
-![Imagen](https://prof-johan-daza.github.io/general/4/S5/S5.png)
+![Imagen](https://prof-johan-daza.github.io/general/4/S5/S5.png/600x400/){ width="300" }
+/// caption
+Caption image 600+400
+///
 
 !!! tip "**MATIÈRE – Les changements d'état : troisième feuille d'exercices**"
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S5/S5.pdf)
             
-    !!! bug "**MATIÈRE – Les changements d'état : troisième feuille d'exercices – corrigé officiel**"
+    !!! bug "**MATIÈRE – Les changements d'état : troisième feuille d'exercices – Corrigé officiel**"
                             
         [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf) -->
