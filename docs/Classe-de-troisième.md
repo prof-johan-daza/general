@@ -14,7 +14,7 @@
 
             [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx) 
 
-            !!! bug "**INTRODUCTION – Les grandeurs physiques : première feuille – corrigé officiel**"
+            !!! bug "**INTRODUCTION – Les grandeurs physiques : première feuille – Corrigé officiel**"
 
                 [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
 
@@ -26,7 +26,7 @@
 
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
             
-        !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices – corrigé officiel**"
+        !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices – Corrigé officiel**"
                             
             [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S5/Corrigé.pdf)
 
@@ -38,7 +38,7 @@
 
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S6/S6.pdf)
 
-        !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, troisième feuille d'exercices – corrigé officiel**"
+        !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, troisième feuille d'exercices – Corrigé officiel**"
                             
             [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/3/S6/Corrigé.pdf) -->
 
@@ -50,8 +50,6 @@
 
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/S7.pdf)
 
-        !!! bug "**MATIÈRE – Description de la matière : changements d'états physiques, quatrième feuille d'exercices**"
+        !!! bug "**MATIÈRE – Description de la matière : changements d'états physiques, quatrième feuille d'exercices – Corrigé officiel**"
                             
             [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/3/S7/Corrigé.pdf) -->
-
-            
