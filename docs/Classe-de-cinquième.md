@@ -13,7 +13,7 @@
 
         [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/S5.pdf) -->
             
-        !!! bug "**ÉNERGIE – L’énergie, qu’est-ce que c’est ?**"
+        !!! bug "**ÉNERGIE – Rappel sur les grandeurs physiques et leurs unités**"
                             
             [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf) -->
 
@@ -21,15 +21,16 @@
 
 ## Sixième semaines
 
-!!! abstract "Cours"
+!!! abstract "**ÉNERGIE – L’énergie et le développement durable : première feuille d’exercices**"
 
        
-    !!! tip "Deuxième feuille d'exercices"
+    !!! tip "**ÉNERGIE – L’énergie et le développement durable : première feuille d’exercices**"
 
-        [Cliquez ici pour télécharger la **deuxième feuille**](https://prof-johan-daza.github.io/general/5/S6/S6.pdf)
+        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S6/S6.pdf)
 
-        !!! note "Devoir maison"
+        !!! note "**ÉNERGIE – L’énergie et le développement durable : première feuille d’exercices à corriger**"
+          
+            !!! bug "**ÉNERGIE – L’énergie et le développement durable : première feuille d’exercices – Corrigé officiel**"
 
-            
+                [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->
 
-            !!! bug "Corrigé de la deuxième feuille"
