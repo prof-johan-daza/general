@@ -38,7 +38,7 @@
 
     ![Image](https://prof-johan-daza.github.io/general/4/S5/S5.png){ width="500" }
     /// caption 
-    Cette image
+    _Cette image a été créée d’après notre travail pratique en laboratoire de sciences au lycée. Elle a été réalisée avec de l’intelligence artificielle. Remarquez-vous quelque chose de trompeur ?_
     ///
 
     !!! tip "**MATIÈRE – Les changements d'état : troisième feuille d'exercices**"
