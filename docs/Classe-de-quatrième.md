@@ -34,7 +34,7 @@
 
 ## Cinquième semaine
 
-![Lanyu, Taiwan](https://prof-johan-daza.github.io/general/4/S5/S5.png){ .on-glb }
+![Lanyu, Taiwan](https://prof-johan-daza.github.io/general/4/S5/S5.png){ align=left }
 
 
 !!! abstract "**MATIÈRE – La matière et ses états**"
