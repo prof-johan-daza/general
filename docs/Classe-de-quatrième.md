@@ -4,7 +4,7 @@
 
 !!! abstract "**INTRODUCTION – Les grandeurs physiques : contenu du cours**"
 
-    [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S3/Cours.pdf) --> 
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Cours.pdf)
     
     !!! tip "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices**"
 
