@@ -36,7 +36,7 @@
 
 !!! abstract "**MATIÈRE – La matière et ses états**"
 
-![Imagen](https://prof-johan-daza.github.io/general/4/S5/S5.png/600x400/)
+![Imagen](https://prof-johan-daza.github.io/general/4/S5/S5.png){ width="300" }
 /// caption
 Caption image
 ///
