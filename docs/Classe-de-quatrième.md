@@ -36,9 +36,9 @@
 
 !!! abstract "**MATIÈRE – La matière et ses états**"
 
-![Imagen](https://prof-johan-daza.github.io/general/4/S5/S5.png/600x400/){ width="300" }
+![Imagen](https://prof-johan-daza.github.io/general/4/S5/S5.png/600x400/)
 /// caption
-Caption image 600+400
+Caption image
 ///
 
 !!! tip "**MATIÈRE – Les changements d'état : troisième feuille d'exercices**"
