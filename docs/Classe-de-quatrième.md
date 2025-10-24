@@ -34,10 +34,10 @@
 
 ## Cinquième semaine
 
-![Lanyu, Taiwan](https://prof-johan-daza.github.io/general/4/S5/S5.png){ .on-glb } 
-Lanyu, Taiwan. Credit: Blu
+![Lanyu, Taiwan](https://prof-johan-daza.github.io/general/4/S5/S5.png){ .on-glb }
 
-    !!! abstract "**MATIÈRE – La matière et ses états**"
+
+!!! abstract "**MATIÈRE – La matière et ses états**"
 
         !!! tip "**MATIÈRE – Les changements d'état : troisième feuille d'exercices**"
 
