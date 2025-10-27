@@ -36,7 +36,7 @@
 
 !!! abstract "**ÉNERGIE – Formes, transferts et conversions de l'énergie : deuxième feuille d’exercices**"
 
-       
+    
     !!! tip "**ÉNERGIE – Formes, transferts et conversions de l'énergie : deuxième feuille d’exercices**"
 
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S9/S9.pdf)
@@ -45,5 +45,5 @@
           
             !!! bug "**ÉNERGIE – Formes, transferts et conversions de l'énergie : deuxième feuille d’exercices – Corrigé officiel**"
 
-                [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) --> 
+                [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->  
                 
