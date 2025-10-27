@@ -48,3 +48,19 @@
         !!! bug "**MATIÈRE – Les changements d'état : troisième feuille d'exercices – Corrigé officiel**"
                             
             [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf) -->
+
+
+
+##  Neuvième semaine
+
+!!! abstract "**MATIÈRE – Changements d’états physiques et classification de la matière**"
+
+    [Cliquez ici pour télécharger les documents]
+
+    !!! tip "**MATIÈRE – Changements d’états physiques et classification de la matière, quatrième feuille d'exercices**"
+
+        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S9/S9.pdf)
+            
+        !!! bug "**MATIÈRE – Changements d’états physiques et classification de la matière – Corrigé officiel**"
+                            
+            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S9/Corrigé.pdf) -->
