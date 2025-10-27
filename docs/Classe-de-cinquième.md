@@ -8,7 +8,7 @@
     /// caption 
     _Bateau thermique : la bougie chauffe l’air dans la canette, créant un mouvement qui pousse le bateau._
     ///
-    Colonne sur Pronote : << Bateau : énergie thermique → mécanique >>
+    Colonne dans le tableau de notes de Pronote : << Bateau : énergie thermique → mécanique >>
 
     !!! tip "**ÉNERGIE – Rappel sur les grandeurs physiques et leurs unités**"
 
@@ -22,7 +22,8 @@
 
 !!! abstract "**ÉNERGIE – L’énergie et le développement durable : première feuille d’exercices**"
 
-       
+    Colonne dans le tableau de notes de Pronote : << Séance d’avancement – 1re feuille exos >>
+
     !!! tip "**ÉNERGIE – L’énergie et le développement durable : première feuille d’exercices**"
 
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S6/S6.pdf)
@@ -37,7 +38,8 @@
 
 !!! abstract "**ÉNERGIE – Formes, transferts et conversions de l'énergie : deuxième feuille d’exercices**"
 
-    
+    Colonne dans le tableau de notes de Pronote : << Form/transf Deuxième feuille Advancement >> et << Form/transf Deux. feuil corrigé par prof >>
+
     !!! tip "**ÉNERGIE – Formes, transferts et conversions de l'énergie : deuxième feuille d’exercices**"
 
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S9/S9.pdf)
