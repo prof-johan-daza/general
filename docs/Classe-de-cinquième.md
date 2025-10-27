@@ -8,6 +8,7 @@
     /// caption 
     _Bateau thermique : la bougie chauffe l’air dans la canette, créant un mouvement qui pousse le bateau._
     ///
+    Colonne sur Pronote : << Bateau : énergie thermique → mécanique >>
 
     !!! tip "**ÉNERGIE – Rappel sur les grandeurs physiques et leurs unités**"
 
