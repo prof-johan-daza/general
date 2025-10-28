@@ -10,7 +10,9 @@
     
     << 1er Feuille d’exercices, séance d’avancement >> 
     
-    et << 1re feuille corrigée en continu par prof >>.
+    et 
+    
+    << 1re feuille corrigée en continu par prof >>
     
     !!! tip "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices**"
 

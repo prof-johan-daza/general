@@ -6,7 +6,7 @@
 
     ![Image](https://prof-johan-daza.github.io/general/3/S3/S3.png){ width="500" }
     /// caption 
-    _Période à venir_
+    _Dates à venir_
     ///
 
 ## Première, deuxième et troisième semaines
@@ -19,7 +19,9 @@
     
     << 1er Feuille d’exercices, séance d’avance >>
     
-    et << 1re feuille corrigée en continu par prof >>. 
+    et 
+    
+    << 1re feuille corrigée en continu par prof >>
     
     !!! tip "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices**"
 
