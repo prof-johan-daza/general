@@ -86,3 +86,18 @@
         !!! bug "**MATIÈRE – Description de la matière : changements d'états physiques, quatrième feuille d'exercices – Corrigé officiel**"
                             
             [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/3/S7/Corrigé.pdf) -->
+
+
+## Neuvième semaine
+
+!!! abstract "**MOODLE – Test : Grandeurs, unités et mesures**"
+
+    <!-- Colonne affichée dans Pronote : << MOODLE – Test : Grandeurs, unités et mesures >> -->
+    
+    !!! tip "**MOODLE – Test : Grandeurs, unités et mesures**"
+
+        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=770)
+
+        !!! bug "**MATIÈRE – Description de la matière : changements d'états physiques, quatrième feuille d'exercices – Corrigé officiel**"
+                            
+            <!-- [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/Corrigé.pdf) -->
