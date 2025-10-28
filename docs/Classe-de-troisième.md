@@ -11,7 +11,7 @@
 
     !!! bug "**Diplôme national du brevet – Sujets corrigés**"
 
-        [Cliquez ici pour télécharger les sujets corrigés de 2016 à 2022 - Site source : www.physix.fr/](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
+        [Cliquez ici pour télécharger les sujets corrigés de 2016 à 2022 - Site source : www.physix.fr](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
 
 ## Première, deuxième et troisième semaines
 
@@ -90,14 +90,22 @@
 
 ## Neuvième semaine
 
-!!! abstract "**MOODLE – Test : Grandeurs, unités et mesures**"
+!!! abstract "**MOODLE**"
 
-    <!-- Colonne affichée dans Pronote : << MOODLE – Test : Grandeurs, unités et mesures >> -->
+    <!-- Colonne affichée dans Pronote : << MOODLE – Test en ligne >> -->
     
     !!! tip "**MOODLE – Test : Grandeurs, unités et mesures**"
 
         [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=770)
 
-        !!! bug "**MATIÈRE – Description de la matière : changements d'états physiques, quatrième feuille d'exercices – Corrigé officiel**"
-                            
-            <!-- [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/Corrigé.pdf) -->
+    !!! tip "**MOODLE – Test : Convertir des unités de longueurs**"
+
+        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=771)
+
+    !!! tip "**MOODLE – Test : Convertir des unités de masse**"
+
+        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=772)
+    
+    !!! tip "**MOODLE – Test : Convertir des unités de volume**"
+
+        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=773)
