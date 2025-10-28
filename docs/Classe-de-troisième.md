@@ -11,7 +11,7 @@
 
     !!! bug "**Diplôme national du brevet – Sujets corrigés**"
 
-        [Cliquez ici pour télécharger les sujets corrigés de 2026 à 2022](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
+        [Cliquez ici pour télécharger les sujets corrigés de 2016 à 2022](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
 
 ## Première, deuxième et troisième semaines
 
