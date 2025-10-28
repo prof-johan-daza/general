@@ -4,8 +4,13 @@
 
 !!! abstract "**INTRODUCTION – Les grandeurs physiques : contenu du cours**"
 
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Cours.pdf) 
-    Colonne affichée dans Pronote : << 1er Feuille d’exercices, séance d’avancement >> et << 1re feuille corrigée en continu par prof >>
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Cours.pdf)
+
+    Colonnes affichées dans Pronote : 
+    
+    << 1er Feuille d’exercices, séance d’avancement >> 
+    
+    et << 1re feuille corrigée en continu par prof >>.
     
     !!! tip "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices**"
 
@@ -24,7 +29,10 @@
 !!! abstract "**MATIÈRE – L’atome**"
 
     [Cliquez ici pour télécharger les documents](https://youtu.be/97MQoUNqMuk?si=Bco7__TDUH2xCDal)
-    Colonne affichée dans Pronote : << 2e feui l’atom et l’évoluti de ses modèl >>
+
+    Colonne affichée dans Pronote : 
+    
+    << 2e feui l’atom et l’évoluti de ses modèl >>
 
     !!! tip "**MATIÈRE – L’atome : histoire et évolution des modèles, deuxième feuille d'exercices**"
 
@@ -42,7 +50,10 @@
     /// caption 
     _Cette image a été créée d’après notre travail pratique en laboratoire de sciences au lycée. Elle a été réalisée avec de l’intelligence artificielle. Remarquez-vous quelque chose de trompeur ?_
     ///
-    Colonne affichée dans Pronote : << Les changements d'état : troisième feuil >>
+    
+    Colonne affichée dans Pronote : 
+    
+    << Les changements d'état : troisième feuil >>
 
     !!! tip "**MATIÈRE – Les changements d'état : troisième feuille d'exercices**"
 
@@ -58,7 +69,9 @@
 
 !!! abstract "**MATIÈRE – Changements d’états physiques et classification de la matière**"
 
-    Colonne affichée dans Pronote : << Matière : états et classification Feuil4 >>
+    Colonne affichée dans Pronote : 
+    
+    << Matière : états et classification Feuil4 >>
 
     !!! tip "**MATIÈRE – Changements d’états physiques et classification de la matière, quatrième feuille d'exercices**"
 
