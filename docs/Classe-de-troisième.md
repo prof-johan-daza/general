@@ -11,7 +11,7 @@
 
     !!! bug "**Diplôme national du brevet – Sujets corrigés**"
 
-        [Cliquez ici pour télécharger les sujets corrigés de 2016 à 2022](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
+        [Cliquez ici pour télécharger les sujets corrigés de 2016 à 2022 - Site source : www.physix.fr/](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
 
 ## Première, deuxième et troisième semaines
 
@@ -49,11 +49,11 @@
 
     !!! tip "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices**"
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
+        [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
             
         !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices – Corrigé officiel**"
                             
-            [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S5/Corrigé.pdf)
+            [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S5/Corrigé.pdf)
 
 ## Sixième semaine
 
@@ -65,11 +65,11 @@
        
     !!! tip "**MATIÈRE – Description de la matière : constitution de la matière, troisième feuille d'exercices**"
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S6/S6.pdf)
+        [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S6/S6.pdf)
 
         !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, troisième feuille d'exercices – Corrigé officiel**"
                             
-            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/3/S6/Corrigé.pdf) -->
+            [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ]<!-- (https://prof-johan-daza.github.io/general/3/S6/Corrigé.pdf) -->
 
 ## Septième semaine
 
