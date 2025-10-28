@@ -4,9 +4,9 @@
 
 !!! abstract "**INTRODUCTION – Les grandeurs physiques : contenu du cours**"
 
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Cours.pdf)
-    \Colonne affichée dans Pronote : << 1er Feuille d’exercices, séance d’avance >> et 
-    \<< 1re feuille corrigée en continu par prof >>
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Cours.pdf)\
+    Colonne affichée dans Pronote : << 1er Feuille d’exercices, séance d’avance >> et\
+    << 1re feuille corrigée en continu par prof >>
     
     !!! tip "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices**"
 
