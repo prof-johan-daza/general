@@ -1,11 +1,6 @@
 # Bonjour et bienvenue
-{==
 
-*J’ai créé ce site pour partager avec vous des ressources, des cours, des exercices et des documents qui vous aideront à mieux comprendre les sciences physiques et chimiques et à progresser à votre rythme.*
-
-==}
-
-Je vous rappelle que l’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux visualiser le déroulement de l’année, je vous propose la liste suivante, qui vous permettra de situer plus facilement le temps écoulé au fil des semaines. 3e = 42 élèves, 4e = 40 élèves et 5e = 64 élèves. Total = 146 élèves.
+L’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux visualiser le déroulement de l’année, je vous propose la liste suivante, qui vous permettra de situer plus facilement le temps écoulé au fil des semaines. 3e = 42 élèves, 4e = 40 élèves et 5e = 64 élèves. Total = 146 élèves.
 
 - [x] Semaine 1 – lundi 1 sept. 2025 au vendredi 5 sept. 2025
 - [x] Semaine 2 – lundi 8 sept. 2025 au vendredi 12 sept. 2025
