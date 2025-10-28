@@ -28,6 +28,10 @@
     Colonne affichée dans Pronote : 
     
     << Séance d’avancement – 1re feuille exos >>
+    
+    et
+    
+    << 1re feuille corrigée en continu par prof >>
 
     !!! tip "**ÉNERGIE – L’énergie et le développement durable : première feuille d’exercices**"
 
@@ -47,7 +51,9 @@
     
     << Form/transf Deuxième feuille Advancement >> 
     
-    et << Form/transf Deux. feuil corrigé par prof >>
+    et 
+    
+    << Form/transf Deux. feuil corrigé par prof >>
 
     !!! tip "**ÉNERGIE – Formes, transferts et conversions de l'énergie : deuxième feuille d’exercices**"
 
