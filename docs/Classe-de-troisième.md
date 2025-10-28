@@ -6,9 +6,11 @@
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Cours.pdf)
     
-    Colonne affichée dans Pronote : << 1er Feuille d’exercices, séance d’avance >>
+    Colonnes affichées dans Pronote : 
     
-    et << 1re feuille corrigée en continu par prof >>
+    << 1er Feuille d’exercices, séance d’avance >>
+    
+    et << 1re feuille corrigée en continu par prof >>. 
     
     !!! tip "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices**"
 
@@ -26,7 +28,9 @@
 
 !!! abstract "**MATIÈRE – Description de la matière**"
 
-    Colonne affichée dans Pronote : << À trous Constituti. de la mat. 2e feuill >>
+    Colonne affichée dans Pronote : 
+    
+    << À trous Constituti. de la mat. 2e feuill >>
 
     !!! tip "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices**"
 
@@ -40,7 +44,9 @@
 
 !!! abstract "**MATIÈRE – Description de la matière**"
 
-    Colonne affichée dans Pronote : << TP Autocui. et chang. d’état. 3e feuille >>
+    Colonne affichée dans Pronote : 
+    
+    << TP Autocui. et chang. d’état. 3e feuille >>
        
     !!! tip "**MATIÈRE – Description de la matière : constitution de la matière, troisième feuille d'exercices**"
 
@@ -54,7 +60,9 @@
 
 !!! abstract "**MATIÈRE – Description de la matière**"
 
-    Colonne affichée dans Pronote : << Matière : états physiques exos Feuille 4 >>
+    Colonne affichée dans Pronote : 
+    
+    << Matière : états physiques exos Feuille 4 >>
     
     !!! tip "**MATIÈRE – Description de la matière : changements d'états physiques, quatrième feuille d'exercices**"
 
