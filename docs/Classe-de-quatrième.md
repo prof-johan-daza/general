@@ -73,6 +73,10 @@
 
     Colonne affichée dans Pronote : 
     
+    << Matiè : états et classif. advanc. Feuil 4 >> 
+
+    et 
+
     << Matière : états et classification Feuil4 >>
 
     !!! tip "**MATIÈRE – Changements d’états physiques et classification de la matière, quatrième feuille d'exercices**"
