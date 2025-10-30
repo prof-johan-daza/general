@@ -15,7 +15,7 @@
 
     !!! tip "**ÉNERGIE – Rappel sur les grandeurs physiques et leurs unités**"
 
-        [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/S5.pdf) -->
+        [Cliquez ici pour télécharger les documents - Calcul de la consommation électrique]<!-- (https://prof-johan-daza.github.io/general/4/S5/S5.pdf) -->
             
         !!! bug "**ÉNERGIE – Rappel sur les grandeurs physiques et leurs unités**"
                             
