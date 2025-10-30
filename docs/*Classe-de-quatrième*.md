@@ -66,6 +66,35 @@
             [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf) -->
 
 
+## Septième semaine
+
+!!! abstract "**MOODLE**"
+
+    ![Image](https://prof-johan-daza.github.io/general/3/Disque/Moodle.png){ width="500" }
+    /// caption 
+    _Pour être inscrit sur Moodle, il faut se connecter au lien suivant. Le nom d’utilisateur est celui que vous utilisez pour vous connecter aux ordinateurs du lycée, et le mot de passe est le même que pour votre compte sur ces ordinateurs. Ensuite, vous devez demander au professeur de vous inscrire au cours afin de pouvoir passer les tests notés_
+    ///
+
+    [Cliquez ici pour accéder à Moodle, puis demandez au professeur de vous inscrire au cours](https://moodle.lfbogota.edu.co/login/index.php)
+
+    <!-- Colonne affichée dans Pronote : << MOODLE – Test en ligne >> -->
+    
+    !!! tip "**MOODLE – Test : Grandeurs, unités et mesures**"
+
+        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=770)
+
+    !!! tip "**MOODLE – Test : Convertir des unités de longueurs**"
+
+        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=771)
+
+    !!! tip "**MOODLE – Test : Convertir des unités de masse**"
+
+        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=772)
+    
+    !!! tip "**MOODLE – Test : Convertir des unités de volume**"
+
+        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=773)
+
 
 ##  Neuvième semaine
 
