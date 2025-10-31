@@ -45,3 +45,9 @@ L’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux vis
 - [ ] Semaine 41 – lundi 8 juin 2026 au vendredi 12 juin 2026
 - [ ] Semaine 42 – lundi 15 juin 2026 au vendredi 19 juin 2026
 - [ ] Semaine 43 – lundi 22 juin 2026 au vendredi 26 juin 2026
+
+## Prompt pour l'IA
+
+- Lis la notion suivante. 
+- Crée 5 questions de type QCM sur le thème. Chaque question doit proposer 5 réponses possibles (A, B, C, D, E), dont une seule est correcte.
+Indique clairement la bonne réponse pour chaque question (par exemple : “Réponse correcte : C)”).
