@@ -1,4 +1,4 @@
-# Bonjour et bienvenue
+# *Année scolaire, calendrier et autres*
 
 L’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux visualiser le déroulement de l’année, je vous propose la liste suivante, qui vous permettra de situer plus facilement le temps écoulé au fil des semaines. 3e = 42 élèves, 4e = 40 élèves et 5e = 64 élèves. Total = 146 élèves.
 
@@ -11,7 +11,7 @@ L’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux vis
 - [x] Semaine 7 – lundi 13 oct. 2025 au vendredi 17 oct. 2025
 - [x] Semaine 8 – lundi 20 oct. 2025 au vendredi 24 oct. 2025
 - [x] Semaine 9 – lundi 27 oct. 2025 au vendredi 31 oct. 2025
-- [ ] Semaine 10 – lundi 3 nov. 2025 au vendredi 7 nov. 2025
+- [x] Semaine 10 – lundi 3 nov. 2025 au vendredi 7 nov. 2025
 - [ ] Semaine 11 – lundi 10 nov. 2025 au vendredi 14 nov. 2025
 - [ ] Semaine 12 – lundi 17 nov. 2025 au vendredi 21 nov. 2025
 - [ ] Semaine 13 – lundi 24 nov. 2025 au vendredi 28 nov. 2025
@@ -51,6 +51,8 @@ L’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux vis
 - Lis la notion suivante. 
 - Crée 5 questions de type QCM sur le thème. Chaque question doit proposer 5 réponses possibles (A, B, C, D, E), dont une seule est correcte.
 Indique clairement la bonne réponse pour chaque question (par exemple : “Réponse correcte : C)”).
+
+## Calendrier scolaire 2025 - 2026
 
 !!! bug "**Calendrier scolaire 2025 - 2026**"
 
