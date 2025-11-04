@@ -66,4 +66,18 @@
                 [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->  
 
 ## Dixième semaine
+
+!!! abstract "**ÉNERGIE – RAPPEL GRANDEURS ET CALCUL DE LA CONSOMMATION ÉLECTRIQUE : troisième feuille d’exercices**"
+
+    Colonnes affichées dans Pronote : 
+    
+    << GRANDEURS ET CALCUL 3e feuille Advance. >> 
+    
+    et 
+    
+    << GRAN. ET CAL. 3e feuil. Corrigé prof. >>
+
+    !!! tip "**ÉNERGIE – RAPPEL GRANDEURS ET CALCUL DE LA CONSOMMATION ÉLECTRIQUE : troisième feuille d’exercices**"
+
+        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S10/S10.pdf)
                 
