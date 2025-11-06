@@ -81,19 +81,19 @@
     
     << MOODLE – Test en ligne >>
     
-    !!! tip "**MOODLE – Test : Grandeurs, unités et mesures**"
+    !!! tip "**1) MOODLE – Test : Grandeurs, unités et mesures**"
 
         [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=770)
 
-    !!! tip "**MOODLE – Test : Convertir des unités de longueurs**"
+    !!! tip "**2) MOODLE – Test : Convertir des unités de longueurs**"
 
         [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=771)
 
-    !!! tip "**MOODLE – Test : Convertir des unités de masse**"
+    !!! tip "**3) MOODLE – Test : Convertir des unités de masse**"
 
         [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=772)
     
-    !!! tip "**MOODLE – Test : Convertir des unités de volume**"
+    !!! tip "**4) MOODLE – Test : Convertir des unités de volume**"
 
         [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=773)
 
