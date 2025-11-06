@@ -116,4 +116,4 @@
             
         !!! bug "**MATIÈRE – Changements d’états physiques et classification de la matière – Corrigé officiel**"
                             
-            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S9/Corrigé.pdf) -->
+            [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S9/Corrigé.pdf)
