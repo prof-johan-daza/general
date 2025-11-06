@@ -69,7 +69,7 @@
 
         !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, troisième feuille d'exercices – Corrigé officiel**"
                             
-            [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ]<!-- (https://prof-johan-daza.github.io/general/3/S6/Corrigé.pdf) -->
+            [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S6/Corrigé.pdf)
 
 ## Septième semaine
 
@@ -87,7 +87,7 @@
 
         !!! bug "**MATIÈRE – Description de la matière : changements d'états physiques, quatrième feuille d'exercices – Corrigé officiel**"
                             
-            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/3/S7/Corrigé.pdf) -->
+            [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/Corrigé.pdf)
 
 
 ## Neuvième semaine
@@ -120,7 +120,3 @@
     !!! tip "**MOODLE – Test : Convertir des unités de volume**"
 
         [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=773)
-
-
-## Dixième semaine
-
