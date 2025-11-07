@@ -11,7 +11,7 @@
     _Dates à venir_
     ///
 
-    !!! bug "**Diplôme national du brevet – Sujets corrigés**"
+    !!! bug "Diplôme national du brevet – Sujets corrigés"
 
         [Cliquez ici pour télécharger les sujets corrigés de 2016 à 2022 - Site source : www.physix.fr](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
 
@@ -39,45 +39,51 @@
 
             [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx) 
 
-            !!! bug "Les grandeurs physiques : première feuille**"
+            !!! bug "Les grandeurs physiques : première feuille – Corrigé officiel"
 
                 [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
 
 ## Quatrième et cinquième semaines
 
-!!! abstract "**MATIÈRE – Description de la matière**"
+### Matière
+
+!!! abstract "Description de la matière"
 
     Colonne affichée dans Pronote : 
     
     << À trous Constituti. de la mat. 2e feuill >>
 
-    !!! tip "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices**"
+    !!! tip "Description de la matière : constitution de la matière, deuxième feuille d'exercices"
 
         [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
             
-        !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, deuxième feuille d'exercices – Corrigé officiel**"
+        !!! bug "Description de la matière : constitution de la matière, deuxième feuille d'exercices – Corrigé officiel"
                             
             [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S5/Corrigé.pdf)
 
 ## Sixième semaine
 
-!!! abstract "**MATIÈRE – Description de la matière**"
+### Matière
+
+!!! abstract "Description de la matière"
 
     Colonne affichée dans Pronote : 
     
     << TP Autocui. et chang. d’état. 3e feuille >>
        
-    !!! tip "**MATIÈRE – Description de la matière : constitution de la matière, troisième feuille d'exercices**"
+    !!! tip "Description de la matière : constitution de la matière, troisième feuille d'exercices"
 
         [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S6/S6.pdf)
 
-        !!! bug "**MATIÈRE – Description de la matière : constitution de la matière, troisième feuille d'exercices – Corrigé officiel**"
+        !!! bug "Description de la matière : constitution de la matière, troisième feuille d'exercices – Corrigé officiel"
                             
             [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S6/Corrigé.pdf)
 
 ## Septième semaine
 
-!!! abstract "**MATIÈRE – Description de la matière**"
+### Matière
+
+!!! abstract "**Description de la matière**"
 
     Colonne affichée dans Pronote : 
     
@@ -85,18 +91,20 @@
 
     << Matière : états physiques exos Feuille 4 >>
     
-    !!! tip "**MATIÈRE – Description de la matière : changements d'états physiques, quatrième feuille d'exercices**"
+    !!! tip "**Description de la matière : changements d'états physiques, quatrième feuille d'exercices"
 
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/S7.pdf)
 
-        !!! bug "**MATIÈRE – Description de la matière : changements d'états physiques, quatrième feuille d'exercices – Corrigé officiel**"
+        !!! bug "Description de la matière : changements d'états physiques, quatrième feuille d'exercices – Corrigé officiel"
                             
             [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/Corrigé.pdf)
 
 
 ## Neuvième semaine
 
-!!! abstract "**MOODLE**"
+### Moodle
+
+!!! abstract "Moodle"
 
     ![Image](https://prof-johan-daza.github.io/general/3/Disque/Moodle.png){ width="500" }
     /// caption 
@@ -107,20 +115,20 @@
 
     Colonne affichée dans Pronote : 
     
-    << MOODLE – Test en ligne >>
+    << Test en ligne >>
     
-    !!! tip "**1) MOODLE – Test : Grandeurs, unités et mesures**"
+    !!! tip "1) Test : Grandeurs, unités et mesures"
 
         [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=770)
 
-    !!! tip "**2) MOODLE – Test : Convertir des unités de longueurs**"
+    !!! tip "2) Test : Convertir des unités de longueurs"
 
         [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=771)
 
-    !!! tip "**3) MOODLE – Test : Convertir des unités de masse**"
+    !!! tip "3) Test : Convertir des unités de masse"
 
         [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=772)
     
-    !!! tip "**4) MOODLE – Test : Convertir des unités de volume**"
+    !!! tip "4) Test : Convertir des unités de volume"
 
         [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=773)
