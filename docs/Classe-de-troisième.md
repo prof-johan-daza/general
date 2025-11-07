@@ -2,7 +2,9 @@
 
 ## Diplôme national du brevet
 
-!!! abstract "**Dates Diplôme national du brevet blanc**"
+### Dates à venir et sujets corrigés
+
+!!! abstract "Dates Diplôme national du brevet blanc"
 
     ![Image](https://prof-johan-daza.github.io/general/3/S3/S3.png){ width="500" }
     /// caption 
@@ -15,7 +17,9 @@
 
 ## Première, deuxième et troisième semaines
 
-!!! abstract "**INTRODUCTION – Les grandeurs physiques : contenu du cours**"
+### Introduction
+
+!!! abstract "Les grandeurs physiques : contenu du cours"
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Cours.pdf)
     
@@ -27,15 +31,15 @@
     
     << 1re feuille corrigée en continu par prof >>
     
-    !!! tip "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices**"
+    !!! tip "Les grandeurs physiques : première feuille d’exercices"
 
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/S3.pdf)
 
-        !!! note "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices à corriger à la maison**"
+        !!! note "Les grandeurs physiques : première feuille d’exercices à corriger à la maison"
 
             [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx) 
 
-            !!! bug "**INTRODUCTION – Les grandeurs physiques : première feuille – Corrigé officiel**"
+            !!! bug "Les grandeurs physiques : première feuille**"
 
                 [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
 
