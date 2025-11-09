@@ -15,12 +15,11 @@
     
     << Bateau : conversion, énergie thermique → mécanique >>
 
-
 ## Sixième semaine
 
 ### Énergie II
 
-!!! abstract "**L’énergie et le développement durable : première feuille d’exercices**"
+!!! abstract "**L’énergie et le développement durable**"
 
     Colonne affichée dans Pronote : 
     
@@ -30,13 +29,13 @@
     
     << 1re feuille corrigée en continu par prof >>
 
-#### Première feuille d’exercices
+#### Première feuille
 
 !!! tip "**L’énergie et le développement durable**"
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S6/S6.pdf)
 
-#### Première feuille d’exercices – Corrigé officiel
+#### Première feuille – Corrigé officiel
 
 !!! bug "**L’énergie et le développement durable**"
 
@@ -46,7 +45,7 @@
 
 ### Énergie III
 
-!!! abstract "**Formes, transferts et conversions de l'énergie : deuxième feuille d’exercices**"
+!!! abstract "**Formes, transferts et conversions de l'énergie**"
 
     Colonnes affichées dans Pronote : 
     
@@ -56,15 +55,17 @@
     
     << Form/transf Deux. feuil corrigé par prof >>
 
-    !!! tip "**Formes, transferts et conversions de l'énergie : deuxième feuille d’exercices**"
+#### Deuxième feuille
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S9/S9.pdf)
+!!! tip "**Formes, transferts et conversions de l'énergie**"
 
-        !!! note "**Formes, transferts et conversions de l'énergie : deuxième feuille d’exercices à corriger**"
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S9/S9.pdf)
+
+#### Deuxième feuille – Corrigé officiel
           
-            !!! bug "**Formes, transferts et conversions de l'énergie : deuxième feuille d’exercices – Corrigé officiel**"
+!!! bug "**Formes, transferts et conversions de l'énergie**"
 
-                [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->  
+    [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->  
 
 ## Dixième semaine
 
@@ -80,14 +81,14 @@
     
     << GRAN. ET CAL. 3e feuil. Corrigé prof. >>
 
-#### Troisième feuille d'exercices
+#### Troisième feuille
 
 !!! tip "**RAPPEL GRANDEURS ET CALCUL DE LA CONSOMMATION ÉLECTRIQUE**"
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S10/S10.pdf)
 
-##### Troisième feuille d'exercices - Corrigé officiel
+##### Troisième feuille - Corrigé officiel
 
 !!! bug "**RAPPEL GRANDEURS ET CALCUL DE LA CONSOMMATION ÉLECTRIQUE**"
 
-    [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->  
+    [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->
