@@ -35,7 +35,7 @@
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S6/S6.pdf)
 
-#### Première feuille – Corrigé officiel
+##### Première feuille – Corrigé officiel
 
 !!! bug "**L’énergie et le développement durable**"
 
@@ -61,7 +61,7 @@
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S9/S9.pdf)
 
-#### Deuxième feuille – Corrigé officiel
+##### Deuxième feuille – Corrigé officiel
           
 !!! bug "**Formes, transferts et conversions de l'énergie**"
 
@@ -71,7 +71,7 @@
 
 ### Énergie IV
 
-!!! abstract "**RAPPEL GRANDEURS ET CALCUL DE LA CONSOMMATION ÉLECTRIQUE : troisième feuille d’exercices**"
+!!! abstract "**RAPPEL GRANDEURS ET CALCUL DE LA CONSOMMATION ÉLECTRIQUE**"
 
     Colonnes affichées dans Pronote : 
     
