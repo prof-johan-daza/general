@@ -2,7 +2,7 @@
 
 ## Première, deuxième et troisième semaines
 
-### Énergie
+### Énergie I
 
 !!! abstract "**L’énergie, qu’est-ce que c’est ?**"
 
@@ -18,7 +18,7 @@
 
 ## Sixième semaine
 
-### Énergie
+### Énergie II
 
 !!! abstract "**L’énergie et le développement durable : première feuille d’exercices**"
 
@@ -30,19 +30,21 @@
     
     << 1re feuille corrigée en continu par prof >>
 
-    !!! tip "**L’énergie et le développement durable : première feuille d’exercices**"
+#### Première feuille d’exercices
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S6/S6.pdf)
+!!! tip "**L’énergie et le développement durable**"
 
-        !!! note "**L’énergie et le développement durable : première feuille d’exercices à corriger**"
-          
-            !!! bug "**L’énergie et le développement durable : première feuille d’exercices – Corrigé officiel**"
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S6/S6.pdf)
 
-                [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->
+#### Première feuille d’exercices – Corrigé officiel
+
+!!! bug "**L’énergie et le développement durable**"
+
+    [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->
 
 ## Neuvième semaine
 
-### Énergie
+### Énergie III
 
 !!! abstract "**Formes, transferts et conversions de l'énergie : deuxième feuille d’exercices**"
 
@@ -66,7 +68,7 @@
 
 ## Dixième semaine
 
-### Énergie
+### Énergie IV
 
 !!! abstract "**RAPPEL GRANDEURS ET CALCUL DE LA CONSOMMATION ÉLECTRIQUE : troisième feuille d’exercices**"
 
