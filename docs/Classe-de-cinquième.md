@@ -39,7 +39,7 @@
 
 !!! bug "**L’énergie et le développement durable**"
 
-    [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S6/Corrigé.pdf)
 
 ## Neuvième semaine
 
@@ -65,7 +65,7 @@
           
 !!! bug "**Formes, transferts et conversions de l'énergie**"
 
-    [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->  
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S9/Corrigé.pdf)
 
 ## Dixième semaine
 
@@ -91,4 +91,4 @@
 
 !!! bug "**RAPPEL GRANDEURS ET CALCUL DE LA CONSOMMATION ÉLECTRIQUE**"
 
-    [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/5/S6/S6.pdf) -->
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S10/Corrigé.pdf)
