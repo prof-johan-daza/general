@@ -80,9 +80,9 @@
 
 #### Troisième feuille d'exercices
 
-    !!! tip "**RAPPEL GRANDEURS ET CALCUL DE LA CONSOMMATION ÉLECTRIQUE**"
+!!! tip "**RAPPEL GRANDEURS ET CALCUL DE LA CONSOMMATION ÉLECTRIQUE**"
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S10/S10.pdf)
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S10/S10.pdf)
 
 ##### Troisième feuille d'exercices - Corrigé officiel
 
