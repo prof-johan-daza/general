@@ -2,7 +2,9 @@
 
 ## Première, deuxième et troisième semaines
 
-!!! abstract "**INTRODUCTION – Les grandeurs physiques : contenu du cours**"
+### Introduction
+
+!!! abstract "**Les grandeurs physiques : contenu du cours**"
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Cours.pdf)
 
@@ -14,21 +16,27 @@
     
     << 1re feuille corrigée en continu par prof >>
     
-    !!! tip "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices**"
+#### Première feuille
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/S3.pdf)
+!!! tip "**Les grandeurs physiques**"
 
-        !!! note "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices à corriger à la maison**"
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/S3.pdf)
+
+        !!! note "**Les grandeurs physiques : à corriger à la maison**"
 
             [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Corrigé.docx)
 
-            !!! bug "**INTRODUCTION – Les grandeurs physiques : première feuille – Corrigé officiel**"
+##### Première feuille – Corrigé officiel
 
-                [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Corrigé.pdf)
+!!! bug "**Les grandeurs physiques**"
+
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Corrigé.pdf)
 
 ##  Quatrième semaine
 
-!!! abstract "**MATIÈRE – L’atome**"
+### Matière
+
+!!! abstract "**L’atome**"
 
     [Cliquez ici pour télécharger les documents](https://youtu.be/97MQoUNqMuk?si=Bco7__TDUH2xCDal)
 
@@ -36,17 +44,23 @@
     
     << 2e feui l’atom et l’évoluti de ses modèl >>
 
-    !!! tip "**MATIÈRE – L’atome : histoire et évolution des modèles, deuxième feuille d'exercices**"
+#### Deuxième feuille
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S4/S4.pdf)
+!!! tip "**L’atome : histoire et évolution des modèles**"
+
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S4/S4.pdf)
             
-        !!! bug "**MATIÈRE – L’atome : histoire et évolution des modèles, deuxième feuille d'exercices – Corrigé officiel**"
+##### Deuxième feuille – Corrigé officiel
+
+!!! bug "**L’atome : histoire et évolution des modèles, deuxième feuille d'exercices – Corrigé officiel**"
                             
             [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S4/Corrigé.pdf) -->
 
 ## Cinquième semaine
 
-!!! abstract "**MATIÈRE – La matière et ses états**"
+### Matière
+
+!!! abstract "**La matière et ses états**"
 
     ![Image](https://prof-johan-daza.github.io/general/4/S5/S5.png){ width="500" }
     /// caption 
@@ -57,16 +71,22 @@
     
     << Les changements d'état : troisième feuil >>
 
-    !!! tip "**MATIÈRE – Les changements d'état : troisième feuille d'exercices**"
+#### Troisième feuille
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S5/S5.pdf)
+!!! tip "**Les changements d'état**"
+
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S5/S5.pdf)
             
-        !!! bug "**MATIÈRE – Les changements d'état : troisième feuille d'exercices – Corrigé officiel**"
+##### Troisième feuille – Corrigé officiel
+
+!!! bug "**Les changements d'état**"
                             
             [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf) -->
 
 
 ## Septième semaine
+
+### Moodle
 
 !!! abstract "**MOODLE**"
 
@@ -81,26 +101,30 @@
     
     << MOODLE – Test en ligne >>
     
-    !!! tip "**1) MOODLE – Test : Grandeurs, unités et mesures**"
+##### Test en ligne
 
-        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=770)
+!!! tip "**1) Test : Grandeurs, unités et mesures**"
 
-    !!! tip "**2) MOODLE – Test : Convertir des unités de longueurs**"
+    [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=770)
 
-        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=771)
+!!! tip "**2) Test : Convertir des unités de longueurs**"
 
-    !!! tip "**3) MOODLE – Test : Convertir des unités de masse**"
+    [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=771)
 
-        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=772)
+!!! tip "**3) Test : Convertir des unités de masse**"
+
+    [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=772)
     
-    !!! tip "**4) MOODLE – Test : Convertir des unités de volume**"
+!!! tip "**4) Test : Convertir des unités de volume**"
 
-        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=773)
+    [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=773)
 
 
 ##  Neuvième semaine
 
-!!! abstract "**MATIÈRE – Changements d’états physiques et classification de la matière**"
+### Matière
+
+!!! abstract "**Changements d’états physiques et classification de la matière**"
 
     Colonne affichée dans Pronote : 
     
@@ -110,10 +134,14 @@
 
     << Matière : états et classification Feuil4 >>
 
-    !!! tip "**MATIÈRE – Changements d’états physiques et classification de la matière, quatrième feuille d'exercices**"
+#### Quatrième feuille
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S9/S9.pdf)
+!!! tip "**Changements d’états physiques et classification de la matière**"
+
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S9/S9.pdf)
             
-        !!! bug "**MATIÈRE – Changements d’états physiques et classification de la matière – Corrigé officiel**"
+##### Quatrième feuille – Corrigé officiel
+
+!!! bug "**Changements d’états physiques et classification de la matière**"
                             
-            [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S9/Corrigé.pdf)
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S9/Corrigé.pdf)
