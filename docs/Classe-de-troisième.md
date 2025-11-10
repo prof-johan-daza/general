@@ -19,7 +19,7 @@
 
 ### Introduction
 
-!!! abstract "Les grandeurs physiques : contenu du cours"
+!!! abstract "Les grandeurs physiques"
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Cours.pdf)
     
@@ -31,17 +31,25 @@
     
     << 1re feuille corrigée en continu par prof >>
     
-    !!! tip "Les grandeurs physiques : première feuille d’exercices"
+    !!! tip "Les grandeurs physiques : à corriger à la maison"
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/S3.pdf)
+        
+        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx)
 
-        !!! note "Les grandeurs physiques : première feuille d’exercices à corriger à la maison"
+#### Première feuille
 
-            [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx) 
+!!! note "Les grandeurs physiques"
 
-            !!! bug "Les grandeurs physiques : première feuille – Corrigé officiel"
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/S3.pdf)
 
-                [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
+##### Première feuille – Corrigé officiel
+
+!!! bug "Les grandeurs physiques"
+
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
+
+
+
 
 ## Quatrième et cinquième semaines
 
@@ -53,13 +61,17 @@
     
     << À trous Constituti. de la mat. 2e feuill >>
 
-    !!! tip "Description de la matière : constitution de la matière, deuxième feuille d'exercices"
+#### Deuxième feuille
 
-        [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
+!!! tip "Description de la matière : constitution de la matière"
+
+    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
             
-        !!! bug "Description de la matière : constitution de la matière, deuxième feuille d'exercices – Corrigé officiel"
+##### Deuxième feuille – Corrigé officiel
+
+!!! bug "Description de la matière : constitution de la matière"
                             
-            [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S5/Corrigé.pdf)
+    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S5/Corrigé.pdf)
 
 ## Sixième semaine
 
@@ -71,13 +83,17 @@
     
     << TP Autocui. et chang. d’état. 3e feuille >>
        
-    !!! tip "Description de la matière : constitution de la matière, troisième feuille d'exercices"
+#### Troisième feuille
 
-        [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S6/S6.pdf)
+!!! tip "Description de la matière : constitution de la matière"
 
-        !!! bug "Description de la matière : constitution de la matière, troisième feuille d'exercices – Corrigé officiel"
+    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S6/S6.pdf)
+
+##### Troisième feuille – Corrigé officiel
+
+!!! bug "Description de la matière : constitution de la matière"
                             
-            [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S6/Corrigé.pdf)
+    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S6/Corrigé.pdf)
 
 ## Septième semaine
 
@@ -91,13 +107,17 @@
 
     << Matière : états physiques exos Feuille 4 >>
     
-    !!! tip "**Description de la matière : changements d'états physiques, quatrième feuille d'exercices"
+#### Quatrième feuille
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/S7.pdf)
+!!! tip "**Description de la matière : changements d'états physiques"
 
-        !!! bug "Description de la matière : changements d'états physiques, quatrième feuille d'exercices – Corrigé officiel"
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/S7.pdf)
+
+##### Quatrième feuille – Corrigé officiel
+
+!!! bug "Description de la matière : changements d'états physiques"
                             
-            [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/Corrigé.pdf)
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/Corrigé.pdf)
 
 
 ## Neuvième semaine
@@ -116,19 +136,21 @@
     Colonne affichée dans Pronote : 
     
     << Test en ligne >>
+
+##### Test en ligne
     
-    !!! tip "1) Test : Grandeurs, unités et mesures"
+!!! tip "1) Test : Grandeurs, unités et mesures"
 
-        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=770)
+    [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=770)
 
-    !!! tip "2) Test : Convertir des unités de longueurs"
+!!! tip "2) Test : Convertir des unités de longueurs"
 
-        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=771)
+    [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=771)
 
-    !!! tip "3) Test : Convertir des unités de masse"
+!!! tip "3) Test : Convertir des unités de masse"
 
-        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=772)
+    [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=772)
     
-    !!! tip "4) Test : Convertir des unités de volume"
+!!! tip "4) Test : Convertir des unités de volume"
 
-        [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=773)
+    [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=773)
