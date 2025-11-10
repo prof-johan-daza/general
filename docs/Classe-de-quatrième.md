@@ -22,9 +22,9 @@
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/S3.pdf)
 
-        !!! note "**Les grandeurs physiques : à corriger à la maison**"
+    !!! note "**Les grandeurs physiques : à corriger à la maison**"
 
-            [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Corrigé.docx)
+        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S3/Corrigé.docx)
 
 ##### Première feuille – Corrigé officiel
 
@@ -54,7 +54,7 @@
 
 !!! bug "**L’atome : histoire et évolution des modèles, deuxième feuille d'exercices – Corrigé officiel**"
                             
-            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S4/Corrigé.pdf) -->
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S4/Corrigé.pdf)
 
 ## Cinquième semaine
 
@@ -81,7 +81,7 @@
 
 !!! bug "**Les changements d'état**"
                             
-            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf) -->
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf)
 
 
 ## Septième semaine
