@@ -145,3 +145,13 @@
 !!! bug "**Changements d’états physiques et classification de la matière**"
                             
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S9/Corrigé.pdf)
+
+## Onzième semaine
+
+### Évaluation de fin de chapitre
+
+!!! abstract "Évaluation de fin de chapitre"
+
+    Colonnes affichées dans Pronote : 
+    
+    << Évaluation de fin de chapitre >>

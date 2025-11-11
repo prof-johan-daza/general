@@ -92,3 +92,14 @@
 !!! bug "**RAPPEL GRANDEURS ET CALCUL DE LA CONSOMMATION ÉLECTRIQUE**"
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S10/Corrigé.pdf)
+
+
+## Onzième semaine
+
+### Évaluation de fin de chapitre
+
+!!! abstract "Évaluation de fin de chapitre"
+
+    Colonnes affichées dans Pronote : 
+    
+    << Évaluation de fin de chapitre >>

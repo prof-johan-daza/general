@@ -109,7 +109,7 @@
     
 #### Quatrième feuille
 
-!!! tip "**Description de la matière : changements d'états physiques"
+!!! tip "Description de la matière : changements d'états physiques"
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/S7.pdf)
 
@@ -154,3 +154,13 @@
 !!! tip "4) Test : Convertir des unités de volume"
 
     [Cliquez ici pour accéder au test MOODLE](https://moodle.lfbogota.edu.co/mod/quiz/view.php?id=773)
+
+## Onzième semaine
+
+### Évaluation de fin de chapitre
+
+!!! abstract "Évaluation de fin de chapitre"
+
+    Colonnes affichées dans Pronote : 
+    
+    << Évaluation de fin de chapitre >>
