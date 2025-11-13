@@ -52,8 +52,10 @@ L’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux vis
 - Crée 5 questions de type QCM sur le thème. Chaque question doit proposer 5 réponses possibles (A, B, C, D, E), dont une seule est correcte.
 Indique clairement la bonne réponse pour chaque question (par exemple : “Réponse correcte : C)”).
 
-## Calendrier scolaire 2025 - 2026
+## Évaluations
 
-!!! bug "**Calendrier scolaire 2025 - 2026**"
+!!! bug ""
 
-    [Cliquez ici pour télécharger le document](https://prof-johan-daza.github.io/general/Disque/C.pdf)
+    Page  
+    Analyse  
+    Full  
