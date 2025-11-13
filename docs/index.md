@@ -1,4 +1,4 @@
-# *Année scolaire, calendrier et autres*
+# Année scolaire
 
 L’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux visualiser le déroulement de l’année, je vous propose la liste suivante, qui vous permettra de situer plus facilement le temps écoulé au fil des semaines. 3e = 42 élèves, 4e = 40 élèves et 5e = 64 élèves. Total = 146 élèves.
 
