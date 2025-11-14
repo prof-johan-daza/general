@@ -2,7 +2,7 @@
 
 !!! bug ""
 
-    ![Image](https://prof-johan-daza.github.io/general/Disque/C.png){ width="500" }
+    ![Image](https://prof-johan-daza.github.io/general/Disque/C.png){ width="800" }
     /// caption 
     _Calendrier scolaire 2025 - 2026_
     ///
