@@ -5,6 +5,10 @@ theme:
   font:
     text: Merriweather Sans
     code: Red Hat Mono
+
+  nav : 
+  - Accueil: index.md
+  - Sonnerie: Sonnerie.md
   logo: assets/logo-general.png
   favicon: assets/favicon-general.ico
   features:
