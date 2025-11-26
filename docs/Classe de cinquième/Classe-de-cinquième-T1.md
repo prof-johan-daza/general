@@ -98,8 +98,10 @@
 
 ### Évaluation de fin de chapitre
 
-!!! abstract "Évaluation de fin de chapitre"
+!!! abstract "Évaluation de fin de chapitre - Corrigé officiel"
 
-    Colonnes affichées dans Pronote : 
-    
+    Colonnes affichées dans Pronote :  
     << Évaluation de fin de chapitre >>
+
+    !!! bug ""
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S11/Corrigé.pdf)
