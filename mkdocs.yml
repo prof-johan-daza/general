@@ -29,7 +29,7 @@ theme:
 
 nav:
   - Calendrier: Calendrier.md
-  - Année scolaire: Année scolaire.md
+  - Année scolaire: index.md
   - Sonnerie : Sonnerie.md
   - 'Classe de troisième':
       - Premier trimestre: Classe de troisième/Classe-de-troisième-T1.md
