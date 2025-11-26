@@ -1,5 +1,5 @@
 # Classe de cinquième
 
-## Douzième semaines
+## Douzième semaine
 
 ### Thématique
