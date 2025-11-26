@@ -28,10 +28,8 @@ theme:
       accent: deep orange
 
 nav:
-  - text: Accueil
-    link: /index.md
-  - text: Sonnerie
-    link: /Sonnerie.md
+  - Calendrier: Calendrier.md
+  - Index: index.md
 
 
 markdown_extensions:
