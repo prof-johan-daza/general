@@ -31,8 +31,8 @@ nav:
   - Calendrier: Calendrier.md
   - Index: index.md
   - 'Classe de troisième':
-      - T1: Classe-de-troisième-T1.md
-      - T2: Classe-de-troisième-T2.md
+      - T1: /Classe-de-troisième-T1.md
+      - T2: /Classe-de-troisième-T2.md
 
 markdown_extensions:
   - def_list
