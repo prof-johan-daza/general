@@ -29,10 +29,17 @@ theme:
 
 nav:
   - Calendrier: Calendrier.md
-  - Index: index.md
+  - Année scolaire: Année scolaire.md
+  - Sonnerie : Sonnerie.md
   - 'Classe de troisième':
       - Premier trimestre: Classe de troisième/Classe-de-troisième-T1.md
       - Deuxième trimestre: Classe de troisième/Classe-de-troisième-T2.md
+  - 'Classe de quatrième':
+      - Premier trimestre: Classe de quatrième/Classe-de-quatrième-T1.md
+      - Deuxième trimestre: Classe de quatrième/Classe-de-quatrième-T2.md
+  - 'Classe de cinquième':
+      - Premier trimestre: Classe de cinquième/Classe-de-cinquième-T1.md
+      - Deuxième trimestre: Classe de cinquième/Classe-de-cinquième-T2.md
 
 markdown_extensions:
   - def_list
