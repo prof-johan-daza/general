@@ -98,7 +98,7 @@
 
 ### Évaluation de fin de chapitre
 
-!!! abstract "Évaluation de fin de chapitre - Corrigé officiel"
+!!! bug "Évaluation de fin de chapitre - Corrigé officiel"
 
     Colonnes affichées dans Pronote :  
     << Évaluation de fin de chapitre >>
