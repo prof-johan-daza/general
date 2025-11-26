@@ -157,18 +157,11 @@
 
 ## Onzième semaine
 
-### Évaluation de fin de chapitre
+### Évaluation de fin de chapitre – Corrigé officiel
 
-!!! abstract "Évaluation de fin de chapitre"
+!!! bug "Corrigé officiel"
 
-    Colonnes affichées dans Pronote : 
-    
+    Colonnes affichées dans Pronote :  
     << Évaluation de fin de chapitre >>
 
-## Douzième semaine
-
-### La masse volumique
-
-!!! abstract ""
-
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S12/S12.pdf)
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S11/Corrigé.pdf)
