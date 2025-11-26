@@ -148,10 +148,11 @@
 
 ## Onzième semaine
 
-### Évaluation de fin de chapitre
+### Évaluation de fin de chapitre – Corrigé officiel
 
-!!! abstract "Évaluation de fin de chapitre"
+!!! bug "Corrigé officiel"
 
-    Colonnes affichées dans Pronote : 
-    
+    Colonnes affichées dans Pronote :  
     << Évaluation de fin de chapitre >>
+
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S11/Corrigé.pdf)
