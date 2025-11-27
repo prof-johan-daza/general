@@ -6,4 +6,7 @@
 
 !!! abstract ""
 
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S12/S12.pdf)
+    Colonne.s affichée.s dans Pronote :  
+    → Première feuille – La masse volumique
+    
+    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S12/S12.pdf)
