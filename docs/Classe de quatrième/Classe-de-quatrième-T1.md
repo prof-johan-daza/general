@@ -1,4 +1,4 @@
-# Classe de quatrième
+# Classe de quatrième – Premier trimestre
 
 ## Première, deuxième et troisième semaines
 
