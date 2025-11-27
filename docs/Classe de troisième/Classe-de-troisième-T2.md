@@ -1,4 +1,4 @@
-# Classe de troisième
+# Classe de troisième – Deuxième trimestre
 
 ## Douzième semaine
 
