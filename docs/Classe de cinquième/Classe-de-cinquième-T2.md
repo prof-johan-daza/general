@@ -1,4 +1,4 @@
-# Classe de cinquième
+# Classe de cinquième – Deuxième trimestre
 
 ## Douzième semaine
 

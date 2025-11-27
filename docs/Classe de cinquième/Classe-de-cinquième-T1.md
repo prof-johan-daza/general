@@ -1,4 +1,4 @@
-# Classe de cinquième
+# Classe de cinquième – Premier trimestre
 
 ## Première, deuxième et troisième semaines
 

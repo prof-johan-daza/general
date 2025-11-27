@@ -1,4 +1,4 @@
-# Classe de troisième
+# Classe de troisième – Premier trimestre
 
 ## Diplôme national du brevet
 
