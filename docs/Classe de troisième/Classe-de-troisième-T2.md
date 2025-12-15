@@ -42,5 +42,5 @@
     Colonne.s affichée.s dans Pronote :  
     → Quatrième feuille – Corrigé
     
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S16/S16.pdf)
+    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S16/S16.pdf)
 
