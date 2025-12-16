@@ -2,76 +2,62 @@
 
 ## Diplôme national du brevet
 
-### Dates à venir et sujets corrigés
+### Sujets corrigés
 
-!!! abstract "Dates Diplôme national du brevet blanc"
+!!! abstract ""
 
     ![Image](https://prof-johan-daza.github.io/general/3/S3/S3.png){ width="500" }
     /// caption 
     _Dates à venir_
     ///
 
-    !!! bug "Diplôme national du brevet – Sujets corrigés"
+!!! bug ""
 
-        [Cliquez ici pour télécharger les sujets corrigés de 2016 à 2022 - Site source : www.physix.fr](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
+    [Cliquez ici pour télécharger les sujets corrigés de 2016 à 2022 - Site source : www.physix.fr](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
 
 ## Première, deuxième et troisième semaines
 
-### Introduction
+### Première feuille – Les grandeurs physiques
 
-!!! abstract "Les grandeurs physiques"
-
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Cours.pdf)
-    
+!!! abstract ""
+   
     Colonnes affichées dans Pronote : 
     
-    << 1er Feuille d’exercices, séance d’avance >>
-    
-    et 
-    
-    << 1re feuille corrigée en continu par prof >>
-    
-    !!! tip "Les grandeurs physiques : à corriger à la maison"
+    → Première feuille – Avancement  
+    → Première feuille – Corrigé
 
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Cours.pdf)
         
+    !!! tip ""
+        
+        À corriger à la maison :
+
         [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx)
 
-#### Première feuille
+!!! note ""
 
-!!! note "Les grandeurs physiques"
-
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/S3.pdf)
-
-##### Première feuille – Corrigé officiel
+    [Cliquez ici pour télécharger les documents – Travail demandé en cours](https://prof-johan-daza.github.io/general/3/S3/S3.pdf)
 
 !!! bug "Les grandeurs physiques"
 
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
-
-
-
+    [Cliquez ici pour télécharger les documents – Corrigé](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
 
 ## Quatrième et cinquième semaines
+### Deuxième feuille – Description de la matière
 
-### Matière
-
-!!! abstract "Description de la matière"
+!!! abstract ""
 
     Colonne affichée dans Pronote : 
     
-    << À trous Constituti. de la mat. 2e feuill >>
+    → Deuxième feuille – Corrigé
 
-#### Deuxième feuille
+!!! tip ""
 
-!!! tip "Description de la matière : constitution de la matière"
+    [Cliquez ici pour télécharger les documents – Travail demandé en cours - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
 
-    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
-            
-##### Deuxième feuille – Corrigé officiel
-
-!!! bug "Description de la matière : constitution de la matière"
+!!! bug ""
                             
-    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S5/Corrigé.pdf)
+    [Cliquez ici pour télécharger les documents – Corrigé – Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S5/Corrigé.pdf)
 
 ## Sixième semaine
 
