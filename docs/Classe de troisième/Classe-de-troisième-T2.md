@@ -6,32 +6,35 @@
 
 !!! abstract ""
 
-    Colonne.s affichée.s dans Pronote :  
-    → Première feuille – La masse volumique
+    Colonne affichée dans Pronote :
+
+    → Première feuille – Corrigé
     
     [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S12/S12.pdf)
 
 ## Treizième semaine
 
-### Exercices – La masse volumique – Deuxième feuille
+### Deuxième feuille – Séance d'exercices, La masse volumique
 
 !!! abstract ""
 
-    Colonne.s affichée.s dans Pronote :  
-    → Deuxième feuille, advancement
-    → Deuxième feuille – Exercices – La masse volumique
+    Colonnes affichées dans Pronote :
+
+    → Deuxième feuille – Avancement  
+    → Deuxième feuille – Corrigé
     
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S14/S14.pdf)
 
 
 ##  Quatorzième semaine
 
-### TP – La masse volumique – Troisème feuille
+### Troisème feuille – TP, La masse volumique
 
 !!! abstract ""
 
-    Colonne.s affichée.s dans Pronote :  
-    → TP – La masse volumique
+    Colonne affichée dans Pronote :
+
+    → Troisième feuille – Corrigé
     
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S15/S15.pdf)
 
@@ -39,8 +42,8 @@
 ### Quatrième feuille – La matière dans l'univers
 !!! abstract ""
 
-    Colonne.s affichée.s dans Pronote :  
+    Colonne affichée dans Pronote :
+
     → Quatrième feuille – Corrigé
     
     [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S16/S16.pdf)
-
