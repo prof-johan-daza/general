@@ -28,7 +28,7 @@ theme:
       accent: deep orange
 
 nav:
-
+  - LPI: LPI.md
   - Année scolaire: index.md
   - Sonnerie : Sonnerie.md
   - Calendrier: Calendrier.md
