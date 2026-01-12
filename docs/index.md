@@ -16,12 +16,12 @@ L’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux vis
 - [x] Semaine 12 – lundi 17 nov. 2025 au vendredi 21 nov. 2025
 - [x] Semaine 13 – lundi 24 nov. 2025 au vendredi 28 nov. 2025
 - [x] Semaine 14 – lundi 1 déc. 2025 au vendredi 5 déc. 2025
-- [ ] Semaine 15 – lundi 8 déc. 2025 au vendredi 12 déc. 2025
-- [ ] Semaine 16 – lundi 15 déc. 2025 au vendredi 19 déc. 2025
-- [ ] Semaine 17 – lundi 22 déc. 2025 au vendredi 26 déc. 2025
-- [ ] Semaine 18 – lundi 29 déc. 2025 au vendredi 2 janv. 2026
-- [ ] Semaine 19 – lundi 5 janv. 2026 au vendredi 9 janv. 2026
-- [ ] Semaine 20 – lundi 12 janv. 2026 au vendredi 16 janv. 2026
+- [x] Semaine 15 – lundi 8 déc. 2025 au vendredi 12 déc. 2025
+- [x] Semaine 16 – lundi 15 déc. 2025 au vendredi 19 déc. 2025
+- [x] Semaine 17 – lundi 22 déc. 2025 au vendredi 26 déc. 2025
+- [x] Semaine 18 – lundi 29 déc. 2025 au vendredi 2 janv. 2026
+- [x] Semaine 19 – lundi 5 janv. 2026 au vendredi 9 janv. 2026
+- [x] Semaine 20 – lundi 12 janv. 2026 au vendredi 16 janv. 2026
 - [ ] Semaine 21 – lundi 19 janv. 2026 au vendredi 23 janv. 2026
 - [ ] Semaine 22 – lundi 26 janv. 2026 au vendredi 30 janv. 2026
 - [ ] Semaine 23 – lundi 2 févr. 2026 au vendredi 6 févr. 2026
@@ -45,17 +45,3 @@ L’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux vis
 - [ ] Semaine 41 – lundi 8 juin 2026 au vendredi 12 juin 2026
 - [ ] Semaine 42 – lundi 15 juin 2026 au vendredi 19 juin 2026
 - [ ] Semaine 43 – lundi 22 juin 2026 au vendredi 26 juin 2026
-
-## Prompt
-
-- Lis la notion suivante. 
-- Crée 5 questions de type QCM sur le thème. Chaque question doit proposer 5 réponses possibles (A, B, C, D, E), dont une seule est correcte.
-Indique clairement la bonne réponse pour chaque question (par exemple : “Réponse correcte : C)”).
-
-## Évaluations
-
-!!! bug ""
-
-    Page  
-    Analyse  
-    Full  
