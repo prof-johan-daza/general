@@ -4,7 +4,7 @@
 - [x] Deuxième feuille – Séance d'exercices, La masse volumique
 - [x] Troisème feuille – TP, La masse volumique
 - [ ] Quatrième feuille – La matière dans l'univers
-- [ ] À compléter
+- [ ] Cinquième feuille – Séance d'exercices, La matière dans l'univers
 ## Quatrième
 - [x] Première feuille
 - [x] Dessins de molécules – molview.org
@@ -15,4 +15,4 @@
 - [x] Première feuille
 - [x] Centrale thermique à flamme
 - [ ] Centrale nucléaire
-- [ ] Ok – À compléter le 12 janvier 2026
+- [ ] À faire
