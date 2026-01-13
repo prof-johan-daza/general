@@ -10,7 +10,7 @@
 - [x] Dessins de molécules – molview.org
 - [x] Domino moléculaire
 - [ ] PHET – Jeu molécules
-- [ ] À compléter
+- [ ] Deuxième feuille – Séance d'exercices, Formule chimique
 ## Cinquième
 - [x] Première feuille
 - [x] Centrale thermique à flamme
