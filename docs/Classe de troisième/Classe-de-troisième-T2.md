@@ -40,8 +40,10 @@
 
     Colonne affichée dans Pronote :
 
-    → Quatrième feuille – Corrigé  
-    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S16/S16.pdf)
+    → Quatrième feuille – Avancement (feuille élève)  
+    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S16/S16.pdf)  
+    → Quatrième feuille – Corrigé   
+    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S16/S16C.pdf)
 ## Vingtième semaine
 ### Cinquième feuille – Séance d'exercices I, La matière dans l'univers
 !!! abstract ""
