@@ -14,5 +14,6 @@
 ## Cinquième
 - [x] Première feuille
 - [x] Centrale thermique à flamme
-- [ ] Centrale nucléaire
-- [ ] États de la matière
+- [x] Centrale nucléaire
+- [ ] États de la matière – TEAMS
+- [ ] Prise de note – États de la matière
