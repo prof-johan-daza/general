@@ -30,6 +30,7 @@ theme:
 nav:
 
   - Année scolaire: index.md
+  - Distingués: Distingués.md
   - LPI: LPI.md
   - Sonnerie : Sonnerie.md
   - Calendrier: Calendrier.md
