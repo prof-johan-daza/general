@@ -15,3 +15,10 @@
 !!! bug ""
 
     [Cliquez ici pour télécharger les documents, après le travail en cours] <!-- [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S9/S9.pdf) -->
+
+## Vingt-deuxième semaine
+
+#### Deuxième feuille
+!!! question ""
+
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S22/S22.pdf)
