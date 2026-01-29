@@ -3,7 +3,7 @@
 ### Représentation graphique des transferts et conversions d’énergie
 !!! abstract ""
     Colonnes affichées dans Pronote :  
-    [Cliquez ici pour télécharger les documents][Première feuille – Feuille de l'élève]
+    [Première feuille – Feuille de l'élève, Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S14/S14.pdf)
 ## Vingt-troisième semaine
 <!-- ### Huitième feuille -->
 ## Vingt-quatrième semaine
@@ -48,3 +48,4 @@
 <!-- ### Vingt-huitième feuille -->
 
 [def]: https://prof-johan-daza.github.io/general/5/S14/S14.pdf
+[def2]: https://prof-johan-daza.github.io/general/3/S12/S12.pdf
