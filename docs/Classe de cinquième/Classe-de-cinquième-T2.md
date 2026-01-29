@@ -49,6 +49,3 @@
 <!-- ### Vingt-septième feuille -->
 ## Quarante-troisième semaine
 <!-- ### Vingt-huitième feuille -->
-
-[def]: https://prof-johan-daza.github.io/general/5/S14/S14.pdf
-[def2]: https://prof-johan-daza.github.io/general/3/S12/S12.pdf
