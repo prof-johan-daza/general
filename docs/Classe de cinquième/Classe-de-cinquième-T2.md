@@ -2,9 +2,10 @@
 ## Douzième semaine
 ### Représentation graphique des transferts et conversions d’énergie
 !!! abstract ""
-    1– Titre de la note saisi dans Pronote : Première feuille – Feuille de l'élève, avancement.  
-    2– Titre de la note saisi dans Pronote : Première feuille – Corrigé.  
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/5/S14/S14.pdf)
+    1. Titre de la note saisi dans Pronote : Première feuille – Feuille de l'élève, avancement.  
+    [Cliquez ici pour télécharger les documents – Feuille de l'élève](https://prof-johan-daza.github.io/general/5/S14/S14.pdf)  
+    2. Titre de la note saisi dans Pronote : Première feuille – Corrigé.  
+    [Cliquez ici pour télécharger les documents – Corrigé](https://prof-johan-daza.github.io/general/5/S14/S14C.pdf)
 ## Vingt-troisième semaine
 <!-- ### Huitième feuille -->
 ## Vingt-quatrième semaine
