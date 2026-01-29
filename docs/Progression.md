@@ -6,9 +6,8 @@
 - [x] Quatrième feuille – La matière dans l'univers
 - [x] Cinquième feuille – Univers – Séance d'exercices I type Brevet
 - [ ] Sixième feuille – Univers – Séance d'exercices II
+- [ ] Mouvement et interactions Cours – Un graphique d-t, v-t et a-t.
 - [ ] ...
-- [ ] ...
-- [ ] Mouvement et interactions
 - [ ] ...
 - [ ] ...
 - [ ] Énergie
@@ -18,8 +17,8 @@
 - [x] Domino moléculaire
 - [x] PHET – Jeu molécules
 - [ ] Transformation chimique I
-- [ ] Transformation chimique II
-- [ ] Évaluation
+- [ ] Transformation chimique II - Charger le corrigé vendredi 30 janvier.
+- [ ] ?
 - [ ] ...
 - [ ] ...
 - [ ] Électricité
