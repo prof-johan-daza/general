@@ -39,7 +39,9 @@
 !!! abstract ""
     Colonne affichée dans Pronote :  
     → Sixième feuille – Séance d'exercices II  
-    [Cliquez ici pour télécharger les documents - Auteur : Raphael CHAY – Feuille élève](https://prof-johan-daza.github.io/general/3/S21/S21.pdf)
+    Feuille élève  
+    [Cliquez ici pour télécharger les documents - Auteur : Raphael CHAY – Feuille élève](https://prof-johan-daza.github.io/general/3/S21/S21.pdf)  
+    Corrigé  
     [Cliquez ici pour télécharger les documents - Auteur : Raphael CHAY – Corrigé](https://prof-johan-daza.github.io/general/3/S21/S21C.pdf)
 ## Vingt-deuxième semaine
 ### Septième feuille – Mouvements 
