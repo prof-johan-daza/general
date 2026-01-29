@@ -3,9 +3,9 @@
 ### Représentation graphique des transferts et conversions d’énergie
 #### Première feuille
 !!! abstract ""
-    1. Note saisi dans Pronote : Première feuille ~ Feuille de l'élève, avancement  
+    1. Note saisi dans Pronote : Première feuille – Avancement  
     [Cliquez ici pour télécharger les documents – Feuille de l'élève](https://prof-johan-daza.github.io/general/5/S14/S14.pdf)  
-    2. Note saisi dans Pronote : Première feuille ~ Corrigé  
+    2. Note saisi dans Pronote : Première feuille – Corrigé  
     [Cliquez ici pour télécharger les documents – Corrigé](https://prof-johan-daza.github.io/general/5/S14/S14C.pdf)
 ## Vingt-troisième semaine
 <!-- ### Huitième feuille -->
