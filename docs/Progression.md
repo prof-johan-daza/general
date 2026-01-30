@@ -17,9 +17,9 @@
 - [x] Domino moléculaire
 - [x] PHET – Jeu molécules
 - [ ] Transformation chimique I
-- [ ] Transformation chimique II - Charger le corrigé vendredi 30 janvier.
-- [ ] ?
-- [ ] ...
+- [ ] Transformation chimique II - Séance d'exercices – Note d'avancement
+- [ ] Transformation chimique II - Séance d'exercices – Note de corrigé
+- [ ] Évaluation
 - [ ] ...
 - [ ] Électricité
 - [ ] ...
