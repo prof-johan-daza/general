@@ -8,8 +8,9 @@
 ## Vingt-deuxième semaine
 #### Deuxième feuille
 !!! abstract ""
-    2. Note saisi dans Pronote : Deuxième feuille – Corrigé  
+    2. Note saisi dans Pronote : Deuxième feuille – Avancement   
     [Cliquez ici pour télécharger les documents – Feuille élève](https://prof-johan-daza.github.io/general/4/S22/S22.pdf)  
+    3. Note saisi dans Pronote : Deuxième feuille – Corrigé  
     [Cliquez ici pour télécharger les documents – Corrigé](https://prof-johan-daza.github.io/general/4/S22/S22C.pdf)
 ## Vingt-troisième semaine
 <!-- ### Huitième feuille -->
