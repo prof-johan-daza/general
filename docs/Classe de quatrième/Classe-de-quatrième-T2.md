@@ -2,18 +2,15 @@
 ## Douzième semaine
 ### Représentation des molécules
 #### Première feuille
-!!! question ""
-
+!!! abstract ""
+    1. Note saisi dans Pronote : Première feuille – Avancement
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S12/S12.pdf)
-##### Première feuille – Corrigé officiel
-!!! bug ""
-
-    [Cliquez ici pour télécharger les documents, après le travail en cours] <!-- [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S9/S9.pdf) -->
 ## Vingt-deuxième semaine
 #### Deuxième feuille
-!!! question ""
-
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/4/S22/S22.pdf)
+!!! abstract ""
+    2. Note saisi dans Pronote : Deuxième feuille – Corrigé  
+    [Cliquez ici pour télécharger les documents – Feuille élève](https://prof-johan-daza.github.io/general/4/S22/S22.pdf)  
+    [Cliquez ici pour télécharger les documents – Corrigé](https://prof-johan-daza.github.io/general/4/S22/S22C.pdf)
 ## Vingt-troisième semaine
 <!-- ### Huitième feuille -->
 ## Vingt-quatrième semaine
