@@ -50,7 +50,7 @@
     → Septième feuille – Mouvements (feuille élève)    
     [Cliquez ici pour télécharger les documents - Auteur : Raphael CHAY](https://prof-johan-daza.github.io/general/3/S22/S22.pdf)
 ## Vingt-troisième semaine
-### Brevet blanc 
+### Brevet blanc
 !!! abstract ""
     Colonne affichée dans Pronote :  
     → Brevet blanc PC – 27 janvier 2026 – Corrigé  
