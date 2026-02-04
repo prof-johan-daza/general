@@ -40,6 +40,12 @@
 - [ ] Changements d'état I
 - [ ] Changements d'état – Séance d'exercices
 - [ ] Évaluation
+    * [ ] 5e3 P1
+    * [x] 5e3 P2
+    * [ ] 5e4 P1
+    * [ ] 5e4 P2
+    * [ ] 5e5 P1
+    * [ ] 5e5 P2
 - [ ] ...
 - [ ] ...
 - [ ] Corps purs et mélange
