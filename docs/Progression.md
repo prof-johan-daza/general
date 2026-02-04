@@ -16,7 +16,7 @@
 - [x] Dessins de molécules – molview.org
 - [x] Domino moléculaire
 - [x] PHET – Jeu molécules
-- [ ] Transformation chimique I
+- [x] Transformation chimique I
 - [ ] Transformation chimique II - Séance d'exercices – Note d'avancement
 - [ ] Transformation chimique II - Séance d'exercices – Note de corrigé
 - [ ] Évaluation
@@ -27,6 +27,12 @@
 - [ ] Mouvement et interactions
 ## Cinquième
 - [x] Première feuille
+    * [x] 5e3 P1
+    * [x] 5e3 P2
+    * [x] 5e4 P1
+    * [x] 5e4 P2
+    * [x] 5e5 P1
+    * [x] 5e5 P2
 - [x] Centrale thermique à flamme
 - [x] Centrale nucléaire
 - [x] États de la matière – TEAMS
