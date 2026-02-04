@@ -9,9 +9,9 @@
     [Cliquez ici pour télécharger les documents – Corrigé](https://prof-johan-daza.github.io/general/5/S14/S14C.pdf)
 ## Vingt-troisième semaine
 ### Huitième feuille
-!!! abstract ""
+<!-- !!! abstract ""
     1. Note saisi dans Pronote : Évaluation  
-    [Cliquez ici pour télécharger les documents – Feuille de l'élève  ](https://prof-johan-daza.github.io/general/5/S23/S23.pdf)
+    [Cliquez ici pour télécharger les documents – Feuille de l'élève  ](https://prof-johan-daza.github.io/general/5/S23/S23.pdf) -->
 ## Vingt-quatrième semaine
 <!-- ### Neuvième feuille -->
 ## Vingt-cinquième semaine
