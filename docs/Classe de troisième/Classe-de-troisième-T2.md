@@ -77,7 +77,11 @@
     → Brevet blanc PC – 27 janvier 2026 – Corrigé  
     [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S23/S23C.pdf)
 ## Vingt-quatrième semaine
-<!-- ### Neuvième feuille -->
+### Des graphiques pour décrire des mouvements
+!!! abstract ""
+    Colonne affichée dans Pronote :  
+    Des graphiques pour décrire des mouvements – Corrigé  
+    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S24/S24.pdf)
 ## Vingt-cinquième semaine
 <!-- ### Dixième feuille -->
 ## Vingt-sixième semaine
