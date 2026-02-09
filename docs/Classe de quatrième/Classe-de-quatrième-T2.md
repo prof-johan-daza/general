@@ -15,10 +15,10 @@
 ## Vingt-troisième semaine
 <!-- ### Huitième feuille -->
 ## Vingt-quatrième semaine
-#### Troisième feuille
+<!-- #### Troisième feuille
 !!! abstract ""
     2.  : Troisième feuille – Corrigé  
-    [Cliquez ici pour télécharger les documents – Feuille élève](https://prof-johan-daza.github.io/general/4/S24/S24.pdf)
+    [Cliquez ici pour télécharger les documents – Feuille élève](https://prof-johan-daza.github.io/general/4/S24/S24.pdf) -->
 ## Vingt-cinquième semaine
 <!-- ### Dixième feuille -->
 ## Vingt-sixième semaine
