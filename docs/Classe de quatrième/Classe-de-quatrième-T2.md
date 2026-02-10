@@ -19,6 +19,10 @@
 !!! abstract ""
     2.  : Troisième feuille – Corrigé  
     [Cliquez ici pour télécharger les documents – Feuille élève](https://prof-johan-daza.github.io/general/4/S24/S24.pdf) -->
+#### Troisième feuille
+!!! abstract ""
+    2.  : Troisième feuille – Corrigé  
+    [Cliquez ici pour télécharger les documents – Feuille élève](https://prof-johan-daza.github.io/general/4/S24/S24A.pdf)
 ## Vingt-cinquième semaine
 <!-- ### Dixième feuille -->
 ## Vingt-sixième semaine
