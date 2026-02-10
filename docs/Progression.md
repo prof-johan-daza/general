@@ -20,7 +20,10 @@
 - [ ] Transformation chimique II - Séance d'exercices – Note d'avancement
 - [ ] Transformation chimique II - Séance d'exercices – Note de corrigé
 - [ ] Évaluation
-- [ ] ...
+    * [x] 4e3 P1
+    * [ ] 4e3 P2
+    * [ ] 4e5 P1
+    * [ ] 4e5 P2
 - [ ] Électricité
 - [ ] ...
 - [ ] ...
@@ -34,7 +37,7 @@
 - [ ] Changements d'état I
 - [ ] Changements d'état – Séance d'exercices
 - [ ] Évaluation
-    * [ ] 5e3 P1
+    * [x] 5e3 P1
     * [x] 5e3 P2
     * [ ] 5e4 P1
     * [ ] 5e4 P2
