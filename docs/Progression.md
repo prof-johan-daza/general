@@ -1,14 +1,15 @@
 # _**Progression**_
+<!--DINOBOTS – Cahier marfil-->
 ## Troisième
 - [x] Première feuille – La masse volumique
 - [x] Deuxième feuille – Séance d'exercices, La masse volumique
 - [x] Troisème feuille – TP, La masse volumique
 - [x] Quatrième feuille – La matière dans l'univers
 - [x] Cinquième feuille – Univers – Séance d'exercices I type Brevet
-- [ ] Sixième feuille – Univers – Séance d'exercices II
-- [ ] Mouvement et interactions Cours – Un graphique d-t, v-t et a-t. – Devoir maison 3e cas
-- [ ] ...
-- [ ] ...
+- [x] Sixième feuille – Univers – Séance d'exercices II
+- [x] Mouvement et interactions Cours – Un graphique d-t, v-t et a-t.
+- [ ] Septième feuille – Mouvements théorie
+- [ ] Huitième feuille – Mouvements graphiques
 - [ ] ...
 - [ ] Énergie
 ## Quatrième
@@ -17,8 +18,8 @@
 - [x] Domino moléculaire
 - [x] PHET – Jeu molécules
 - [x] Transformation chimique I
-- [ ] Transformation chimique II - Séance d'exercices – Note d'avancement
-- [ ] Transformation chimique II - Séance d'exercices – Note de corrigé
+- [x] Transformation chimique II - Séance d'exercices – Note d'avancement
+- [x] Transformation chimique II - Séance d'exercices – Note de corrigé
 - [ ] Évaluation
     * [x] 4e3 P1
     * [ ] 4e3 P2
@@ -44,6 +45,6 @@
     * [ ] 5e5 P1
     * [x] 5e5 P2
 - [ ] Corps purs et mélange I
-- [ ] ...
+- [ ] Salle inmersive Astronomie
 - [ ] ...
 - [ ] Électricité
