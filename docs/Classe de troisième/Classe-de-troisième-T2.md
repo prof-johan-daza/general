@@ -82,6 +82,8 @@
     Colonne affichée dans Pronote :  
     Des graphiques pour décrire des mouvements – Corrigé  
     [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S24/S24.pdf)
+!!! abstract ""
+    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S24/S24II.pdf)
 ## Vingt-cinquième semaine
 <!-- ### Dixième feuille -->
 ## Vingt-sixième semaine
