@@ -10,14 +10,14 @@
 ##  Seizième semaine
 ### Les états physiques de la matière
 !!! abstract ""
-    ![Image](https://prof-johan-daza.github.io/general/5/Disque/S16.png){ width="500" }
+    ![Image](https://prof-johan-daza.github.io/general/5/Disque/S16.png){ width="750" }
     /// caption 
     _Les états physiques de la matière_
     ///
 ## Vingtième semaine
 ### Les changements d'états physiques de la matière
 !!! abstract ""
-    ![Image](https://prof-johan-daza.github.io/general/5/Disque/S20.png){ width="500" }
+    ![Image](https://prof-johan-daza.github.io/general/5/Disque/S20.png){ width="750" }
     /// caption 
     _Les changements d'états physiques de la matière_
     ///
