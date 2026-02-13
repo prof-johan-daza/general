@@ -25,8 +25,12 @@
     * [ ] 4e3 P2
     * [ ] 4e5 P1
     * [ ] 4e5 P2
+- [ ] Salle inmersive
+    * [ ] 4e3 P1
+    * [ ] 4e3 P2
+    * [x] 4e5 P1
+    * [ ] 4e5 P2
 - [ ] Électricité
-- [ ] ...
 - [ ] ...
 - [ ] Mouvement et interactions
 ## Cinquième
