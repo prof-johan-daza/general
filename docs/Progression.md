@@ -10,6 +10,13 @@
 - [x] Mouvement et interactions Cours – Un graphique d-t, v-t et a-t.
 - [ ] Septième feuille – Mouvements théorie
 - [ ] Huitième feuille – Mouvements graphiques
+- [ ] Neuvième feuille – Brevet – Mouvements et interactions
+- [ ] ...
+- [ ] Évaluation
+    * [] 3e2 P1
+    * [] 3e2 P2
+    * [] 3e5 P1
+    * [] 3e5 P2
 - [ ] ...
 - [ ] Énergie
 ## Quatrième
@@ -25,7 +32,7 @@
     * [ ] 4e3 P2
     * [ ] 4e5 P1
     * [ ] 4e5 P2
-- [ ] Salle inmersive
+- [ ] Salle inmersive – Astronomie
     * [ ] 4e3 P1
     * [ ] 4e3 P2
     * [x] 4e5 P1
@@ -49,6 +56,6 @@
     * [ ] 5e5 P1
     * [x] 5e5 P2
 - [ ] Corps purs et mélange I
-- [ ] Salle inmersive Astronomie
+- [ ] Salle inmersive – Astronomie
 - [ ] ...
 - [ ] Électricité
