@@ -12,7 +12,6 @@
 - [ ] Septième feuille – Mouvements théorie
 - [ ] Huitième feuille – Mouvements graphiques
 - [ ] Neuvième feuille – Brevet – Mouvements et interactions
-- [ ] ...
 - [ ] Évaluation
     * [ ] 3e2 P1
     * [ ] 3e2 P2
