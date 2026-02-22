@@ -34,7 +34,10 @@ nav:
   - LPI: LPI.md
   - Sonnerie : Sonnerie.md
   - Calendrier: Calendrier.md
-  - Progression: Progression.md
+  - 'Progression': 
+      - Troisième : Progression/Progression3e.md
+      - Quatrième : Progression/Progression4e.md
+      - Cinquième : Progression/Progression5e.md
   - 'Classe de troisième':
       - Premier trimestre: Classe de troisième/Classe-de-troisième-T1.md
       - Deuxième trimestre: Classe de troisième/Classe-de-troisième-T2.md
