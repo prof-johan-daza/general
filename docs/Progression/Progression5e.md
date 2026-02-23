@@ -65,7 +65,7 @@
     * [ ] 5e4 P2
     * [ ] 5e5 P1
     * [ ] 5e5 P2
-- [ ] Salle inmersive – Astronomie
+- [ ] Salle immersive – Astronomie
     * [ ] 5e3 P1
     * [x] 5e3 P2
     * [ ] 5e4 P1
