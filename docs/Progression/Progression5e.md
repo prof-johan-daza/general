@@ -1,4 +1,4 @@
-# _**Progression5e**_
+# _**Progression 5e**_
 <!--DINOBOTS – Cahier marfil-->
 ## Cinquième
 ### Deuxième trimestre
@@ -37,25 +37,25 @@
     * [x] 5e4 P2
     * [x] 5e5 P1
     * [x] 5e5 P2
-- [ ] Changements d'état I
-    * [ ] 5e3 P1
-    * [ ] 5e3 P2
-    * [ ] 5e4 P1
-    * [ ] 5e4 P2
+- [x] Changements d'état I
+    * [x] 5e3 P1
+    * [x] 5e3 P2
+    * [x] 5e4 P1
+    * [x] 5e4 P2
+    * [x] 5e5 P1
+    * [x] 5e5 P2
+- [x] Changements d'état – Séance d'exercices
+    * [x] 5e3 P1
+    * [x] 5e3 P2
+    * [x] 5e4 P1
+    * [x] 5e4 P2
     * [ ] 5e5 P1
-    * [ ] 5e5 P2
-- [ ] Changements d'état – Séance d'exercices
-    * [ ] 5e3 P1
-    * [ ] 5e3 P2
-    * [ ] 5e4 P1
-    * [ ] 5e4 P2
-    * [ ] 5e5 P1
-    * [ ] 5e5 P2
+    * [x] 5e5 P2
 - [ ] Évaluation
     * [x] 5e3 P1
     * [x] 5e3 P2
-    * [ ] 5e4 P1
-    * [ ] 5e4 P2
+    * [x] 5e4 P1
+    * [x] 5e4 P2
     * [ ] 5e5 P1
     * [x] 5e5 P2
 - [ ] Corps purs et mélange I
