@@ -1,4 +1,4 @@
-# _**Progression3e**_
+# _**Progression 3e**_
 <!--DINOBOTS – Cahier marfil-->
 ## Troisième
 ### Deuxième trimestre
@@ -37,14 +37,14 @@
     * [x] 3e2 P2
     * [x] 3e5 P1
     * [x] 3e5 P2
-- [ ] Septième feuille – Mouvements théorie
-    * [ ] 3e2 P1
-    * [ ] 3e2 P2
-    * [ ] 3e5 P1
-    * [ ] 3e5 P2
+- [x] Septième feuille – Mouvements théorie
+    * [x] 3e2 P1
+    * [x] 3e2 P2
+    * [x] 3e5 P1
+    * [x] 3e5 P2
 - [ ] Huitième feuille – Mouvements graphiques
-    * [ ] 3e2 P1
-    * [ ] 3e2 P2
+    * [x] 3e2 P1
+    * [x] 3e2 P2
     * [ ] 3e5 P1
     * [ ] 3e5 P2
 - [ ] Neuvième feuille – Brevet – Mouvements et interactions
