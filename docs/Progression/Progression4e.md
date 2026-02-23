@@ -1,4 +1,4 @@
-# _**Progression4e**_
+# _**Progression 4e**_
 <!--DINOBOTS – Cahier marfil-->
 ## Quatrième
 ### Deuxième trimestre
@@ -33,15 +33,15 @@
     * [x] 4e5 P1
     * [x] 4e5 P2
 - [x] Transformation chimique II - Séance d'exercices – Note de corrigé
-    * [ ] 4e3 P1
-    * [ ] 4e3 P2
-    * [ ] 4e5 P1
-    * [ ] 4e5 P2
+    * [x] 4e3 P1
+    * [x] 4e3 P2
+    * [x] 4e5 P1
+    * [x] 4e5 P2
 - [ ] Évaluation
     * [x] 4e3 P1
     * [ ] 4e3 P2
-    * [ ] 4e5 P1
-    * [ ] 4e5 P2
+    * [x] 4e5 P1
+    * [x] 4e5 P2
 - [ ] Salle inmersive – Astronomie
     * [ ] 4e3 P1
     * [ ] 4e3 P2
