@@ -26,8 +26,8 @@ L’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux vis
 - [x] Semaine 22 – Semaine 8 – lundi 26 janv. 2026 au vendredi 30 janv. 2026
 - [x] Semaine 23 – Semaine 9 – lundi 2 févr. 2026 au vendredi 6 févr. 2026
 - [x] Semaine 24 – Semaine 10 – lundi 9 févr. 2026 au vendredi 13 févr. 2026
-- [ ] Semaine 25 – Semaine 11 – lundi 16 févr. 2026 au vendredi 20 févr. 2026
-- [ ] Semaine 26 – Semaine 12 – lundi 23 févr. 2026 au vendredi 27 févr. 2026
+- [x] Semaine 25 – Semaine 11 – lundi 16 févr. 2026 au vendredi 20 févr. 2026
+- [x] Semaine 26 – Semaine 12 – lundi 23 févr. 2026 au vendredi 27 févr. 2026
 - [ ] Semaine 27 – Semaine 13 – lundi 2 mars 2026 au vendredi 6 mars 2026
 - [ ] Semaine 28 – Semaine 14 – lundi 9 mars 2026 au vendredi 13 mars 2026
 ## Troisième trimestre
