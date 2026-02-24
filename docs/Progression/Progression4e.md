@@ -39,7 +39,7 @@
     * [x] 4e5 P2
 - [ ] Évaluation
     * [x] 4e3 P1
-    * [ ] 4e3 P2
+    * [x] 4e3 P2
     * [x] 4e5 P1
     * [x] 4e5 P2
 - [ ] Salle immersive – Astronomie
