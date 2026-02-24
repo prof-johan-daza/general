@@ -46,30 +46,11 @@
 ## Vingt-deuxième semaine
 ### Septième feuille – Mouvements 
 !!! abstract ""
-    Colonne affichée dans Pronote :
-    → Septième feuille – Mouvements (feuille élève)    
-    [Cliquez ici pour télécharger les documents - Auteur : Raphael CHAY](https://prof-johan-daza.github.io/general/3/S22/S22.pdf)  
-    → Mot clé :  
-    Uniforme  
-    Les rails  
-    Elle est relative au référentiel d’étude choisi  
-    Un cercle  
-    Elle est en mouvement par rapport à la route  
-    Accéléré  
-    Un satellite ou de la Lune  
-    Référentiel ; c’est un solide (objet indéformable) par rapport auquel on étudie le mouvement d’un mobile  
-    Rectiligne  
-    La salle de classe  
-    L / delta t  
-    Curviligne  
-    Une planète  
-    Retardé  
-    Le sol terrestre  
-    Cela dépend du point de vue  
-    Un repère d’espace et un repère de temps  
-    Circulaire  
-    Elle est immobile par rapport à la voiture  
-    Une boucle de rétrogradation
+    Colonnes affichées dans Pronote :  
+    → Septième feuille – Mouvements – Feuille élève  
+    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S22/S22.pdf)   
+    → Septième feuille – Mouvements – Corrigé  
+    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S22/S22C.pdf)
 ## Vingt-troisième semaine
 ### Brevet blanc
 !!! abstract ""
