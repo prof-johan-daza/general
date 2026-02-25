@@ -26,7 +26,11 @@
 ## Vingt-cinquième semaine
 <!-- ### Dixième feuille -->
 ## Vingt-sixième semaine
-<!-- ### Onzième feuille -->
+!!! abstract ""
+    La pression atmosphérique correspond au poids de l’air qui se trouve au-dessus de nous.  
+    Au niveau de la mer, cette pression est élevée, car la colonne d’air est plus grande.   
+    Lorsque l’on monte en altitude, la quantité d’air au-dessus diminue : il y a donc  
+    moins de poids exercé, et la pression baisse progressivement.
 ## Vingt-septième semaine
 <!-- ### Douzième feuille -->
 ## Vingt-huitième semaine
