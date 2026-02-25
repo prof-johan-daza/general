@@ -72,5 +72,31 @@
     * [ ] 5e4 P2
     * [ ] 5e5 P1
     * [ ] 5e5 P2
-- [ ] ...
-- [ ] Électricité
+- [ ] Corps purs et mélange II
+    * [ ] 5e3 P1
+    * [ ] 5e3 P2
+    * [ ] 5e4 P1
+    * [ ] 5e4 P2
+    * [ ] 5e5 P1
+    * [ ] 5e5 P2
+- [ ] Corps purs et mélange III **?**
+    * [ ] 5e3 P1
+    * [ ] 5e3 P2
+    * [ ] 5e4 P1
+    * [ ] 5e4 P2
+    * [ ] 5e5 P1
+    * [ ] 5e5 P2
+- [ ] Le système solaire
+    * [ ] 5e3 P1
+    * [ ] 5e3 P2
+    * [ ] 5e4 P1
+    * [ ] 5e4 P2
+    * [ ] 5e5 P1
+    * [ ] 5e5 P2
+- [ ] L'électricité
+    * [ ] 5e3 P1
+    * [ ] 5e3 P2
+    * [ ] 5e4 P1
+    * [ ] 5e4 P2
+    * [ ] 5e5 P1
+    * [ ] 5e5 P2
