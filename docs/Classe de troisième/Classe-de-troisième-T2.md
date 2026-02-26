@@ -48,9 +48,9 @@
 !!! abstract ""
     Colonnes affichées dans Pronote :  
     → Septième feuille – Mouvements – Feuille élève  
-    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S22/S22.pdf)   
+    [7e feuille – Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S22/S22.pdf)   
     → Septième feuille – Mouvements – Corrigé  
-    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S22/S22C.pdf)
+    [7e feuille – Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S22/S22C.pdf)
 ## Vingt-troisième semaine
 ### Brevet blanc
 !!! abstract ""
