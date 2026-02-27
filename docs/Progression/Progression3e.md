@@ -2,60 +2,61 @@
 <!--DINOBOTS – Cahier marfil-->
 ## Troisième
 ### Deuxième trimestre
+
 - [x] Première feuille – La masse volumique
-    * [x] 3e2 P1
-    * [x] 3e2 P2
-    * [x] 3e5 P1
-    * [x] 3e5 P2
+  - [x] 3e2 P1
+  - [x] 3e2 P2
+  - [x] 3e5 P1
+  - [x] 3e5 P2
 - [x] Deuxième feuille – Séance d'exercices, La masse volumique
-    * [x] 3e2 P1
-    * [x] 3e2 P2
-    * [x] 3e5 P1
-    * [x] 3e5 P2
+  - [x] 3e2 P1
+  - [x] 3e2 P2
+  - [x] 3e5 P1
+  - [x] 3e5 P2
 - [x] Troisème feuille – TP, La masse volumique
-    * [x] 3e2 P1
-    * [x] 3e2 P2
-    * [x] 3e5 P1
-    * [x] 3e5 P2
+  - [x] 3e2 P1
+  - [x] 3e2 P2
+  - [x] 3e5 P1
+  - [x] 3e5 P2
 - [x] Quatrième feuille – La matière dans l'univers
-    * [x] 3e2 P1
-    * [x] 3e2 P2
-    * [x] 3e5 P1
-    * [x] 3e5 P2
+  - [x] 3e2 P1
+  - [x] 3e2 P2
+  - [x] 3e5 P1
+  - [x] 3e5 P2
 - [x] Cinquième feuille – Univers – Séance d'exercices I type Brevet
-    * [x] 3e2 P1
-    * [x] 3e2 P2
-    * [x] 3e5 P1
-    * [x] 3e5 P2
+  - [x] 3e2 P1
+  - [x] 3e2 P2
+  - [x] 3e5 P1
+  - [x] 3e5 P2
 - [x] Sixième feuille – Univers – Séance d'exercices II
-    * [x] 3e2 P1
-    * [x] 3e2 P2
-    * [x] 3e5 P1
-    * [x] 3e5 P2
+  - [x] 3e2 P1
+  - [x] 3e2 P2
+  - [x] 3e5 P1
+  - [x] 3e5 P2
 - [x] Mouvement et interactions Cours – Un graphique d-t, v-t et a-t.
-    * [x] 3e2 P1
-    * [x] 3e2 P2
-    * [x] 3e5 P1
-    * [x] 3e5 P2
+  - [x] 3e2 P1
+  - [x] 3e2 P2
+  - [x] 3e5 P1
+  - [x] 3e5 P2
 - [x] Septième feuille – Mouvements théorie
-    * [x] 3e2 P1
-    * [x] 3e2 P2
-    * [x] 3e5 P1
-    * [x] 3e5 P2
-- [ ] Huitième feuille – Mouvements graphiques
-    * [x] 3e2 P1
-    * [x] 3e2 P2
-    * [ ] 3e5 P1
-    * [ ] 3e5 P2
+  - [x] 3e2 P1
+  - [x] 3e2 P2
+  - [x] 3e5 P1
+  - [x] 3e5 P2
+- [x] Huitième feuille – Mouvements graphiques
+  - [x] 3e2 P1
+  - [x] 3e2 P2
+  - [ ] 3e5 P1
+  - [ ] 3e5 P2
 - [ ] Neuvième feuille – Brevet – Mouvements et interactions
-    * [ ] 3e2 P1
-    * [ ] 3e2 P2
-    * [ ] 3e5 P1
-    * [ ] 3e5 P2
-- [ ] Évaluation
-    * [ ] 3e2 P1
-    * [ ] 3e2 P2
-    * [ ] 3e5 P1
-    * [ ] 3e5 P2
+  - [ ] 3e2 P1
+  - [x] 3e2 P2
+  - [x] 3e5 P1
+  - [ ] 3e5 P2
+- [ ] Dixième feuille – Action mécanique
+  - [ ] 3e2 P1
+  - [x] 3e2 P2
+  - [x] 3e5 P1
+  - [ ] 3e5 P2
 - [ ] ...
 - [ ] Énergie
