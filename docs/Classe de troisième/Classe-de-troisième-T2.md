@@ -71,8 +71,18 @@ Vacances de la Toussaint
 !!! abstract ""
     [10e Feuille – Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S26/S26.pdf)
 ## Vingt-septième semaine
-<!-- ### Douzième feuille -->
+<!--!!! abstract ""
+    Colonnes de notes affichées dans Pronote :
+
+    → "Nombre de la feuille" feuille – "Thématique dans la progresssion" – Feuille élève  
+    ["Nombre de la feuille" – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/"Classe"/"S+#semaine Dossier"/"S+#semaine.pdf")  
+    → "Nombre de la feuille" feuille – "Thématique dans la progresssion" – Corrigé  
+    ["Nombre de la feuille" – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/"Classe"/"S+#semaine Dossier"/"S+#semaine+C.pdf")-->
 ## Vingt-huitième semaine
-<!-- ### Treizième feuille -->
-## Vingt-neuvième semaine
-<!-- ### Quatorzième feuille -->
+<!--!!! abstract ""
+    Colonnes de notes affichées dans Pronote :
+
+    → "Nombre de la feuille" feuille – "Thématique dans la progresssion" – Feuille élève  
+    ["Nombre de la feuille" – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/"Classe"/"S+#semaine Dossier"/"S+#semaine.pdf")  
+    → "Nombre de la feuille" feuille – "Thématique dans la progresssion" – Corrigé  
+    ["Nombre de la feuille" – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/"Classe"/"S+#semaine Dossier"/"S+#semaine+C.pdf")-->
