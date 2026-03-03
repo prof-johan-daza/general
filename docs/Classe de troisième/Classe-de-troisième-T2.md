@@ -76,6 +76,10 @@ Vacances de la Toussaint
     → Dixième feuille – Modéliser une action mécanique – Corrigé  
 <!--[10e Feuille – Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S26/S26.pdf)-->
 ## Vingt-septième semaine
+    → ? – Modéliser une action mécanique – Feuille élève  
+    [10e Feuille – Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S27/S27.pdf)  
+
+
 <!--!!! abstract ""
     Colonnes de notes affichées dans Pronote :
 
