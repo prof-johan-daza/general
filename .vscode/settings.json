@@ -1,5 +1,5 @@
 {
-  "terminal.integrated.cwd": "${workspaceFolder}",
+  "terminal.integrated.cwd": "/Users/johandaza/Documents/Documents - MacBook Air de Johan/general",
   "json.schemas": [
     {
       "fileMatch": [".markdownlint.json"],
@@ -7,3 +7,4 @@
     }
   ]
 }
+
