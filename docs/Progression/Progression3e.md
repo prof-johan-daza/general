@@ -47,7 +47,7 @@
 - [ ] Huitième feuille – Mouvements graphiques
        - [x] 3e2 P1
        - [x] 3e2 P2
-       - [ ] 3e5 P1
+       - [x] 3e5 P1
        - [ ] 3e5 P2
 - [ ] Neuvième feuille – Brevet – Mouvements et interactions
        - [ ] 3e2 P1
