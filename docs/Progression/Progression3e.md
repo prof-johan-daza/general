@@ -44,24 +44,24 @@
        - [x] 3e2 P2
        - [x] 3e5 P1
        - [x] 3e5 P2
-- [ ] Huitième feuille – Mouvements graphiques
+- [x] Huitième feuille – Mouvements graphiques
        - [x] 3e2 P1
        - [x] 3e2 P2
        - [x] 3e5 P1
-       - [ ] 3e5 P2
-- [ ] Neuvième feuille – Brevet – Mouvements et interactions
-       - [ ] 3e2 P1
+       - [x] 3e5 P2
+- [x] Neuvième feuille – Brevet – Mouvements et interactions
+       - [x] 3e2 P1
        - [x] 3e2 P2
        - [x] 3e5 P1
-       - [ ] 3e5 P2
+       - [x] 3e5 P2
 
 ### Troisième trimestre
 
-- [ ] Première feuille – Action mécanique I
-       - [ ] 3e2 P1
-       - [ ] 3e2 P2
-       - [ ] 3e5 P1
-       - [ ] 3e5 P2
+- [x] Première feuille – Action mécanique I
+       - [x] 3e2 P1
+       - [x] 3e2 P2
+       - [x] 3e5 P1
+       - [x] 3e5 P2
 - [ ] Deuxième feuille – Action mécanique II
        - [ ] 3e2 P1
        - [ ] 3e2 P2
