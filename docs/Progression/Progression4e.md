@@ -49,7 +49,20 @@
        - [x] 4e3 P2
        - [x] 4e5 P1
        - [x] 4e5 P2
-- [ ] Variation de la pression avec l’altitude
+
+### Troisième trimestre
+
+- [ ] Variation de la pression avec l’altitude – Cours
+       - [ ] 4e3 P1
+       - [ ] 4e3 P2
+       - [ ] 4e5 P1
+       - [ ] 4e5 P2
+- [ ] Variation de la pression avec l’altitude – PHET I
+       - [ ] 4e3 P1
+       - [ ] 4e3 P2
+       - [ ] 4e5 P1
+       - [ ] 4e5 P2
+- [ ] Variation de la pression avec l’altitude – Équation
        - [ ] 4e3 P1
        - [ ] 4e3 P2
        - [ ] 4e5 P1
