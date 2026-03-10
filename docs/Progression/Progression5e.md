@@ -60,13 +60,6 @@
        - [x] 5e4 P2
        - [x] 5e5 P1
        - [x] 5e5 P2
-- [ ] Corps purs et mélange I
-       - [x] 5e3 P1
-       - [x] 5e3 P2
-       - [x] 5e4 P1
-       - [x] 5e4 P2
-       - [x] 5e5 P1
-       - [x] 5e5 P2
 - [ ] Salle immersive – Astronomie
        - [ ] 5e3 P1
        - [x] 5e3 P2
@@ -74,6 +67,16 @@
        - [ ] 5e4 P2
        - [ ] 5e5 P1
        - [ ] 5e5 P2
+
+### Troisième trimestre
+
+- [ ] Corps purs et mélange I
+       - [x] 5e3 P1
+       - [x] 5e3 P2
+       - [x] 5e4 P1
+       - [x] 5e4 P2
+       - [x] 5e5 P1
+       - [x] 5e5 P2
 - [ ] Corps purs et mélange II
        - [ ] 5e3 P1
        - [ ] 5e3 P2
