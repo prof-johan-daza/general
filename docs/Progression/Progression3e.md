@@ -54,10 +54,28 @@
        - [x] 3e2 P2
        - [x] 3e5 P1
        - [ ] 3e5 P2
-- [ ] Dixième feuille – Action mécanique
+
+### Troisième trimestre
+
+- [ ] Première feuille – Action mécanique I
        - [ ] 3e2 P1
-       - [x] 3e2 P2
-       - [x] 3e5 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
+- [ ] Deuxième feuille – Action mécanique II
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
+- [ ] Troisième feuille – TP I
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
+- [ ] Quatrième feuille – TP II
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
        - [ ] 3e5 P2
 
 ### À préparer
