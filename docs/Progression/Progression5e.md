@@ -87,8 +87,15 @@
     -[ ] 5e4 P1
     -[ ] 5e4 P2
     -[ ] 5e5 P1
+    -[ ] 5e5 P2ç
+- [ ] Tableau Purs – Prise de note Purs, homo et hétéro
+    -[ ] 5e3 P1
+    -[ ] 5e3 P2
+    -[ ] 5e4 P1
+    -[ ] 5e4 P2
+    -[ ] 5e5 P1
     -[ ] 5e5 P2
-- [ ] Le système solaire
+<!---[ ] Le système solaire-->
     -[ ] 5e3 P1
     -[ ] 5e3 P2
     -[ ] 5e4 P1

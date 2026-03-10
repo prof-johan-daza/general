@@ -1,10 +1,10 @@
 {
-  "terminal.integrated.cwd": "/Users/johandaza/Documents/Documents - MacBook Air de Johan/general",
-  "json.schemas": [
-    {
-      "fileMatch": [".markdownlint.json"],
-      "url": "https://raw.githubusercontent.com/DavidAnson/markdownlint/v0.40.0/schema/markdownlint-config-schema.json"
+  "terminal.integrated.profiles.osx": {
+    "zsh-general": {
+      "path": "/bin/zsh",
+      "args": [],
+      "cwd": "/Users/johandaza/Documents/Documents - MacBook Air de Johan/general"
     }
-  ]
+  },
+  "terminal.integrated.defaultProfile.osx": "zsh-general"
 }
-
