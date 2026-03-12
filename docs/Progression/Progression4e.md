@@ -55,17 +55,17 @@
 - [ ] Variation de la pression avec l’altitude – Cours
        - [ ] 4e3 P1
        - [ ] 4e3 P2
-       - [ ] 4e5 P1
+       - [x] 4e5 P1
        - [ ] 4e5 P2
 - [ ] Variation de la pression avec l’altitude – PHET I
        - [ ] 4e3 P1
        - [ ] 4e3 P2
-       - [ ] 4e5 P1
+       - [x] 4e5 P1
        - [ ] 4e5 P2
 - [ ] Variation de la pression avec l’altitude – Équation
        - [ ] 4e3 P1
        - [ ] 4e3 P2
-       - [ ] 4e5 P1
+       - [x] 4e5 P1
        - [ ] 4e5 P2
 
 ### À préparer
@@ -73,7 +73,7 @@
 - [ ] Les lois de l'électricité
        - [ ] 4e3 P1
        - [ ] 4e3 P2
-       - [ ] 4e5 P1
+       - [x] 4e5 P1
        - [ ] 4e5 P2
 - [ ] Mouvement et interactions
        - [ ] 4e3 P1
