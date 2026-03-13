@@ -66,7 +66,7 @@
        - [ ] 4e3 P1
        - [x] 4e3 P2
        - [x] 4e5 P1
-       - [x] 4e5 P2 – Vendredi
+       - [x] 4e5 P2
 - [ ] Les lois de l'électricité
        - [ ] 4e3 P1
        - [ ] 4e3 P2
