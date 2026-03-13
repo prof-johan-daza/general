@@ -63,19 +63,19 @@
        - [x] 3e5 P1
        - [x] 3e5 P2
 - [ ] Deuxième feuille – Action mécanique II
-       - [ ] 3e2 P1
+       - [x] 3e2 P1
        - [ ] 3e2 P2
        - [ ] 3e5 P1
        - [ ] 3e5 P2
-- [ ] Troisième feuille – TP I
-       - [ ] 3e2 P1
+- [ ] Troisième feuille première partie – TP I
+       - [x] 3e2 P1
        - [ ] 3e2 P2
        - [ ] 3e5 P1
        - [ ] 3e5 P2
-- [ ] Quatrième feuille – TP II
+- [ ] Troisième feuille deuxième partie – TP II
        - [ ] 3e2 P1
        - [ ] 3e2 P2
-       - [ ] 3e5 P1
+       - [x] 3e5 P1
        - [ ] 3e5 P2
 
 ### À préparer
