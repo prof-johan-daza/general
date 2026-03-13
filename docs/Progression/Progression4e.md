@@ -61,12 +61,12 @@
        - [ ] 4e3 P1
        - [ ] 4e3 P2
        - [x] 4e5 P1
-       - [ ] 4e5 P2
+       - [x] 4e5 P2
 - [ ] Variation de la pression avec l’altitude – Équation
        - [ ] 4e3 P1
        - [x] 4e3 P2
        - [x] 4e5 P1
-       - [ ] 4e5 P2
+       - [x] 4e5 P2 – Vendredi
 - [ ] Les lois de l'électricité
        - [ ] 4e3 P1
        - [ ] 4e3 P2
