@@ -28,18 +28,24 @@
     2.  : Troisième feuille – Corrigé  
     [Cliquez ici pour télécharger les documents – Feuille élève](https://prof-johan-daza.github.io/general/4/S24/S24.pdf) -->
 #### Troisième feuille
+
 !!! abstract ""
     2.  : Troisième feuille – Corrigé  
     [Cliquez ici pour télécharger les documents – Feuille élève](https://prof-johan-daza.github.io/general/4/S24/S24A.pdf)
+
 ## Vingt-cinquième semaine
+
 <!-- ### Dixième feuille -->
 ## Vingt-sixième semaine
+
 !!! abstract ""
     La pression atmosphérique correspond au poids de l’air qui se trouve au-dessus de nous.  
     Au niveau de la mer, cette pression est élevée, car la colonne d’air est plus grande.   
     Lorsque l’on monte en altitude, la quantité d’air au-dessus diminue : il y a donc  
     moins de poids exercé, et la pression baisse progressivement.
+
 ## Vingt-septième semaine
+
 <!-- ### Douzième feuille -->
 ## Vingt-huitième semaine
 <!-- ### Treizième feuille -->
