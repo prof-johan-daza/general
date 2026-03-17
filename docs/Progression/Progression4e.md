@@ -52,17 +52,17 @@
 
 ### Troisième trimestre
 
-- [ ] Variation de la pression avec l’altitude – Cours
-       - [ ] 4e3 P1
+- [x] Variation de la pression avec l’altitude – Cours
+       - [x] 4e3 P1
        - [x] 4e3 P2
        - [x] 4e5 P1
-       - [ ] 4e5 P2
-- [ ] Variation de la pression avec l’altitude – PHET I
-       - [ ] 4e3 P1
-       - [ ] 4e3 P2
+       - [x] 4e5 P2
+- [x] Variation de la pression avec l’altitude – PHET I
+       - [x] 4e3 P1
+       - [x] 4e3 P2
        - [x] 4e5 P1
        - [x] 4e5 P2
-- [ ] Variation de la pression avec l’altitude – Équation
+- [x] Variation de la pression avec l’altitude – Équation
        - [x] 4e3 P1
        - [x] 4e3 P2
        - [x] 4e5 P1
@@ -72,13 +72,18 @@
        - [x] 4e3 P2
        - [x] 4e5 P1
        - [ ] 4e5 P2
-- [ ] Circuit série / Circuit parallèle – TP I
+- [ ] Circuit en série 20 de 40 points – TP I
        - [x] 4e3 P1
-       - [x] 4e3 P2
-       - [x] 4e5 P1
+       - [ ] 4e3 P2
+       - [ ] 4e5 P1
+       - [ ] 4e5 P2
+- [ ] Circuit en parallèle 40 de 40 points – TP II
+       - [ ] 4e3 P1
+       - [ ] 4e3 P2
+       - [ ] 4e5 P1
        - [ ] 4e5 P2
 
-### À préparer
+### À venir
 
 - [ ] Mouvement et interactions
        - [ ] 4e3 P1
