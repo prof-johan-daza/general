@@ -72,6 +72,11 @@
        - [x] 4e3 P2
        - [x] 4e5 P1
        - [ ] 4e5 P2
+- [ ] Circuit série / Circuit parallèle – TP I
+       - [x] 4e3 P1
+       - [x] 4e3 P2
+       - [x] 4e5 P1
+       - [ ] 4e5 P2
 
 ### À préparer
 
