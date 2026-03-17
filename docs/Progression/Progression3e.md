@@ -78,7 +78,7 @@
        - [x] 3e5 P1
        - [ ] 3e5 P2
 
-### À préparer
+### À venir
 
 - [ ] Énergie
        - [ ] 3e2 P1
