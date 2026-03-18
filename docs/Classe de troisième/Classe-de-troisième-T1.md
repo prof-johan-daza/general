@@ -1,15 +1,21 @@
 # Classe de troisième – Premier trimestre
+
 ## Diplôme national du brevet
+
 ### Sujets corrigés
+
 !!! abstract ""
     ![Image](https://prof-johan-daza.github.io/general/3/S3/S3.png){ width="500" }
-    /// caption 
+    /// caption
     _Dates à venir_
     ///
 !!! bug ""
     [Cliquez ici pour télécharger les sujets corrigés de 2016 à 2022 - Site source : www.physix.fr](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
+
 ## Première, deuxième et troisième semaines
+
 ### Première feuille – Les grandeurs physiques
+
 !!! abstract ""
     Colonnes affichées dans Pronote :  
     → Première feuille – Avancement  
@@ -22,40 +28,60 @@
     [Cliquez ici pour télécharger les documents – Travail demandé en cours](https://prof-johan-daza.github.io/general/3/S3/S3.pdf)
 !!! bug "Les grandeurs physiques"
     [Cliquez ici pour télécharger les documents – Corrigé](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
+
 ## Quatrième et cinquième semaines
+
 ### Deuxième feuille – Description de la matière
+
 !!! abstract ""
     Colonne affichée dans Pronote :  
     → Deuxième feuille – Corrigé
 !!! tip ""
-    [Cliquez ici pour télécharger les documents – Travail demandé en cours - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
-!!! bug ""                   
+    [Cliquez ici pour télécharger les documents – Travail demandé en cours - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S5/S5.pdf)
+!!! bug ""
     [Cliquez ici pour télécharger les documents – Corrigé – Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S5/Corrigé.pdf)
+
 ## Sixième semaine
+
 ### Matière
+
 !!! abstract "Description de la matière"
     Colonne affichée dans Pronote :  
     << TP Autocui. et chang. d’état. 3e feuille >>
+
 #### Troisième feuille
+
 !!! tip "Description de la matière : constitution de la matière"
-    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S6/S6.pdf)
+    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S6/S6.pdf)
+
 ##### Troisième feuille – Corrigé officiel
-!!! bug "Description de la matière : constitution de la matière"   
-    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET ](https://prof-johan-daza.github.io/general/3/S6/Corrigé.pdf)
+
+!!! bug "Description de la matière : constitution de la matière"
+    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S6/Corrigé.pdf)
+
 ## Septième semaine
+
 ### Matière
+
 !!! abstract "**Description de la matière**"
     Colonne affichée dans Pronote :  
     << Matière : états phy. Advanc exos Feuil 4 >>  
     << Matière : états physiques exos Feuille 4 >>
+
 #### Quatrième feuille
+
 !!! tip "Description de la matière : changements d'états physiques"
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/S7.pdf)
+
 ##### Quatrième feuille – Corrigé officiel
-!!! bug "Description de la matière : changements d'états physiques"          
+
+!!! bug "Description de la matière : changements d'états physiques"
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S7/Corrigé.pdf)
+
 ## Neuvième semaine
+
 ### Moodle
+
 !!! abstract "Moodle"
     ![Image](https://prof-johan-daza.github.io/general/3/Disque/Moodle.png){ width="500" }
     /// caption 
