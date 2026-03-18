@@ -2,7 +2,7 @@
 
 ## Vingt-neuvième semaine
 
-[Atomes et ions – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
+[Atomes et ions – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
 
 Mots clés :  
 Nulle (particule neutre).  
