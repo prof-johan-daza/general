@@ -2,7 +2,7 @@
 
 ## Vingt-neuvième semaine
 
-[Atomes et ions – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
+[Atomes et ions – Feuille de l'élève – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
 
 Mots clés :  
 Nulle (particule neutre).  
@@ -23,7 +23,7 @@ Négatives.
 Cation.  
 Lacunaire.
 
-[Animation PHET Ions](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)
+[Lien vers l'animation PHET Ions](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)
 
 ## Trente-et-unième semaine
 <!-- ### Seizième feuille -->
