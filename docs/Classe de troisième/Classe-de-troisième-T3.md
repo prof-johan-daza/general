@@ -1,10 +1,29 @@
 # Classe de troisième – Troisième trimestre
 
-## Trentième semaine
+## Vingt-neuvième semaine
 
 [Atomes et ions – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
 
-Mots clés : 
+Mots clés :  
+Nulle (particule neutre).  
+Anion.  
+Électrons.  
+Neutrons.  
+Positive notée « e ».  
+Positives.  
+Négative notée « -e ».  
+Positive.  
+Protons.  
+Neutrons.  
+Protons.  
+Nucléosynthèse stellaire.  
+Hydrogène H, Hélium He et Lithium Li.  
+Négatives.  
+Électrons.  
+Cation.  
+Lacunaire.
+
+[Animation PHET Ions](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)
 
 <!-- ### Quinzième feuille -->
 ## Trente-et-unième semaine
