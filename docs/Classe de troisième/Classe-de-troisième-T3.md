@@ -26,7 +26,7 @@ Lacunaire.
 [Lien vers l'animation PHET Ions](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)
 
 ## Trente-et-unième semaine
-<!-- ### Seizième feuille -->
+
 ## Trente-deuxième semaine
 <!-- ### Dix-septième feuille -->
 ## Trente-troisième semaine
