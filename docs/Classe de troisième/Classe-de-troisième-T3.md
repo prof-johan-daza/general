@@ -2,6 +2,8 @@
 
 ## Trentième semaine
 
+["Nombre de la feuille" – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
+
 <!-- ### Quinzième feuille -->
 ## Trente-et-unième semaine
 <!-- ### Seizième feuille -->
