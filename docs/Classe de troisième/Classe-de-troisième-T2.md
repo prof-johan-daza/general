@@ -24,7 +24,7 @@
     Colonne affichée dans Pronote :  
     → Quatrième feuille – Avancement (feuille élève)  
     [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S16/S16.pdf)  
-    → Quatrième feuille – Corrigé   
+    → Quatrième feuille – Corrigé
     [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S16/S16C.pdf)
 ## Vingtième semaine
 
