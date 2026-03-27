@@ -82,10 +82,7 @@
        - [ ] 4e3 P2
        - [ ] 4e5 P1
        - [ ] 4e5 P2
-
-### À venir
-
-- [ ] Mouvement et interactions
+- [ ] Lois nœuds et mailles
        - [ ] 4e3 P1
        - [ ] 4e3 P2
        - [ ] 4e5 P1
