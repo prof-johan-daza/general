@@ -32,9 +32,14 @@ Lacunaire.
 ## Trente-et-unième semaine
 
 ## Trente-deuxième semaine
-<!-- ### Dix-septième feuille -->
+
 ## Trente-troisième semaine
-<!-- ### Dix-huitième feuille -->
+
+```python
+Semaine 1, 2 et 3 – Approximation, estimation – Notation scientifique – Conversion des unités – Chiffre significatif – Incertitude de mesure
+Semaine 4 et 5 – Les états de la matière – Les changements d'état – Corps purs et mélanges  
+```
+
 ## Trente-quatrième semaine
 <!-- ### Dix-neuvième feuille -->
 ## Trente-cinquième semaine
