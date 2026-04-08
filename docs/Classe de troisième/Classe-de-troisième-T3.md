@@ -36,9 +36,9 @@ Lacunaire.
 ## Trente-troisième semaine
 
 ```python
-Semaine 1, 2 et 3 – # Approximation, estimation – Notation scientifique – Conversion des unités – Chiffre significatif – Incertitude de mesure
-Semaine 4 et 5 – # Les états de la matière – Les changements d'état – Corps purs et mélanges
-Semaine 6
+Semaine 1, 2 et 3 – "Approximation, estimation – Notation scientifique – Conversion des unités – Chiffre significatif – Incertitude de mesure"
+Semaine 4 et 5 – "Les états de la matière I – Les changements d'état – Corps purs et mélanges"
+Semaine 6 - "Les états de la matière II – Description microscopique d’un gaz – Notion de pression"
 ```
 
 ## Trente-quatrième semaine
