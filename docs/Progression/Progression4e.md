@@ -67,23 +67,23 @@
        - [x] 4e3 P2
        - [x] 4e5 P1
        - [x] 4e5 P2
-- [ ] Les lois de l'électricité
+- [x] Les lois de l'électricité
        - [x] 4e3 P1
        - [x] 4e3 P2
        - [x] 4e5 P1
-       - [ ] 4e5 P2
-- [ ] Circuit en série 20 de 40 points – TP I
+       - [x] 4e5 P2
+- [x] Circuit en série 20 de 40 points – TP I
+       - [x] 4e3 P1
+       - [x] 4e3 P2
+       - [x] 4e5 P1
+       - [x] 4e5 P2
+- [ ] Circuit en parallèle 40 de 40 points – TP II
        - [x] 4e3 P1
        - [ ] 4e3 P2
-       - [ ] 4e5 P1
-       - [ ] 4e5 P2
-- [ ] Circuit en parallèle 40 de 40 points – TP II
-       - [ ] 4e3 P1
-       - [ ] 4e3 P2
-       - [ ] 4e5 P1
-       - [ ] 4e5 P2
+       - [x] 4e5 P1
+       - [x] 4e5 P2
 - [ ] Lois nœuds et mailles
        - [ ] 4e3 P1
        - [ ] 4e3 P2
-       - [ ] 4e5 P1
+       - [x] 4e5 P1
        - [ ] 4e5 P2
