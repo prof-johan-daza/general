@@ -1,8 +1,32 @@
 # Classe de troisième – Troisième trimestre
 
+## Vingt-sixième semaine
+
+### Première feuille – Action mécanique I
+
+!!! pied-piper ""
+    Colonnes de notes affichées dans Pronote :  
+    Modéliser une action mécanique – Feuille élève  
+    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S26/S26.pdf)
+
+## Vingt-septième semaine
+
+### Deuxième feuille – Action mécanique II
+
+!!! pied-piper ""
+    Modéliser une action mécanique – Feuille élève  
+    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S27/S27.pdf)  
+
+## Vingt-huitième semaine
+
+### Troisième feuille – TP $\frac{1}{2}$ et TP $\frac{2}{2}$
+
+!!! pied-piper ""
+    Troisième feuille - Travaux pratiques
+
 ## Vingt-neuvième semaine
 
-### Première feuille – Feuille de l'élève
+### Quatrième feuille – Feuille de l'élève
 
 !!! pied-piper ""
     [Atomes et ions – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
@@ -31,7 +55,7 @@
 
 ## Trentième semaine
 
-### Deuxième feuille – Feuille de l'élève
+### Cinquième feuille – Feuille de l'élève
 
 !!! pied-piper ""
     [Atomes et ions – Exercices – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S30/S30.pdf)

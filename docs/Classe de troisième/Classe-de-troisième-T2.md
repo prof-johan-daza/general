@@ -97,18 +97,3 @@
 
 !!! pied-piper ""
     Vacances de la Toussaint
-
-## Vingt-sixième semaine
-
-!!! pied-piper ""
-    Colonnes de notes affichées dans Pronote :
-
-    → Dixième feuille – Modéliser une action mécanique – Feuille élève  
-    [10e Feuille – Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S26/S26.pdf)  
-    → Dixième feuille – Modéliser une action mécanique – Corrigé  
-
-## Vingt-septième semaine
-
-!!! pied-piper ""
-    Modéliser une action mécanique – Feuille élève  
-    [10e Feuille – Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S27/S27.pdf)  
