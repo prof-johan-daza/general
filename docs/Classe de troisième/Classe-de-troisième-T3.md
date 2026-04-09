@@ -32,11 +32,12 @@ Lacunaire.
 ## Trente-et-unième semaine
 
 !!! pied-piper ""
-    Lorem ipsumsit amet, consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam
+    Vacances de pâques
 
 ## Trente-deuxième semaine
+
+!!! pied-piper ""
+    Vacances de pâques
 
 ## Trente-troisième semaine
 
