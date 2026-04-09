@@ -26,13 +26,15 @@
     Négatives.  
     Électrons.  
     Cation.  
-    Lacunaire.
+    Lacunaire.  
     [Lien vers l'animation PHET Ions](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)
 
 ## Trentième semaine
 
+### Deuxième feuille – Feuille de l'élève
+
 !!! pied-piper ""
-    [Atomes et ions – Feuille de l'élève – Exercices – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S30/S30.pdf)
+    [Atomes et ions – Exercices – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S30/S30.pdf)
 
 ## Trente-et-unième semaine
 
