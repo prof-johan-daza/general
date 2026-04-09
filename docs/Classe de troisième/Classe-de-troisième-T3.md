@@ -48,6 +48,8 @@
 
 ## Trente-troisième semaine
 
+### Liste des notions abordées
+
 ```python
 Semaine 1, 2 et 3 – "Approximation, estimation – Notation scientifique – Conversion des unités – Chiffre significatif – Incertitude de mesure"
 Semaine 4 et 5 – "Les états de la matière I – Les changements d'état I – Corps purs et mélanges"
@@ -63,21 +65,12 @@ Semaine 26 – "Comment modéliser une action mécanique ?"
 Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 ```
 
-## Trente-quatrième semaine
-<!-- ### Dix-neuvième feuille -->
-## Trente-cinquième semaine
-<!-- ### Vingtième feuille -->
-## Trente-sixième semaine
-<!-- ### Vingt-et-unième feuille -->
-## Trente-septième semaine
-<!-- ### Vingt-deuxième feuille -->
-## Trente-huitième semaine
-<!-- ### Vingt-troisième feuille -->
-## Trente-neuvième semaine
-<!-- ### Vingt-quatrième feuille -->
-## Quarantième semaine
-<!-- ### Vingt-cinquième feuille -->
-## Quarante-et-unième semaine
-<!-- ### Vingt-sixième feuille -->
-## Quarante-deuxième semaine
-<!-- ### Vingt-sixième feuille -->
+<<!--## Trente-quatrième semaine
+<<!--## Trente-cinquième semaine
+<<!--## Trente-sixième semaine
+<<!--## Trente-septième semaine
+<<!--## Trente-huitième semaine
+<<!--## Trente-neuvième semaine
+<<!--## Quarantième semaine
+<<!--## Quarante-et-unième semaine
+<<!--## Quarante-deuxième semaine
