@@ -65,12 +65,12 @@ Semaine 26 – "Comment modéliser une action mécanique ?"
 Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 ```
 
-<<!--## Trente-quatrième semaine-->
-<<!--## Trente-cinquième semaine-->
-<<!--## Trente-sixième semaine-->
-<<!--## Trente-septième semaine-->
-<<!--## Trente-huitième semaine-->
-<<!--## Trente-neuvième semaine-->
-<<!--## Quarantième semaine-->
-<<!--## Quarante-et-unième semaine-->
-<<!--## Quarante-deuxième semaine-->
+<!--## Trente-quatrième semaine-->
+<!--## Trente-cinquième semaine-->
+<!--## Trente-sixième semaine-->
+<!--## Trente-septième semaine-->
+<!--## Trente-huitième semaine-->
+<!--## Trente-neuvième semaine-->
+<!--## Quarantième semaine-->
+<!--## Quarante-et-unième semaine-->
+<!--## Quarante-deuxième semaine-->
