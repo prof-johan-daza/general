@@ -2,32 +2,37 @@
 
 ## Vingt-neuvième semaine
 
-[Atomes et ions – Feuille de l'élève – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
+### Première feuille – Feuille de l'élève
 
-Mots clés :  
-Nulle (particule neutre).  
-Anion.  
-Électrons.  
-Neutrons.  
-Positive notée « e ».  
-Positives.  
-Négative notée « -e ».  
-Positive.  
-Protons.  
-Neutrons.  
-Protons.  
-Nucléosynthèse stellaire.  
-Hydrogène H, Hélium He et Lithium Li.  
-Négatives.  
-Électrons.  
-Cation.  
-Lacunaire.
+!!! pied-piper ""
+    [Atomes et ions – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
 
-[Lien vers l'animation PHET Ions](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)
+### Mots clés
+
+!!! pied-piper ""
+    Nulle (particule neutre).  
+    Anion.  
+    Électrons.  
+    Neutrons.  
+    Positive notée « e ».  
+    Positives.  
+    Négative notée « -e ».  
+    Positive.  
+    Protons.  
+    Neutrons.  
+    Protons.  
+    Nucléosynthèse stellaire.  
+    Hydrogène H, Hélium He et Lithium Li.  
+    Négatives.  
+    Électrons.  
+    Cation.  
+    Lacunaire.
+    [Lien vers l'animation PHET Ions](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)
 
 ## Trentième semaine
 
-[Atomes et ions – Exercices – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S30/S30.pdf)
+!!! pied-piper ""
+    [Atomes et ions – Feuille de l'élève – Exercices – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S30/S30.pdf)
 
 ## Trente-et-unième semaine
 
