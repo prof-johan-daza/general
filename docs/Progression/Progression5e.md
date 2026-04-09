@@ -77,49 +77,56 @@
        - [x] 5e4 P2
        - [x] 5e5 P1
        - [x] 5e5 P2
-- [ ] Corps purs et mélange II
+- [x] Corps purs et mélange II
+       - [x] 5e3 P1
+       - [x] 5e3 P2
+       - [x] 5e4 P1
+       - [x] 5e4 P2
+       - [x] 5e5 P1
+       - [x] 5e5 P2
+- [x] Corps purs et mélange III
+       - [x] 5e3 P1
+       - [x] 5e3 P2
+       - [x] 5e4 P1
+       - [x] 5e4 P2
+       - [x] 5e5 P1
+       - [x] 5e5 P2
+- [x] Tableau Purs – Prise de note Purs, homo et hétéro
+       - [x] 5e3 P1
+       - [x] 5e3 P2
+       - [x] 5e4 P1
+       - [x] 5e4 P2
+       - [x] 5e5 P1
+       - [x] 5e5 P2
+- [x] Les transferts de chaleur – TEAMS
+       - [x] 5e3 P1
+       - [x] 5e3 P2
+       - [x] 5e4 P1
+       - [x] 5e4 P2
+       - [x] 5e5 P1
+       - [x] 5e5 P2
+- [ ] Seánce préparatoire du laboratoire
        - [x] 5e3 P1
        - [x] 5e3 P2
        - [x] 5e4 P1
        - [x] 5e4 P2
        - [ ] 5e5 P1
        - [x] 5e5 P2
-- [ ] Corps purs et mélange III
-       - [x] 5e3 P1
-       - [x] 5e3 P2
-       - [x] 5e4 P1
-       - [ ] 5e4 P2
-       - [ ] 5e5 P1
-       - [x] 5e5 P2
-- [ ] Tableau Purs – Prise de note Purs, homo et hétéro
-       - [x] 5e3 P1
-       - [x] 5e3 P2
-       - [x] 5e4 P1
-       - [ ] 5e4 P2
-       - [ ] 5e5 P1
-       - [x] 5e5 P2
-- [ ] Les transferts de chaleur – TEAMS
-       - [x] 5e3 P1
-       - [x] 5e3 P2
-       - [ ] 5e4 P1
-       - [ ] 5e4 P2
-       - [ ] 5e5 P1
-       - [ ] 5e5 P2
-- [ ] Seánce préparatoire du laboratoire
-       - [x] 5e3 P1
-       - [ ] 5e3 P2
-       - [ ] 5e4 P1
-       - [ ] 5e4 P2
-       - [ ] 5e5 P1
-       - [ ] 5e5 P2
 - [ ] Laboratoire Corps purs et M. Homo – M. hété
        - [ ] 5e3 P1
-       - [ ] 5e3 P2
+       - [x] 5e3 P2
+       - [ ] 5e4 P1
+       - [ ] 5e4 P2
+       - [ ] 5e5 P1
+       - [x] 5e5 P2
+- [ ] Le système solaire I - Échelle
+       - [ ] 5e3 P1
+       - [x] 5e3 P2
        - [ ] 5e4 P1
        - [ ] 5e4 P2
        - [ ] 5e5 P1
        - [ ] 5e5 P2
-- [ ] Le système solaire I - Échelle
+- [ ] Le système solaire II - TEAMS
        - [ ] 5e3 P1
        - [ ] 5e3 P2
        - [ ] 5e4 P1
