@@ -4,7 +4,7 @@
 
 ### Première feuille – La masse volumique
 
-!!! abstract ""
+!!! pied-piper ""
     Colonne affichée dans Pronote :  
     → Première feuille – Corrigé  
     [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S12/S12.pdf)
@@ -13,7 +13,7 @@
 
 ### Deuxième feuille – Séance d'exercices, La masse volumique
 
-!!! abstract ""
+!!! pied-piper ""
     Colonnes affichées dans Pronote :  
     → Deuxième feuille – Avancement  
     → Deuxième feuille – Corrigé  
@@ -23,7 +23,7 @@
 
 ### Troisème feuille – TP, La masse volumique
 
-!!! abstract ""
+!!! pied-piper ""
     Colonne affichée dans Pronote :  
     → Troisième feuille – Corrigé  
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S15/S15.pdf)
@@ -32,7 +32,7 @@
 
 ### Quatrième feuille – La matière dans l'univers
 
-!!! abstract ""
+!!! pied-piper ""
     Colonne affichée dans Pronote :  
     → Quatrième feuille – Avancement (feuille élève)  
     [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S16/S16.pdf)  
@@ -43,7 +43,7 @@
 
 ### Cinquième feuille – Séance d'exercices I, La matière dans l'univers
 
-!!! abstract ""
+!!! pied-piper ""
     Colonne affichée dans Pronote :  
     → Cinquième feuille – Séance d'exercices I, avancement (feuille élève)
     [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S20/S20.pdf)  
@@ -54,7 +54,7 @@
 
 ### Sixième feuille – Séance d'exercices II, La matière dans l'univers
 
-!!! abstract ""
+!!! pied-piper ""
     Colonne affichée dans Pronote :  
     → Sixième feuille – Séance d'exercices II  
     Feuille élève  
@@ -66,7 +66,7 @@
 
 ### Septième feuille – Mouvements
 
-!!! abstract ""
+!!! pied-piper ""
     Colonnes affichées dans Pronote :  
     → Septième feuille – Mouvements – Feuille élève  
     [7e feuille – Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S22/S22.pdf)
@@ -77,7 +77,7 @@
 
 ### Brevet blanc
 
-!!! abstract ""
+!!! pied-piper ""
     Colonne affichée dans Pronote :  
     → Brevet blanc PC – 27 janvier 2026 – Corrigé  
     [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S23/S23C.pdf)
@@ -86,20 +86,21 @@
 
 ### Des graphiques pour décrire des mouvements
 
-!!! abstract ""
+!!! pied-piper ""
     Colonne affichée dans Pronote :  
     Des graphiques pour décrire des mouvements – Corrigé  
     [8e Feuille – Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S24/S24.pdf)
-!!! abstract ""
+!!! pied-piper ""
     [9e Feuille – Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S24/S24II.pdf)
 
 ## Vingt-cinquième semaine
 
-Vacances de la Toussaint
+!!! pied-piper ""
+    Vacances de la Toussaint
 
 ## Vingt-sixième semaine
 
-!!! abstract ""
+!!! pied-piper ""
     Colonnes de notes affichées dans Pronote :
 
     → Dixième feuille – Modéliser une action mécanique – Feuille élève  
@@ -108,6 +109,6 @@ Vacances de la Toussaint
 
 ## Vingt-septième semaine
 
-!!! abstract ""
+!!! pied-piper ""
     Modéliser une action mécanique – Feuille élève  
     [10e Feuille – Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S27/S27.pdf)  
