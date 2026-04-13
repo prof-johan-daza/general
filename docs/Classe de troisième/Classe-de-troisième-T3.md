@@ -31,6 +31,11 @@
 !!! pied-piper ""
     [Atomes et ions – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
 
+### Quatrième feuille – Corrigé
+
+!!! pied-piper ""
+    [Atomes et ions – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29C.pdf)
+
 ### Mots clés
 
 !!! pied-piper ""
