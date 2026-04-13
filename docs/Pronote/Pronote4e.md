@@ -1,16 +1,11 @@
 # Pronote 4e
 
-## Quatrième
+## 4e3 et 4e5
 
 ### Troisième trimestre
 
-- [x] Première feuille
+- [ ] TP Circuits en série et en parallèle
        - [x] 4e3 P1
-       - [x] 4e3 P2
-       - [x] 4e5 P1
-       - [x] 4e5 P2
-- [ ] Dessins de molécules – molview.org
-       - [ ] 4e3 P1
        - [ ] 4e3 P2
        - [ ] 4e5 P1
        - [ ] 4e5 P2
