@@ -14,7 +14,12 @@
        - [x] 3e2 P2
        - [x] 3e5 P1
        - [ ] 3e5 P2
-- [ ] Troisième feuille – Corrigé $\frac{x}{33}$
+- [ ] Troisième feuille – TP
+       - [ ] 3e2 P1
+       - [x] 3e2 P2
+       - [x] 3e5 P1
+       - [ ] 3e5 P2
+- [ ] Quatrième feuille – TP $\frac{x}{33}$
        - [ ] 3e2 P1
        - [x] 3e2 P2
        - [x] 3e5 P1
