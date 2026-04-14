@@ -65,6 +65,11 @@
 !!! pied-piper ""
     [Atomes et ions – Exercices – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S30/S30.pdf)
 
+### Cinquième feuille – Corrigé
+
+!!! pied-piper ""
+    [Atomes et ions – Exercices – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S30/S30C.pdf)
+
 ## Trente-et-unième semaine
 
 !!! pied-piper ""
