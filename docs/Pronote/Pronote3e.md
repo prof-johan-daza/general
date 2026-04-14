@@ -19,7 +19,7 @@
        - [x] 3e2 P2
        - [x] 3e5 P1
        - [ ] 3e5 P2
-- [ ] Quatrième feuille - Atomes et ions – Cours $\frac{x}{33}$
+- [ ] Quatrième·feuille·Atom·et·ions·Cours – $\frac{x}{33}$
        - [ ] 3e2 P1
        - [x] 3e2 P2
        - [x] 3e5 P1
