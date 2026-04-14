@@ -9,7 +9,7 @@
        - [ ] 4e3 P2
        - [ ] 4e5 P1
        - [ ] 4e5 P2
-- [ ] Deuxième feuille – Exos série et parallèle – – $\frac{20}{29}$
+- [ ] Deuxième feuille – Exos série et parallèle – – $\frac{20}{8}$
        - [ ] 4e3 P1
        - [ ] 4e3 P2
        - [ ] 4e5 P1
