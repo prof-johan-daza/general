@@ -7,7 +7,10 @@
 ## Trente-deuxième semaine
 <!-- ### Dix-septième feuille -->
 ## Trente-troisième semaine
-<!-- ### Dix-huitième feuille -->
+
+!!! pied-piper ""
+    [Cliquez ici pour télécharger les documents - Auteur : Raphaël Chay](https://prof-johan-daza.github.io/general/4/S33/S33.pdf)
+
 ## Trente-quatrième semaine
 <!-- ### Dix-neuvième feuille -->
 ## Trente-cinquième semaine
