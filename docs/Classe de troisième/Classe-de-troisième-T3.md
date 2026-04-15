@@ -82,6 +82,9 @@
 
 ## Trente-troisième semaine
 
+!!! pied-piper ""
+        [Atomes et ions – Exercices – Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S33/S33.pdf)
+
 ### Liste des notions abordées
 
 ```python
