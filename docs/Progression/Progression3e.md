@@ -87,3 +87,13 @@
        - [ ] 3e2 P2
        - [ ] 3e5 P1
        - [ ] 3e5 P2
+- [ ] TP – Identifications de quelques ions
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
+- [ ] Acides et bases – Cours
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
