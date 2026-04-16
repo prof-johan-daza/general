@@ -2,7 +2,7 @@
 
 ## **Vingt-sixième semaine**
 
-### Première feuille – Action mécanique I
+### *Première feuille – Action mécanique I*
 
 !!! pied-piper ""
     Colonnes de notes affichées dans Pronote :  
