@@ -1,18 +1,21 @@
 # Classe de quatrième – Troisième trimestre
 
-## Trentième semaine
-<!-- ### Quinzième feuille -->
-## Trente-et-unième semaine
-<!-- ### Seizième feuille -->
-## Trente-deuxième semaine
-<!-- ### Dix-septième feuille -->
-## Trente-troisième semaine
+## **Trente-troisième semaine**
+
+### *Deuxième feuille – Exercices circuits*
 
 !!! pied-piper ""
+    Feuille de l'élève – Cours – Exercices circuits  
     [Cliquez ici pour télécharger les documents - Auteur : Raphaël Chay](https://prof-johan-daza.github.io/general/4/S33/S33.pdf)
 
 ## Trente-quatrième semaine
-<!-- ### Dix-neuvième feuille -->
+
+### *Troisième feuille – Décrire un mouvement*
+
+!!! pied-piper ""
+    Feuille de l'élève – Cours – Décrire un mouvement lien  
+    [Cliquez ici](https://mouv.web-labosims.org/)
+
 ## Trente-cinquième semaine
 <!-- ### Vingtième feuille -->
 ## Trente-sixième semaine
