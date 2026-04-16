@@ -1,6 +1,6 @@
 # Classe de troisième – Troisième trimestre
 
-## Vingt-sixième semaine
+## **Vingt-sixième semaine**
 
 ### Première feuille – Action mécanique I
 
