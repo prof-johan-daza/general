@@ -29,7 +29,12 @@
        - [ ] 3e2 P2
        - [ ] 3e5 P1
        - [ ] 3e5 P2
-- [ ] 6. Sixième·feuille·Acide·et·bases·Cours – $\frac{20}{29}$
+- [ ] 6. Septièm·feuil·Identifi·d·quelques·ionsTP – $\frac{20}{7}$
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
+- [ ] 7. Sixième·feuille·Acide·et·bases·Cours – $\frac{20}{29}$
        - [ ] 3e2 P1
        - [ ] 3e2 P2
        - [ ] 3e5 P1
