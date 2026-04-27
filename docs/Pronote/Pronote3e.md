@@ -2,7 +2,7 @@
 
 ## 3e2 et 3e5
 
-### Troisième trimestre – Notes coefficient 0,2 au 27 avril 2026
+### Troisième trimestre – Notes coefficient 0,1 au 27 avril 2026
 
 - [x] 1. Première feuille – Corrigé
        - [x] 3e2 P1
