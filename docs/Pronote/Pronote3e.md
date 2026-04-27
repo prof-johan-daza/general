@@ -2,7 +2,7 @@
 
 ## 3e2 et 3e5
 
-### Troisième trimestre
+### Troisième trimestre – Notes coefficient 0,2 au 27 avril 2026
 
 - [x] 1. Première feuille – Corrigé
        - [x] 3e2 P1
@@ -39,7 +39,7 @@
        - [ ] 3e2 P2
        - [ ] 3e5 P1
        - [ ] 3e5 P2
-- [ ] 8. Brevet blanc – $\frac{20}{25}$
+- [ ] 8. Brevet blanc SPC 2 – $\frac{20}{25}$
        - [ ] 3e2 P1
        - [ ] 3e2 P2
        - [ ] 3e5 P1
