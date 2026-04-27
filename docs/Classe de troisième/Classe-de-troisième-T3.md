@@ -115,7 +115,18 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
     Feuille de l'élève – Cours – PH  
     [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S34/S34.pdf)
 
-<!--## Trente-cinquième semaine-->
+## **Trente-cinquième semaine**
+
+### *Brevet blanc – Feuille élève*
+
+!!! pied-piper ""
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S35/S35.pdf)
+
+### *Brevet blanc – Barème – Corrigé*
+
+!!! pied-piper ""
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S35/S35C.pdf)
+
 <!--## Trente-sixième semaine-->
 <!--## Trente-septième semaine-->
 <!--## Trente-huitième semaine-->
