@@ -141,6 +141,7 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
         Comburant  
         Réactif  
         Combustible  
+        Redistribution des atomes  
         États physiques  
         Produit  
         $2\,H^+ + Fe \rightarrow H_2 + Fe^{2+}$  
