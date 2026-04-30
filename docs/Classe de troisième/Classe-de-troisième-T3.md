@@ -135,9 +135,6 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S36/S36.pdf)
     !!! pied-piper ""
         Mots clés  
-        
-
-
 
 ### *Réaction chimique – Corrigé*
 
