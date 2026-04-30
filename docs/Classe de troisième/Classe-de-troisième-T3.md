@@ -132,10 +132,28 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 ### *Réaction chimique – Feuille élève*
 
 !!! pied-piper ""
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S36/S36.pdf)
+    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S36/S36.pdf)
     !!! pied-piper ""
         Mots clés  
-        États physiques
+        $HO^- + H^+ \rightarrow H_2O$  
+        Diminue  
+        Coefficient 3  
+        Comburant  
+        Réactif  
+        Combustible  
+        États physiques  
+        Produit  
+        $2\,H^+ + Fe \rightarrow H_2 + Fe^{2+}$  
+        Le carbone et le dioxygène sont des réactifs et le dioxyde de carbone est un produit  
+        D’activation  
+        Le dihydrogène gazeux $H_2$ et l'ion ferreux $Fe^{2+}$  
+        Masse reste constante  
+        Une nouvelle espèce se forme : le dioxyde de carbone  
+        Augmente  
+        De la masse  
+        Dont le pH est plus proche de 7 que celui des solutions de départ  
+        Coefficient 2  
+        Du dioxyde de carbone $CO_2$ et de l’eau
 
 ### *Réaction chimique – Corrigé*
 
