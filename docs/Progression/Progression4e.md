@@ -92,7 +92,22 @@
        - [ ] 4e3 P2
        - [ ] 4e5 P1
        - [ ] 4e5 P2
-- [ ] Décrire un mouvement – Troisième feuille
+- [ ] Décrire un mouvement – Référentiels
+       - [ ] 4e3 P1
+       - [ ] 4e3 P2
+       - [ ] 4e5 P1
+       - [ ] 4e5 P2
+- [ ] Décrire un mouvement – Trajectoire
+       - [ ] 4e3 P1
+       - [ ] 4e3 P2
+       - [ ] 4e5 P1
+       - [ ] 4e5 P2
+- [ ] Décrire un mouvement – Calcul vitesse exos I – Troisième feuille
+       - [ ] 4e3 P1
+       - [ ] 4e3 P2
+       - [ ] 4e5 P1
+       - [ ] 4e5 P2
+- [ ] Décrire un mouvement – Calcul vitesse exos II – Troisième feuille
        - [ ] 4e3 P1
        - [ ] 4e3 P2
        - [ ] 4e5 P1

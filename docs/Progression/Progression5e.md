@@ -140,3 +140,17 @@
        - [ ] 5e4 P2
        - [ ] 5e5 P1
        - [ ] 5e5 P2
+- [ ] Le système solaire IV (+ Galaxie, etc)) - TEAMS
+       - [ ] 5e3 P1
+       - [ ] 5e3 P2
+       - [ ] 5e4 P1
+       - [ ] 5e4 P2
+       - [ ] 5e5 P1
+       - [ ] 5e5 P2
+- [ ] Exposé – Le système solaire
+       - [ ] 5e3 P1
+       - [ ] 5e3 P2
+       - [ ] 5e4 P1
+       - [ ] 5e4 P2
+       - [ ] 5e5 P1
+       - [ ] 5e5 P2
