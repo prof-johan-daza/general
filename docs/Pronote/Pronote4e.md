@@ -14,3 +14,8 @@
        - [ ] 4e3 P2
        - [ ] 4e5 P1
        - [ ] 4e5 P2
+- [ ] Troisième feuille – 3e feu. Exos calcul valeur de la vitesse – $\frac{20}{20}$
+       - [ ] 4e3 P1
+       - [ ] 4e3 P2
+       - [ ] 4e5 P1
+       - [ ] 4e5 P2
