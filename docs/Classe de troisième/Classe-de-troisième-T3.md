@@ -161,9 +161,16 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 !!! pied-piper ""
     Après la note
 
-<!--## Trente-septième semaine-->
-<!--## Trente-huitième semaine-->
-<!--## Trente-neuvième semaine-->
+## **Trente-huitième semaine**
+
+!!! pied-piper ""
+    Vacances
+
+## **Trente-neuvième semaine**
+
+!!! pied-piper ""
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S39/S39.pdf)
+
 <!--## Quarantième semaine-->
 <!--## Quarante-et-unième semaine-->
 <!--## Quarante-deuxième semaine-->
