@@ -44,3 +44,13 @@
        - [ ] 3e2 P2
        - [ ] 3e5 P1
        - [ ] 3e5 P2
+- [ ] 9. Huitièm·feuille Transforma./R chimiques – $\frac{20}{20}$
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
+- [ ] 10. Neuviè·feuille Transforma./R chimi. EXOS – $\frac{20}{20}$
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2

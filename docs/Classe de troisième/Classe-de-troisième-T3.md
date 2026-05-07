@@ -161,6 +161,11 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 !!! pied-piper ""
     Après la note
 
+## **Trente-septième semaine**
+
+!!! pied-piper ""
+    Vacances de l'Ascension
+
 ## **Trente-huitième semaine**
 
 !!! pied-piper ""
