@@ -59,3 +59,8 @@
        - [ ] 3e2 P2
        - [ ] 3e5 P1
        - [ ] 3e5 P2
+- [ ] 11. Dixième feuille Énergie et Mouvem. Cours – $\frac{20}{20}$
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
