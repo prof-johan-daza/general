@@ -97,3 +97,23 @@
        - [ ] 3e2 P2
        - [ ] 3e5 P1
        - [ ] 3e5 P2
+- [ ] Réactions chimiques – Cours
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
+- [ ] EXOS Réactions chimiques – Cours
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
+- [ ] Énergie – Cours
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
+- [ ] EXOS ? Énergie – Cours
+       - [ ] 3e2 P1
+       - [ ] 3e2 P2
+       - [ ] 3e5 P1
+       - [ ] 3e5 P2
