@@ -171,6 +171,11 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 !!! pied-piper ""
     Vacances
 
+## **Trente-huitième semaine II**
+
+!!! pied-piper ""
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S38/S38.pdf)
+
 ## **Trente-neuvième semaine**
 
 !!! pied-piper ""
