@@ -71,7 +71,7 @@
 
 !!! pied-piper ""
     Atomes et ions – Exercices  
-    [Cliquez ici pour télécharger les documents - Cinquième·feuille·Atom·et·ions·Exercices – Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S30C/S30C.pdf)
+    [Cliquez ici pour télécharger les documents - Cinquième·feuille·Atom·et·ions·Exercices – Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S30/S30C.pdf)
 
 ## **Trente-et-unième semaine**
 
