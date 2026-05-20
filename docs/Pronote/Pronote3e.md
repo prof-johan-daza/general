@@ -4,27 +4,27 @@
 
 ### Troisième trimestre – Notes coefficient 0,1 au 27 avril 2026
 
-- [x] S12 – 1. Première feuille – Corrigé – Coefficient 0,25
+- [x] S26 – 1. Première feuille – Corrigé – Coefficient 0,25
 
-- [x] 2. Deuxième feuille – Corrigé – Coefficient 0,25
+- [x] S27 – 2. Deuxième feuille – Corrigé – Coefficient 0,25
 
-- [x] 3. Troisième feuille – TP – Coefficient 0,25
+- [x] S28 – 3. Troisième feuille – TP – Coefficient 0,25
 
-- [x] 4. Quatrième·feuille·Atom·et·ions·Cours – Coefficient 0,25 – $\frac{20}{33}$
+- [x] S29 – 4. Quatrième·feuille·Atom·et·ions·Cours – Coefficient 0,25 – $\frac{20}{33}$
 
-- [x] 5. Cinquième·feuille·Atom·et·ions·Exercices – Coefficient 0,25 – $\frac{20}{29}$
+- [x] S30 – 5. Cinquième·feuille·Atom·et·ions·Exercices – Coefficient 0,25 – $\frac{20}{29}$
 
-- [x] 6. Septièm·feuil·Identifi·d·quelques·ionsTP – Coefficient 0,25 – $\frac{20}{7}$
+- [x] S33 – 6. Septièm·feuil·Identifi·d·quelques·ionsTP – Coefficient 0,25 – $\frac{20}{7}$
 
-- [x] 7. Sixième·feuille·Acide·et·bases·Cours – Coefficient 0,25 – $\frac{20}{29}$
+- [x] S34 – 7. Sixième·feuille·Acide·et·bases·Cours – Coefficient 0,25 – $\frac{20}{29}$
 
-- [x] 8. Brevet blanc SPC 2 – Coefficient 1 – $\frac{20}{25}$
+- [x] S35 – 8. Brevet blanc SPC 2 – Coefficient 1 – $\frac{20}{25}$
 
-- [x] 9. Acides et bases PH - Peau – Coefficient 0,25 – $\frac{20}{20}$
+- [x] S35II – 9. Acides et bases PH - Peau – Coefficient 0,25 – $\frac{20}{20}$
 
-- [x] 10. Huitièm·feuille Transforma./R chimiques – Coefficient 0,25 – $\frac{20}{20}$
+- [x] S36 – 10. Huitièm·feuille Transforma./R chimiques – Coefficient 0,25 – $\frac{20}{20}$
 
-- [x] S36 – 11. Neuviè·feuille Transforma./R chimi. EXOS – Coefficient 0,25 – $\frac{20}{20}$
+- [x] S36II – 11. Neuviè·feuille Transforma./R chimi. EXOS – Coefficient 0,25 – $\frac{20}{20}$
 
 - [x] S38 – 12. Dixième feuille Énergie et Mouvem. Cours – Coefficient 0,25 – $\frac{20}{20}$
 
