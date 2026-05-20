@@ -168,7 +168,7 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 ## **Trente-huitième semaine**
 
 !!! pied-piper ""
-    [Cliquez ici pour télécharger les documents – Neuviè·feuille Transforma./R chimi. EXOS – Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S38/S38.pdf)
+    [Cliquez ici pour télécharger les documents – Neuviè·feuille Transforma./R chimi. EXOS](https://prof-johan-daza.github.io/general/3/S38/S38.pdf)
 
 ## **Trente-huitième semaine II**
 
