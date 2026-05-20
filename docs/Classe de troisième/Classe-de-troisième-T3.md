@@ -14,7 +14,7 @@
 
 !!! pied-piper ""
     Modéliser une action mécanique – Exercices – Feuille élève  
-    [Cliquez ici pour télécharger les documents - Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S27/S27.pdf)
+    [Cliquez ici pour télécharger les documents - Deuxième feuille – Corrigé – Auteur : Florence Trouillet](https://prof-johan-daza.github.io/general/3/S27/S27.pdf)
 
 ## **Vingt-huitième semaine**
 
@@ -29,13 +29,13 @@
 
 !!! pied-piper ""
     Atomes et ions – Cours – Feuille de l'éleve  
-    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
+    [Cliquez ici pour télécharger les documents - Quatrième·feuille·Atom·et·ions·Cours – Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29.pdf)
 
 ### *Quatrième feuille – Corrigé*
 
 !!! pied-piper ""
     Atomes et ions – Cours – Corrigé  
-    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29C.pdf)
+    [Cliquez ici pour télécharger les documents – Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S29/S29C.pdf)
 
 ### *Mots clés*
 
@@ -65,7 +65,7 @@
 
 !!! pied-piper ""
     Atomes et ions – Exercices  
-    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S30/S30.pdf)
+    [Cliquez ici pour télécharger les documents - Cinquième·feuille·Atom·et·ions·Exercices – Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S30/S30.pdf)
 
 ### *Cinquième feuille – Corrigé*
 
@@ -88,7 +88,7 @@
 
 !!! pied-piper ""
     Feuille de l'élève – Atomes et ions – TP  
-    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S33/S33.pdf)
+    [Cliquez ici pour télécharger les documents – Septièm·feuil·Identifi·d·quelques·ionsTP - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S33/S33.pdf)
 
 ### *Liste des notions abordées*
 
