@@ -4,11 +4,11 @@
 
 ### Troisième trimestre – Notes coefficient 0,1 au 27 avril 2026
 
-- [x] 1. Première feuille – Coefficient 0,25 – Corrigé
+- [x] S12 – 1. Première feuille – Corrigé – Coefficient 0,25
 
-- [x] 2. Deuxième feuille  – Coefficient 0,25 – Corrigé
+- [x] 2. Deuxième feuille – Corrigé – Coefficient 0,25
 
-- [x] 3. Troisième feuille  – Coefficient 0,25 – TP
+- [x] 3. Troisième feuille – TP – Coefficient 0,25
 
 - [x] 4. Quatrième·feuille·Atom·et·ions·Cours – Coefficient 0,25 – $\frac{20}{33}$
 
@@ -30,4 +30,4 @@
 
 - [x] S38II – 13. Onzième feuille Énergie et Mouveme. EXOS – Coefficient 0,25
 
-- [x] S39 – 14. Évaluation – Coefficient 1,5 –
+- [x] S39 – 14. Évaluation de fin de chapitre – Coefficient 1,5
