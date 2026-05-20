@@ -10,24 +10,24 @@
 
 - [x] S28 – 3. Troisième feuille – TP – Coefficient 0,25
 
-- [x] S29 – 4. Quatrième·feuille·Atom·et·ions·Cours – Coefficient 0,25 – $\frac{20}{33}$
+- [x] S29 – 4. Quatrième·feuille·Atom·et·ions·Cours – Coefficient 0,25
 
-- [x] S30 – 5. Cinquième·feuille·Atom·et·ions·Exercices – Coefficient 0,25 – $\frac{20}{29}$
+- [x] S30 – 5. Cinquième·feuille·Atom·et·ions·Exercices – Coefficient 0,25
 
-- [x] S33 – 6. Septièm·feuil·Identifi·d·quelques·ionsTP – Coefficient 0,25 – $\frac{20}{7}$
+- [x] S33 – 6. Septièm·feuil·Identifi·d·quelques·ionsTP – Coefficient 0,25
 
-- [x] S34 – 7. Sixième·feuille·Acide·et·bases·Cours – Coefficient 0,25 – $\frac{20}{29}$
+- [x] S34 – 7. Sixième·feuille·Acide·et·bases·Cours – Coefficient 0,25
 
-- [x] S35 – 8. Brevet blanc SPC 2 – Coefficient 1 – $\frac{20}{25}$
+- [x] S35 – 8. Brevet blanc SPC 2 – Coefficient 1
 
-- [x] S35II – 9. Acides et bases PH - Peau – Coefficient 0,25 – $\frac{20}{20}$
+- [x] S35II – 9. Acides et bases PH - Peau – Coefficient 0,25
 
-- [x] S36 – 10. Huitièm·feuille Transforma./R chimiques – Coefficient 0,25 – $\frac{20}{20}$
+- [x] S36 – 10. Huitièm·feuille Transforma./R chimiques – Coefficient 0,25
 
-- [x] S36II – 11. Neuviè·feuille Transforma./R chimi. EXOS – Coefficient 0,25 – $\frac{20}{20}$
+- [ ] S36II – 11. Neuviè·feuille Transforma./R chimi. EXOS – Coefficient 0,25
 
-- [x] S38 – 12. Dixième feuille Énergie et Mouvem. Cours – Coefficient 0,25 – $\frac{20}{20}$
+- [ ] S38 – 12. Dixième feuille Énergie et Mouvem. Cours – Coefficient 0,25
 
-- [x] S38II – 13. Onzième feuille Énergie et Mouveme. EXOS – Coefficient 0,25
+- [ ] S38II – 13. Onzième feuille Énergie et Mouveme. EXOS – Coefficient 0,25
 
-- [x] S39 – 14. Évaluation de fin de chapitre – Coefficient 1,5
+- [ ] S39 – 14. Évaluation de fin de chapitre – Coefficient 1,5
