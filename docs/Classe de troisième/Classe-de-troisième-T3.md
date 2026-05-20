@@ -107,14 +107,6 @@ Semaine 26 – "Comment modéliser une action mécanique ?"
 Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 ```
 
-## **Trente-quatrième semaine**
-
-### *Septième feuille – PH*
-
-!!! pied-piper ""
-    Feuille de l'élève – Cours – PH  
-    [Cliquez ici pour télécharger les documents - Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S34/S34.pdf)
-
 ## **Trente-cinquième semaine**
 
 ### *Brevet blanc – Feuille élève*
@@ -126,6 +118,13 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 
 !!! pied-piper ""
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S35/S35C.pdf)
+
+## **Trente-cinquième semaine II**
+
+### *Septième feuille – PH*
+
+!!! pied-piper ""  
+    [Cliquez ici pour télécharger les documents – Acides et bases PH - Peau- Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S35II/S35II.pdf)
 
 ## **Trente-sixième semaine**
 
