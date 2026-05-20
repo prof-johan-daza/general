@@ -16,18 +16,16 @@
 
 - [x] S33 – 6. Septièm·feuil·Identifi·d·quelques·ionsTP – Coefficient 0,25
 
-- [x] S34 – 7. Sixième·feuille·Acide·et·bases·Cours – Coefficient 0,25
+- [x] S35 – 7. Brevet blanc SPC 2 – Coefficient 1
 
-- [x] S35 – 8. Brevet blanc SPC 2 – Coefficient 1
+- [x] S35II – 8. Acides et bases PH - Peau – Coefficient 0,25
 
-- [x] S35II – 9. Acides et bases PH - Peau – Coefficient 0,25
+- [x] S36 – 9. Huitièm·feuille Transforma./R chimiques – Coefficient 0,25
 
-- [x] S36 – 10. Huitièm·feuille Transforma./R chimiques – Coefficient 0,25
+- [ ] S38 – 10. Neuviè·feuille Transforma./R chimi. EXOS – Coefficient 0,25
 
-- [ ] S38 – 11. Neuviè·feuille Transforma./R chimi. EXOS – Coefficient 0,25
+- [ ] S38II – 11. Dixième feuille Énergie et Mouvem. Cours – Coefficient 0,25
 
-- [ ] S38II – 12. Dixième feuille Énergie et Mouvem. Cours – Coefficient 0,25
+- [ ] S39 – 12. Onzième feuille Énergie et Mouveme. EXOS – Coefficient 0,25
 
-- [ ] S39 – 13. Onzième feuille Énergie et Mouveme. EXOS – Coefficient 0,25
-
-- [ ] S40 – 14. Évaluation de fin de chapitre – Coefficient 1,5
+- [ ] S40 – 13. Évaluation de fin de chapitre – Coefficient 1,5
