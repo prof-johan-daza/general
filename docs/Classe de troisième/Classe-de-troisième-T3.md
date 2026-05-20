@@ -169,18 +169,19 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 ## **Trente-huitième semaine**
 
 !!! pied-piper ""
-    Vacances
+    [Cliquez ici pour télécharger les documents – Neuviè·feuille Transforma./R chimi. EXOS – Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S38/S38.pdf)
 
 ## **Trente-huitième semaine II**
 
 !!! pied-piper ""
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S38/S38.pdf)
+    [Cliquez ici pour télécharger les documents – Dixième feuille Énergie et Mouvem. Cours – Auteur : Florence TROUILLET](https://prof-johan-daza.github.io/general/3/S38II/S38II.pdf)
 
 ## **Trente-neuvième semaine**
 
 !!! pied-piper ""
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S39/S39.pdf)
+    [Cliquez ici pour télécharger les documents – Onzième feuille Énergie et Mouveme. EXOS - Auteur : Raphaël Chay](https://prof-johan-daza.github.io/general/3/S39/S39.pdf)
 
-<!--## Quarantième semaine-->
-<!--## Quarante-et-unième semaine-->
-<!--## Quarante-deuxième semaine-->
+## **Quarantième semaine**
+
+!!! pied-piper ""
+    Évaluation de fin de chapitre

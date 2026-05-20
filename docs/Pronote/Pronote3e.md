@@ -24,10 +24,10 @@
 
 - [x] S36 – 10. Huitièm·feuille Transforma./R chimiques – Coefficient 0,25
 
-- [ ] S36II – 11. Neuviè·feuille Transforma./R chimi. EXOS – Coefficient 0,25
+- [ ] S38 – 11. Neuviè·feuille Transforma./R chimi. EXOS – Coefficient 0,25
 
-- [ ] S38 – 12. Dixième feuille Énergie et Mouvem. Cours – Coefficient 0,25
+- [ ] S38II – 12. Dixième feuille Énergie et Mouvem. Cours – Coefficient 0,25
 
-- [ ] S38II – 13. Onzième feuille Énergie et Mouveme. EXOS – Coefficient 0,25
+- [ ] S39 – 13. Onzième feuille Énergie et Mouveme. EXOS – Coefficient 0,25
 
-- [ ] S39 – 14. Évaluation de fin de chapitre – Coefficient 1,5
+- [ ] S40 – 14. Évaluation de fin de chapitre – Coefficient 1,5
