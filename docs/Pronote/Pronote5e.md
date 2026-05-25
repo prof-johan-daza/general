@@ -8,6 +8,4 @@
 
 - [x] S28 – 2. ProjetSystème solaire à l’échelle donnée – Coefficient à définir
 
-- [x] S38 – 3. Exos calcul de la vitesse – Coefficient à définir
-
-- [x] S38II – 4. Avance MecaChrono TP vitesse – Coefficient à définir
+- [ ] S40 – 3. Évaluation de fin de chapitre – Coefficient 2
