@@ -22,7 +22,7 @@
 
 - [x] S36 – 9.Huitiè·feuille Transforma./R chimiques – Coefficient 0,25
 
-- [ ] S38 – 10.Neuviè·feuille Transfor./R chimi.EXOS – Coefficient 0,25
+- [x] S38 – 10.Neuviè·feuille Transfor./R chimi.EXOS – Coefficient 0,25
 
 - [ ] S38II – 11.Dixième feuille Énerg. et Mouve.COURS – Coefficient 0,25
 

@@ -4,18 +4,10 @@
 
 ### Troisième trimestre
 
-- [ ] TP Circuits en série et en parallèle
-       - [x] 4e3 P1
-       - [ ] 4e3 P2
-       - [ ] 4e5 P1
-       - [ ] 4e5 P2
-- [ ] Deuxième feuille – Exos série et parallè – $\frac{20}{8}$
-       - [ ] 4e3 P1
-       - [ ] 4e3 P2
-       - [ ] 4e5 P1
-       - [ ] 4e5 P2
-- [ ] Troisième feuille – 3e feu. Exos calcul valeur de la vitesse – $\frac{20}{20}$
-       - [ ] 4e3 P1
-       - [ ] 4e3 P2
-       - [ ] 4e5 P1
-       - [ ] 4e5 P2
+- [x] S27 – 1. TP Circuits en série et en parallèle – Coefficient à définir
+
+- [x] S28 – 2. Deuxième feuille Exos série et para. – Coefficient à définir
+
+- [x] S38 – 3. Exos calcul de la vitesse – Coefficient à définir
+
+- [x] S38II – 4. Avance MecaChrono TP vitesse – Coefficient à définir
