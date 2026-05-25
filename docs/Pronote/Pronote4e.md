@@ -12,4 +12,4 @@
 
 - [x] S38II – |4. Avance MecaChrono TP vitesse| – Coefficient à définir
 
-- [ ] S40 – |3. Évaluation de fin de chapitre| – Coefficient 2
+- [ ] S40 – |5. Évaluation de fin de chapitre| – Coefficient 2
