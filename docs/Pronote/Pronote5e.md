@@ -4,8 +4,8 @@
 
 ### Troisième trimestre
 
-- [x] S27 – 1.Travaux pratiques Labo Purs et Mélange – Coefficient à définir
+- [x] S27 – |1.Travaux pratiques Labo Purs et Mélange| – Coefficient à définir
 
-- [x] S28 – 2. ProjetSystème solaire à l’échelle donnée – Coefficient à définir
+- [x] S28 – |2. Projet système solaire à l’échelle| – Coefficient à définir
 
-- [ ] S40 – 3. Évaluation de fin de chapitre – Coefficient 2
+- [ ] S40 – |3. Évaluation de fin de chapitre| – Coefficient 2
