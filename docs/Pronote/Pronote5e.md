@@ -4,24 +4,10 @@
 
 ### Troisième trimestre
 
-- [ ] 1. Travaux·pratiques·Labora·Purs·Et·Mélange
-       - [x] 5e3 P1
-       - [ ] 5e3 P2
-       - [ ] 5e4 P1
-       - [ ] 5e4 P2
-       - [ ] 5e5 P1
-       - [ ] 5e5 P2
-- [ ] 2. ProjetSystème solaire à l’échelle donnée
-       - [x] 5e3 P1
-       - [ ] 5e3 P2
-       - [ ] 5e4 P1
-       - [ ] 5e4 P2
-       - [ ] 5e5 P1
-       - [ ] 5e5 P2
-- [ ] 3. Séance d'exercices distances sys.solaire
-       - [x] 5e3 P1
-       - [ ] 5e3 P2
-       - [ ] 5e4 P1
-       - [ ] 5e4 P2
-       - [ ] 5e5 P1
-       - [ ] 5e5 P2
+- [x] S27 – 1.Travaux pratiques Labo Purs et Mélange – Coefficient à définir
+
+- [x] S28 – 2. ProjetSystème solaire à l’échelle donnée – Coefficient à définir
+
+- [x] S38 – 3. Exos calcul de la vitesse – Coefficient à définir
+
+- [x] S38II – 4. Avance MecaChrono TP vitesse – Coefficient à définir
