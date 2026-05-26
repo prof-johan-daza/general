@@ -8,4 +8,4 @@
 
 - [x] S28 – |2. Projet système solaire à l’échelle| – Coefficient à définir
 
-- [ ] S40 – |3. Évaluation de fin de chapitre| – Coefficient 2
+- [x] S40 – |3. Évaluation de fin de chapitre| – Coefficient 2
