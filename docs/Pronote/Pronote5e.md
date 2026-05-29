@@ -8,4 +8,6 @@
 
 - [x] S28 – |2. Projet système solaire à l’échelle| – Coefficient à définir
 
-- [x] S40 – |3. Évaluation de fin de chapitre| – Coefficient 2
+- [x] S38 – |3. Avancement et Corrigé Conver. Unités| – Coefficient à définir
+
+- [x] S40 – |4. Évaluation de fin de chapitre| – Coefficient 2
