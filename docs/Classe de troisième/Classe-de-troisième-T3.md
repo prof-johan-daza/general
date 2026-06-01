@@ -171,6 +171,9 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 !!! pied-piper ""
     [Cliquez ici pour télécharger les documents – Neuviè·feuille Transforma./R chimi. EXOS](https://prof-johan-daza.github.io/general/3/S38/S38.pdf)
 
+!!! pied-piper ""
+    [Corrigé – Cliquez ici pour télécharger les documents – Neuviè·feuille Transforma./R chimi. EXOS](https://prof-johan-daza.github.io/general/3/S38/%/S38C.pdf)
+
 ## **Trente-huitième semaine II**
 
 !!! pied-piper ""
