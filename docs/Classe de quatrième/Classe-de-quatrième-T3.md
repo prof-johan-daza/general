@@ -8,6 +8,10 @@
     Feuille de l'élève – Cours – Exercices circuits  
     [Cliquez ici pour télécharger les documents - Auteur : Raphaël Chay](https://prof-johan-daza.github.io/general/4/S33/S33.pdf)
 
+!!! pied-piper ""
+    Corrigé – Cours – Exercices circuits  
+    [Cliquez ici pour télécharger les documents - Auteur : Raphaël Chay](https://prof-johan-daza.github.io/general/4/S33/S33C.pdf)
+
 ## Trente-quatrième semaine
 
 ### *Troisième feuille – Décrire un mouvement*
@@ -17,7 +21,15 @@
     [Cliquez ici](https://mouv.web-labosims.org/)
 
 ## Trente-cinquième semaine
-<!-- ### Vingtième feuille -->
+
+!!! pied-piper ""
+    Feuille de l'élève – Cours – Exercices calcul de la vitesse
+    [Cliquez ici pour télécharger les documents - Auteur : Raphaël Chay](https://prof-johan-daza.github.io/general/4/S37/S37.pdf)
+
+!!! pied-piper ""
+    Corrigé – Cours – Exercices calcul de la vitesse
+    [Cliquez ici pour télécharger les documents - Auteur : Raphaël Chay](https://prof-johan-daza.github.io/general/4/S37/S37C.pdf)
+
 ## Trente-sixième semaine
 <!-- ### Vingt-et-unième feuille -->
 ## Trente-septième semaine
