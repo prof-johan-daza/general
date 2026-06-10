@@ -202,9 +202,6 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 !!! pied-piper ""
     [S41.pdf](https://prof-johan-daza.github.io/general/3/S41/S41.pdf)
 
-!!! pied-piper ""
-    [S41C.pdf – Corrigé](https://prof-johan-daza.github.io/general/3/S41/S41C.pdf)
-
 ## **Quarante et unième semaine – II**
 
 !!! pied-piper ""
