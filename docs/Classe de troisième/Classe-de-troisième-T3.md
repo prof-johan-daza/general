@@ -184,20 +184,55 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
 !!! pied-piper ""
     [Cliquez ici pour télécharger les documents – Onzième feuille Énergie et Mouveme. EXOS - Auteur : Raphaël Chay](https://prof-johan-daza.github.io/general/3/S39/S39.pdf)
 
-## **Quarantième semaine**
+## **Quarantième semaine – I**
 
 !!! pied-piper ""
     Évaluation de fin de chapitre
 
-## **S41–1**
+## **Quarantième semaine – II**
 
 !!! pied-piper ""
-    [S41](https://prof-johan-daza.github.io/general/3/S41/S41.pdf)
+    [S40II.pdf – Brevet 2019](https://prof-johan-daza.github.io/general/3/S40/S40II.pdf)
 
 !!! pied-piper ""
-    [S41C](https://prof-johan-daza.github.io/general/3/S41/S41C.pdf)
+    [S40IIC.pdf – Brevet 2019 corrigé](https://prof-johan-daza.github.io/general/3/S40/S40IIC.pdf)
 
-## **S41–2**
+## **Quarante et unième semaine – I**
 
 !!! pied-piper ""
-    [S41II](https://prof-johan-daza.github.io/general/3/S41II/S41II.pdf)
+    [S41.pdf](https://prof-johan-daza.github.io/general/3/S41/S41.pdf)
+
+!!! pied-piper ""
+    [S41C.pdf – Corrigé](https://prof-johan-daza.github.io/general/3/S41/S41C.pdf)
+
+## **Quarante et unième semaine – II**
+
+!!! pied-piper ""
+    [S41II.pdf](https://prof-johan-daza.github.io/general/3/S41/S41II.pdf)
+
+!!! pied-piper ""
+    [S41IIC.pdf – Corrigé](https://prof-johan-daza.github.io/general/3/S41/S41IIC.pdf)
+
+## **Quarante-deuxième – I**
+
+!!! pied-piper ""
+    [S42.pdf](https://prof-johan-daza.github.io/general/3/S42/S42.pdf)
+
+!!! pied-piper ""
+    [S42C.pdf – Corrigé](https://prof-johan-daza.github.io/general/3/S42/S42C.pdf)
+
+## **Quarante-deuxième – II**
+
+!!! pied-piper ""
+    [S42II.pdf](https://prof-johan-daza.github.io/general/3/S42/S42II.pdf)
+
+!!! pied-piper ""
+    [S42IIC.pdf – Corrigé](https://prof-johan-daza.github.io/general/3/S42/S42IIC.pdf)
+
+## **Quarante-troisième**
+
+!!! pied-piper ""
+    [S43.pdf](https://prof-johan-daza.github.io/general/3/S43/S43.pdf)
+
+!!! pied-piper ""
+    [S43C.pdf – Corrigé](https://prof-johan-daza.github.io/general/3/S43/S43C.pdf)
