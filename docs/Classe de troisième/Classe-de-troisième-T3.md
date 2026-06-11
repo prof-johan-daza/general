@@ -216,11 +216,12 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
     [S42.pdf](https://prof-johan-daza.github.io/general/3/S42/S42.pdf)
     !!! pied-piper ""
         Mots clés  
+        $U\times I$  
         courant  
-        énergie
+        énergie  
         
-        $HO^- + H^+ \rightarrow H_2O$  
-        $2\,H^+ + Fe \rightarrow H_2 + Fe^{2+}$
+        $$  
+        $$
 
 !!! pied-piper ""
     [S42C.pdf – Corrigé](https://prof-johan-daza.github.io/general/3/S42/S42C.pdf)
