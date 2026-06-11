@@ -216,12 +216,16 @@ Semaine 29 – "Modèles de l'atome – Ions – Élément chimique"
     [S42.pdf](https://prof-johan-daza.github.io/general/3/S42/S42.pdf)
     !!! pied-piper ""
         Mots clés  
+        $3,6\times 10^{6}J$  
         $U\times I$  
         courant  
-        énergie  
-        
-        $$  
-        $$
+        $R\times I^{2}$  
+        $P_{\text{électrique}} \times \Delta t$  
+        $R\times I^{2}\times \Delta t$  
+        $U\times I\times \Delta t$  
+        kilowattheure (kWh)  
+        3600 J  
+        énergie
 
 !!! pied-piper ""
     [S42C.pdf – Corrigé](https://prof-johan-daza.github.io/general/3/S42/S42C.pdf)
