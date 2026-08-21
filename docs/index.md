@@ -1,9 +1,4 @@
 # Répartition trimestrielle — année scolaire 2026-2027
-### Lycée Français Louis Pasteur, Bogotá (AEFE)
-
-43 semaines réparties en trois trimestres (14 / 14 / 15), calculées à partir du calendrier scolaire officiel : rentrée des élèves le mercredi 2 septembre 2026, semaines comptées du lundi au vendredi.
-
-**Légende :** les semaines de vacances complètes sont indiquées par un trait (— … —) ; les jours fériés isolés qui tombent dans une semaine de cours normale sont notés en remarque.
 
 ---
 
