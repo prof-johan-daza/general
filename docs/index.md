@@ -1,55 +1,73 @@
-# Année scolaire
+# Répartition trimestrielle — année scolaire 2026-2027
+### Lycée Français Louis Pasteur, Bogotá (AEFE)
 
-L’année scolaire 2025-2026 comprend 43 semaines. Pour vous aider à mieux visualiser le déroulement de l’année, je vous propose la liste suivante, qui vous permettra de situer plus facilement le temps écoulé au fil des semaines. 3e = 42 élèves, 4e = 41 élèves et 5e = 64 élèves. Total = 147 élèves.
+43 semaines réparties en trois trimestres (14 / 14 / 15), calculées à partir du calendrier scolaire officiel : rentrée des élèves le mercredi 2 septembre 2026, semaines comptées du lundi au vendredi.
 
-## Premier trimestre
+**Légende :** les semaines de vacances complètes sont indiquées par un trait (— … —) ; les jours fériés isolés qui tombent dans une semaine de cours normale sont notés en remarque.
 
-- [x] Semaine 1 – lundi 1 sept. 2025 au vendredi 5 sept. 2025
-- [x] Semaine 2 – lundi 8 sept. 2025 au vendredi 12 sept. 2025
-- [x] Semaine 3 – lundi 15 sept. 2025 au vendredi 19 sept. 2025
-- [x] Semaine 4 – lundi 22 sept. 2025 au vendredi 26 sept. 2025
-- [x] Semaine 5 – lundi 29 sept. 2025 au vendredi 3 oct. 2025
-- [x] Semaine 6 – lundi 6 oct. 2025 au vendredi 10 oct. 2025
-- [x] Semaine 7 – lundi 13 oct. 2025 au vendredi 17 oct. 2025
-- [x] Semaine 8 – lundi 20 oct. 2025 au vendredi 24 oct. 2025
-- [x] Semaine 9 – lundi 27 oct. 2025 au vendredi 31 oct. 2025
-- [x] Semaine 10 – lundi 3 nov. 2025 au vendredi 7 nov. 2025
-- [x] Semaine 11 – lundi 10 nov. 2025 au vendredi 14 nov. 2025
-- [x] Semaine 12 – lundi 17 nov. 2025 au vendredi 21 nov. 2025
-- [x] Semaine 13 – lundi 24 nov. 2025 au vendredi 28 nov. 2025
-- [x] Semaine 14 – lundi 1 déc. 2025 au vendredi 5 déc. 2025
+---
 
-## Deuxième trimestre
+## Trimestre 1 — 31 août 2026 au 4 décembre 2026 (14 semaines)
 
-- [x] Semaine 15 – Semaine 1 – lundi 8 déc. 2025 au vendredi 12 déc. 2025
-- [x] Semaine 16 – Semaine 2 – lundi 15 déc. 2025 au vendredi 19 déc. 2025
-- [x] Semaine 17 – Semaine 3 – lundi 22 déc. 2025 au vendredi 26 déc. 2025
-- [x] Semaine 18 – Semaine 4 – lundi 29 déc. 2025 au vendredi 2 janv. 2026
-- [x] Semaine 19 – Semaine 5 – lundi 5 janv. 2026 au vendredi 9 janv. 2026
-- [x] Semaine 20 – Semaine 6 – lundi 12 janv. 2026 au vendredi 16 janv. 2026
-- [x] Semaine 21 – Semaine 7 – lundi 19 janv. 2026 au vendredi 23 janv. 2026
-- [x] Semaine 22 – Semaine 8 – lundi 26 janv. 2026 au vendredi 30 janv. 2026
-- [x] Semaine 23 – Semaine 9 – lundi 2 févr. 2026 au vendredi 6 févr. 2026
-- [x] Semaine 24 – Semaine 10 – lundi 9 févr. 2026 au vendredi 13 févr. 2026
-- [x] Semaine 25 – Semaine 11 – lundi 16 févr. 2026 au vendredi 20 févr. 2026
-- [x] Semaine 26 – Semaine 12 – lundi 23 févr. 2026 au vendredi 27 févr. 2026
-- [x] Semaine 27 – Semaine 13 – lundi 2 mars 2026 au vendredi 6 mars 2026
-- [x] Semaine 28 – Semaine 14 – lundi 9 mars 2026 au vendredi 13 mars 2026
+| Semaine | Période | Remarque |
+|---|---|---|
+| 01 | 31 août 2026 → 4 septembre 2026 | Pré-rentrée (enseignants) |
+| 02 | 7 septembre 2026 → 11 septembre 2026 |  |
+| 03 | 14 septembre 2026 → 18 septembre 2026 |  |
+| 04 | 21 septembre 2026 → 25 septembre 2026 |  |
+| 05 | 28 septembre 2026 → 2 octobre 2026 |  |
+| 06 | 5 octobre 2026 → 9 octobre 2026 |  |
+| 07 | 12 octobre 2026 → 16 octobre 2026 | Fête de la Raza |
+| 08 | 19 octobre 2026 → 23 octobre 2026 |  |
+| **09** | — *Vacances de la Toussaint* — | Pas de cours |
+| 10 | 2 novembre 2026 → 6 novembre 2026 | Toussaint |
+| 11 | 9 novembre 2026 → 13 novembre 2026 |  |
+| 12 | 16 novembre 2026 → 20 novembre 2026 | Indépendance de Carthagène |
+| 13 | 23 novembre 2026 → 27 novembre 2026 |  |
+| 14 | 30 novembre 2026 → 4 décembre 2026 |  |
 
-## Troisième trimestre
+---
 
-- [ ] Semaine 29 – Semaine 1 – lundi 16 mars 2026 au vendredi 20 mars 2026
-- [ ] Semaine 30 – Semaine 2 – lundi 23 mars 2026 au vendredi 27 mars 2026
-- [ ] Semaine 31 – Semaine 3– lundi 30 mars 2026 au vendredi 3 avr. 2026
-- [ ] Semaine 32 – Semaine 4 - lundi 6 avr. 2026 au vendredi 10 avr. 2026
-- [ ] Semaine 33 – Semaine 5 – lundi 13 avr. 2026 au vendredi 17 avr. 2026
-- [ ] Semaine 34 – Semaine 6 – lundi 20 avr. 2026 au vendredi 24 avr. 2026
-- [ ] Semaine 35 – Semaine 7 – lundi 27 avr. 2026 au vendredi 1 mai 2026
-- [ ] Semaine 36 – Semaine 8 – lundi 4 mai 2026 au vendredi 8 mai 2026
-- [ ] Semaine 37 – Semaine 9 – lundi 11 mai 2026 au vendredi 15 mai 2026
-- [ ] Semaine 38 – Semaine 10 – lundi 18 mai 2026 au vendredi 22 mai 2026
-- [ ] Semaine 39 – Semaine 11 – lundi 25 mai 2026 au vendredi 29 mai 2026
-- [ ] Semaine 40 – Semaine 12 – lundi 1 juin 2026 au vendredi 5 juin 2026
-- [ ] Semaine 41 – Semaine 13 – lundi 8 juin 2026 au vendredi 12 juin 2026
-- [ ] Semaine 42 – Semaine 14– lundi 15 juin 2026 au vendredi 19 juin 2026
-- [ ] Semaine 43 – Semaine 15 – lundi 22 juin 2026 au vendredi 26 juin 2026
+## Trimestre 2 — 7 décembre 2026 au 12 mars 2027 (14 semaines)
+
+| Semaine | Période | Remarque |
+|---|---|---|
+| 15 | 7 décembre 2026 → 11 décembre 2026 | Immaculée Conception |
+| 16 | 14 décembre 2026 → 18 décembre 2026 |  |
+| **17** | — *Vacances de Noël* — | Pas de cours |
+| **18** | — *Vacances de Noël* — | Pas de cours |
+| **19** | — *Vacances de Noël* — | Pas de cours |
+| 20 | 11 janvier 2027 → 15 janvier 2027 | Épiphanie (Rois Mages) |
+| 21 | 18 janvier 2027 → 22 janvier 2027 |  |
+| 22 | 25 janvier 2027 → 29 janvier 2027 |  |
+| 23 | 1 février 2027 → 5 février 2027 |  |
+| 24 | 8 février 2027 → 12 février 2027 |  |
+| **25** | — *Vacances de février* — | Pas de cours |
+| 26 | 22 février 2027 → 26 février 2027 |  |
+| 27 | 1 mars 2027 → 5 mars 2027 |  |
+| 28 | 8 mars 2027 → 12 mars 2027 |  |
+
+---
+
+## Trimestre 3 — 15 mars 2027 au 25 juin 2027 (15 semaines)
+
+| Semaine | Période | Remarque |
+|---|---|---|
+| 29 | 15 mars 2027 → 19 mars 2027 |  |
+| 30 | 22 mars 2027 → 26 mars 2027 | San José, Jeudi Saint, Vendredi Saint |
+| 31 | 29 mars 2027 → 2 avril 2027 |  |
+| 32 | 5 avril 2027 → 9 avril 2027 |  |
+| 33 | 12 avril 2027 → 16 avril 2027 |  |
+| 34 | 19 avril 2027 → 23 avril 2027 |  |
+| 35 | 26 avril 2027 → 30 avril 2027 |  |
+| 36 | 3 mai 2027 → 7 mai 2027 |  |
+| 37 | 10 mai 2027 → 14 mai 2027 | Ascension |
+| 38 | 17 mai 2027 → 21 mai 2027 |  |
+| 39 | 24 mai 2027 → 28 mai 2027 |  |
+| 40 | 31 mai 2027 → 4 juin 2027 |  |
+| 41 | 7 juin 2027 → 11 juin 2027 | Sacré-Cœur (Corpus Christi) |
+| 42 | 14 juin 2027 → 18 juin 2027 |  |
+| 43 | 21 juin 2027 → 25 juin 2027 |  |
+
+---
+
