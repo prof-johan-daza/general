@@ -30,9 +30,8 @@ theme:
 nav:
 
   - Année scolaire: index.md
-  - Distingués: Distingués.md
   - LPI: LPI.md
-  - Sonnerie : Sonnerie.md
+  - Équivalences: Équivalences.md
   - Calendrier: Calendrier.md
   - 'Pronote': 
       - Troisième : Pronote/Pronote3e.md
