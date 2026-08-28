@@ -1,8 +1,8 @@
-# Répartition trimestrielle — année scolaire 2026-2027
+# 2026-2027
 
 ---
 
-## Trimestre 1 — 31 août 2026 au 4 décembre 2026 (14 semaines)
+## Premier trimestre
 
 - [ ] Semaine 1 – 31 août 2026 → 4 septembre 2026
        - [ ] Pré-rentrée (enseignants)
