@@ -1,31 +1,110 @@
-# Pronote 3e
+# Classe de troisième
 
-## 3e2 et 3e5
+---
 
-### Troisième trimestre – Notes coefficient 0,1 au 27 avril 2026
+## 3e4P1 et 3e4P2
 
-- [x] S26 – |1.Première feuille – Corrigé| – Coefficient 0,25
+---
 
-- [x] S27 – |2.Deuxième feuille – Corrigé| – Coefficient 0,25
+### Premier trimestre
 
-- [x] S28 – |3.Troisième feuille TP| – Coefficient 0,25
+- [ ] Note 1 – 
+       - [ ] Coefficient
+- [ ] Note 2 – 
+       - [ ] Coefficient
+- [ ] Note 3 – 
+       - [ ] Coefficient
+- [ ] Note 4 – 
+       - [ ] Coefficient
+- [ ] Note 5 – 
+       - [ ] Coefficient
+- [ ] Note 6 – 
+       - [ ] Coefficient
+- [ ] Note 7 – 
+       - [ ] Coefficient
+- [ ] Note 8 – 
+       - [ ] Coefficient
+- [ ] Note 9 – 
+       - [ ] Coefficient
+- [ ] Note 10 – 
+       - [ ] Coefficient
+- [ ] Note 11 – 
+       - [ ] Coefficient
+- [ ] Note 12 – 
+       - [ ] Coefficient
+- [ ] Note 13 – 
+       - [ ] Coefficient
+- [ ] Note 14 – 
+       - [ ] Coefficient
+- [ ] Note 15 – 
+       - [ ] Coefficient
 
-- [x] S29 – |4.Quatrième·feuille·Atom·et·ions·COURS| – Coefficient 0,25
+---
 
-- [x] S30 – |5.Cinquième·feuille·Atom·et·ions·EXOS| – Coefficient 0,25
+### Deuxième trimestre
 
-- [x] S33 – |6.Septièm·feuil·Identi·d·quelques·ionsTP| – Coefficient 0,25
+- [ ] Note 1 – 
+       - [ ] Coefficient
+- [ ] Note 2 – 
+       - [ ] Coefficient
+- [ ] Note 3 – 
+       - [ ] Coefficient
+- [ ] Note 4 – 
+       - [ ] Coefficient
+- [ ] Note 5 – 
+       - [ ] Coefficient
+- [ ] Note 6 – 
+       - [ ] Coefficient
+- [ ] Note 7 – 
+       - [ ] Coefficient
+- [ ] Note 8 – 
+       - [ ] Coefficient
+- [ ] Note 9 – 
+       - [ ] Coefficient
+- [ ] Note 10 – 
+       - [ ] Coefficient
+- [ ] Note 11 – 
+       - [ ] Coefficient
+- [ ] Note 12 – 
+       - [ ] Coefficient
+- [ ] Note 13 – 
+       - [ ] Coefficient
+- [ ] Note 14 – 
+       - [ ] Coefficient
+- [ ] Note 15 – 
+       - [ ] Coefficient
 
-- [x] S35 – |7. Brevet blanc SPC 2| – Coefficient 1
+---
 
-- [x] S35II – |8. Acides et bases PH Peau| – Coefficient 0,25
+### Troisième trimestre
 
-- [x] S36 – |9.Huitiè·feuille Transforma./R chimiques| – Coefficient 0,25
-
-- [x] S38 – |10.Neuviè·feuille Transfor./R chimi.EXOS| – Coefficient 0,25
-
-- [x] S38II – |11.Dixième feuille Énerg. et Mouve.COURS| – Coefficient 0,25
-
-- [x] S39 – |12.Onziè. feuille Énerg. et Mouveme.EXOS| – Coefficient 0,25
-
-- [x] S40 – |13. Évaluation de fin de chapitre| – Coefficient 1,5
+- [ ] Note 1 – 
+       - [ ] Coefficient
+- [ ] Note 2 – 
+       - [ ] Coefficient
+- [ ] Note 3 – 
+       - [ ] Coefficient
+- [ ] Note 4 – 
+       - [ ] Coefficient
+- [ ] Note 5 – 
+       - [ ] Coefficient
+- [ ] Note 6 – 
+       - [ ] Coefficient
+- [ ] Note 7 – 
+       - [ ] Coefficient
+- [ ] Note 8 – 
+       - [ ] Coefficient
+- [ ] Note 9 – 
+       - [ ] Coefficient
+- [ ] Note 10 – 
+       - [ ] Coefficient
+- [ ] Note 11 – 
+       - [ ] Coefficient
+- [ ] Note 12 – 
+       - [ ] Coefficient
+- [ ] Note 13 – 
+       - [ ] Coefficient
+- [ ] Note 14 – 
+       - [ ] Coefficient
+- [ ] Note 15 – 
+       - [ ] Coefficient

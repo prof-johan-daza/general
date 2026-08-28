@@ -1,13 +1,110 @@
-# Pronote 5e
+# Classe de cinquième
 
-## 5e3, 5e4 et 5e5
+---
+
+## 5e5P1 et 5e5P2
+
+---
+
+### Premier trimestre
+
+- [ ] Note 1 – 
+       - [ ] Coefficient
+- [ ] Note 2 – 
+       - [ ] Coefficient
+- [ ] Note 3 – 
+       - [ ] Coefficient
+- [ ] Note 4 – 
+       - [ ] Coefficient
+- [ ] Note 5 – 
+       - [ ] Coefficient
+- [ ] Note 6 – 
+       - [ ] Coefficient
+- [ ] Note 7 – 
+       - [ ] Coefficient
+- [ ] Note 8 – 
+       - [ ] Coefficient
+- [ ] Note 9 – 
+       - [ ] Coefficient
+- [ ] Note 10 – 
+       - [ ] Coefficient
+- [ ] Note 11 – 
+       - [ ] Coefficient
+- [ ] Note 12 – 
+       - [ ] Coefficient
+- [ ] Note 13 – 
+       - [ ] Coefficient
+- [ ] Note 14 – 
+       - [ ] Coefficient
+- [ ] Note 15 – 
+       - [ ] Coefficient
+
+---
+
+### Deuxième trimestre
+
+- [ ] Note 1 – 
+       - [ ] Coefficient
+- [ ] Note 2 – 
+       - [ ] Coefficient
+- [ ] Note 3 – 
+       - [ ] Coefficient
+- [ ] Note 4 – 
+       - [ ] Coefficient
+- [ ] Note 5 – 
+       - [ ] Coefficient
+- [ ] Note 6 – 
+       - [ ] Coefficient
+- [ ] Note 7 – 
+       - [ ] Coefficient
+- [ ] Note 8 – 
+       - [ ] Coefficient
+- [ ] Note 9 – 
+       - [ ] Coefficient
+- [ ] Note 10 – 
+       - [ ] Coefficient
+- [ ] Note 11 – 
+       - [ ] Coefficient
+- [ ] Note 12 – 
+       - [ ] Coefficient
+- [ ] Note 13 – 
+       - [ ] Coefficient
+- [ ] Note 14 – 
+       - [ ] Coefficient
+- [ ] Note 15 – 
+       - [ ] Coefficient
+
+---
 
 ### Troisième trimestre
 
-- [x] S27 – |1.Travaux pratiques Labo Purs et Mélange| – Coefficient à définir
-
-- [x] S28 – |2. Projet système solaire à l’échelle| – Coefficient à définir
-
-- [x] S38 – |3. Avancement et Corrigé Conver. Unités| – Coefficient à définir
-
-- [x] S40 – |4. Évaluation de fin de chapitre| – Coefficient 2
+- [ ] Note 1 – 
+       - [ ] Coefficient
+- [ ] Note 2 – 
+       - [ ] Coefficient
+- [ ] Note 3 – 
+       - [ ] Coefficient
+- [ ] Note 4 – 
+       - [ ] Coefficient
+- [ ] Note 5 – 
+       - [ ] Coefficient
+- [ ] Note 6 – 
+       - [ ] Coefficient
+- [ ] Note 7 – 
+       - [ ] Coefficient
+- [ ] Note 8 – 
+       - [ ] Coefficient
+- [ ] Note 9 – 
+       - [ ] Coefficient
+- [ ] Note 10 – 
+       - [ ] Coefficient
+- [ ] Note 11 – 
+       - [ ] Coefficient
+- [ ] Note 12 – 
+       - [ ] Coefficient
+- [ ] Note 13 – 
+       - [ ] Coefficient
+- [ ] Note 14 – 
+       - [ ] Coefficient
+- [ ] Note 15 – 
+       - [ ] Coefficient

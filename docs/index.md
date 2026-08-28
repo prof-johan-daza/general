@@ -24,6 +24,8 @@
 - [ ] Semaine 13 – 23 novembre 2026 → 27 novembre 2026
 - [ ] Semaine 14 – 30 novembre 2026 → 4 décembre 2026
 
+---
+
 ## Deuxième trimestre
 
 - [ ] Semaine 1 – 7 décembre 2026 → 11 décembre 2026
