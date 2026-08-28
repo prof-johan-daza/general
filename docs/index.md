@@ -4,22 +4,25 @@
 
 ## Trimestre 1 — 31 août 2026 au 4 décembre 2026 (14 semaines)
 
-| Semaine | Période | Remarque |
-|---|---|---|
-| 01 | 31 août 2026 → 4 septembre 2026 | Pré-rentrée (enseignants) |
-| 02 | 7 septembre 2026 → 11 septembre 2026 |  |
-| 03 | 14 septembre 2026 → 18 septembre 2026 |  |
-| 04 | 21 septembre 2026 → 25 septembre 2026 |  |
-| 05 | 28 septembre 2026 → 2 octobre 2026 |  |
-| 06 | 5 octobre 2026 → 9 octobre 2026 |  |
-| 07 | 12 octobre 2026 → 16 octobre 2026 | Fête de la Raza |
-| 08 | 19 octobre 2026 → 23 octobre 2026 |  |
-| **09** | — *Vacances de la Toussaint* — | Pas de cours |
-| 10 | 2 novembre 2026 → 6 novembre 2026 | Toussaint |
-| 11 | 9 novembre 2026 → 13 novembre 2026 |  |
-| 12 | 16 novembre 2026 → 20 novembre 2026 | Indépendance de Carthagène |
-| 13 | 23 novembre 2026 → 27 novembre 2026 |  |
-| 14 | 30 novembre 2026 → 4 décembre 2026 |  |
+- [ ] Semaine 1 – 31 août 2026 → 4 septembre 2026
+       - [ ] Pré-rentrée (enseignants)
+- [ ] Semaine 2 – 7 septembre 2026 → 11 septembre 2026
+- [ ] Semaine 3 – 14 septembre 2026 → 18 septembre 2026
+- [ ] Semaine 4 – 21 septembre 2026 → 25 septembre 2026
+- [ ] Semaine 5 – 28 septembre 2026 → 2 octobre 2026
+- [ ] Semaine 6 – 5 octobre 2026 → 9 octobre 2026
+- [ ] Semaine 7 – 12 octobre 2026 → 16 octobre 2026
+       - [ ] Fête de la Raza
+- [ ] Semaine 8 – 19 octobre 2026 → 23 octobre 2026
+- [ ] Semaine 9 – Vacances de la Toussaint
+       - [ ] Pas de cours
+- [ ] Semaine 10 – 2 novembre 2026 → 6 novembre 2026
+       - [ ] Toussaint
+- [ ] Semaine 11 – 9 novembre 2026 → 13 novembre 2026
+- [ ] Semaine 12 – 16 novembre 2026 → 20 novembre 2026
+       - [ ] Indépendance de Carthagène
+- [ ] Semaine 13 – 23 novembre 2026 → 27 novembre 2026
+- [ ] Semaine 14 – 30 novembre 2026 → 4 décembre 2026
 
 ---
 
