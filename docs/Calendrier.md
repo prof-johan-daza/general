@@ -1,4 +1,4 @@
-## Calendrier scolaire 2026 - 2027
+## Calendrier scolaire
 
 !!! question ""
 
